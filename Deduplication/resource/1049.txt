@@ -1,0 +1,4752 @@
+>
+
+	
+		<field name="slideshow_id">36626808</field>
+		<field name="slide_text">gateway to growth
+CBI/Pearson education and skills survey 2014
+About the sponsor
+Pearson aspires to be the worldâ€™s leading learning
+company. It offers many different forms of learning,
+delivered in a personal style, in over 70 countries
+around the world. In the UK, the company has an
+educational heritage rooted in names like Longman,
+Heinemann, Prentice Hall, BTEC and the exam
+awarding body Edexcel.
+Every part of the Pearson family is connected
+to learning and all of them demonstrate our
+commitment to the very highest standards of
+learning around the world. In the UK and many
+other countries, Pearson has built a reputation for
+improving learning through innovation in education.
+We are committed to continuing that process for
+years to come.
+â€˜Always learningâ€™ is not just what we believe, itâ€™s what
+we do. Learn more at www.pearson.com/uk
+For Pearson, contact:
+Martin Oâ€™Donovan
+Director
+Strategic Communications
+Pearson UK
+One90 High Holborn
+London
+WC1V 7BH
+United Kingdom
+D: +44 (0)20 7190 5372
+E: martin.odonovan@pearson.com
+W: www.pearson.com
+Contents
+Foreword by Katja Hall, CBI	 4
+Foreword by Mark Anderson, 	 5
+Pearson
+Executive summary	 6
+Chapters
+1	 The education and skills landscape 	 10
+	 in 2014
+2	 The seventh education and skills	 16	
+	survey
+3	 The recovery faces a mounting
+	 risk of skill shortages	 18
+4	 STEM skills in short supply	 24
+5	 Businesses are stepping up skills	 32	
+	investment	
+6	 Shaping a fully effective 	 40
+	 apprenticeship system
+7	 Raising the performance of our	 44
+	schools
+8	 Businesses recognise the need to	 56
+	 support schools
+9	 Careers advice: not yet fit for 	 62
+	purpose	
+10	Developing the right skills in	 66
+	graduates
+11	Businesses and universities: 	 72
+	 partnering for growth
+References	75
+4 Gateway to growth: CBI/Pearson education and skills survey 2014
+Katja Hall
+foreword
+Employers know that there is no more important issue facing our
+economy than getting the education and skills system right â€“ it is
+crucial to cementing recent improvements in growth sustainably
+over the longer term. Itâ€™s essential we build the right skills base if
+weâ€™re to support a rebalancing towards those high-value, high-skill
+activities that will underpin our role in the global marketplace.
+The CBIâ€™s First Steps report set out the business
+priorities for education. Our focus must be on striving
+to develop rigorous, rounded and grounded young
+people that are better prepared to succeed and
+better able to help businesses thrive. The Education
+and Skills survey year on year reflects this analysis:
+employers rate attitudes and aptitudes in school and
+college leavers as their top priority. Weâ€™ve started to
+see progress but thereâ€™s no doubt weâ€™re only a short
+way along this path to successful reform.
+The 2014 edition shows that business is clear that
+we must keep up the push for progress. Reform of
+the education system needs to clearly set out what
+we want our schools to deliver â€“ young people with
+not only knowledge and skills but also with the
+characteristics and behaviours that set them up for
+success in life and work â€“ and effectively hold schools
+to account against this. Weâ€™ve got to make sure that
+all young people receive an education that will enable
+them to fulfil their potential â€“ in every school across
+the UK, whatever the area and whoever is in charge.
+This yearâ€™s survey also shows us that many
+businesses remain concerned about the challenges
+they have with filling the roles of the future that
+will require more high-skilled employees. Beyond
+schools, a more responsive and demand-led system
+of skills development is needed to overcome this.
+The increased take up of advanced and higher
+apprenticeships and commitment to funding training
+at higher levels is a promising development, but itâ€™s
+also vital that this doesnâ€™t result in a continued drop-
+off in numbers undertaking apprenticeships at an
+intermediate level.
+Employers want to play a bigger part too. There have
+been encouraging steps taken to move towards the
+employer-driven skills system we need, but increased
+business engagement in schools can add even more
+value to the school environment â€“ from engagement
+within careers guidance and professionals
+volunteering as governors, to sponsoring academies
+and supporting curriculum development related
+to their industry. Business is already doing a lot to
+support young people in this way â€“ but there is real
+potential to scale this up for the benefit of all. A local
+system of brokerage to support these links could be
+of significant value.
+Itâ€™s obvious that it will take time before the full effects
+of the reforms seen over the last 12 months take hold.
+But in the meantime, we must continue the journey
+of reform to make sure we support the development
+of the skills, knowledge and people that will enable
+British businesses to grow and compete now and in
+the future.
+Katja Hall
+Deputy director-general, CBI
+5Gateway to growth: CBI/Pearson education and skills survey 2014
+foreword
+Mark Anderson, Pearson
+Young people in our country are trying to adapt to a fast
+changing world, full of new opportunities but also facing a tough
+economic climate and a fight for jobs. Last year we spoke to over
+8,000 learners in our My Education census, and we heard from
+an ambitious generation who know it will be challenging to find
+work. They sent a clear message: they wanted to develop more of
+the skills required to succeed in the workplace.
+Conversely, we know through our work with the CBI
+on this survey in recent years that employers are
+regularly voicing concern over the job readiness of too
+many young people. This is echoed by voices in higher
+education, who feel that many incoming students lack
+some of the qualities they will need to succeed.
+Adding to this backdrop â€“ and in order to rejuvenate
+our economy so we remain competitive against the
+levels of academic and technical prowess of young
+people in other countries â€“ significant reforms are
+being made in education.
+I want Pearson to be one of the companies that
+helps to bring these complementary demands and
+changes together. We agree that young people should
+receive more of the skills, know-how and support
+they crave as they contemplate their future career;
+as an employer we think itâ€™s important that the young
+people we recruit have the skills we need if we are
+to continue to succeed; and as a global education
+company we understand the need to reform education
+to meet the challenges posed by globalisation and
+rapid technological advances.
+Critical to meeting these challenges will be the vital
+role that apprenticeships and vocational qualifications
+like Pearsonâ€™s BTEC can play in ensuring we have the
+highly-skilled and versatile workforce we will need in
+the future.
+BTECs are currently being reformed to meet the
+needs of future employee and employer alike, and the
+reforms we are making are informed by the advice
+and guidance of a panel of international education
+and employment experts, under our world class
+qualification programme. We are determined that
+BTEC represents valuable, stretching and engaging
+learning, enabling progression into the next stage
+of education or into a good job. And what is more,
+through our work on the efficacy of our products and
+services, we are committed to collecting the data and
+evidence that will enable us to prove the progress
+that learners make through BTEC.
+It is particularly encouraging that the report
+confirms the upward trend in employers involved
+in apprenticeships, with two thirds of those offering
+apprenticeships planning to extend their programmes
+in future. When we look at best practice around
+the world (in places like Australia, Denmark,
+Germany, Singapore, and Switzerland) the common
+denominator is that they have well-developed national
+vocational systems. Apprenticeships cannot be some
+kind of â€œlast resortâ€ but rather a strong potential
+choice from early secondary school â€“ and part of a
+range of options that keep choices and opportunities
+open. We strongly welcome the commitment made in
+the UK to Apprenticeships.
+This report underlines the demand for a much greater
+focus on improved vocational learning. Employers and
+learners alike demand nothing less.
+Mark Anderson,
+Managing Director, Pearson UK
+6 Gateway to growth: CBI/Pearson education and skills survey 2014
+Executive summary
+The education and skills landscape in 2014
+â€¢	 The recovery continues to advance, with stronger
+growth and higher levels of employment than seen
+in recent years â€“ however improved education
+and skills are needed to secure these positive
+developments.
+â€¢	 Too many young people are still leaving school
+without the core of literacy and numeracy they
+need to be successful in life and work â€“ with 36.4%
+not achieving a C in GCSE English and 42.4% not
+reaching this standard in maths.
+â€¢	 The UKâ€™s position in international education rankings
+has stagnated, highlighting the need for action.
+â€¢	 Whilst youth unemployment levels have improved
+over the last 12 months, they remain high, and
+we must ensure the right structures are in place
+to support young people in their transitions from
+school.
+â€¢	 Employers continue to support staff through
+training and development, but it is crucial that
+skills being developed reflect the needs of the
+labour market.
+The seventh education and skills survey
+â€¢	 The CBI/Pearson education and skills survey was
+conducted in the spring of 2014
+â€¢	 Usable responses were received from 291
+employers, collectively employing more than 1.4
+million people. Participant organisations are drawn
+from all sectors of the economy and are of all sizes
+The recovery faces a mounting risk of skill
+shortages	
+â€¢	 Most employers consider overall skill levels
+among their employees have been satisfactory
+for their functions to date, with more than two
+thirds (69%) rating the skills of their high-skilled
+employees as good
+â€¢	 But more than half of employers are aware of
+weaknesses in the core competencies of at
+least some of their employees in literacy (54%),
+numeracy (53%) and IT skills (61%)
+â€¢	 The drive towards a higher-skill economy means
+that over the next three to five years, far more
+businesses expect to increase the number of jobs
+requiring leadership and management skills and
+higher skills than expect to reduce them (positive
+balances of +73% and +71% respectively)
+â€¢	 Almost as many employers expect to decrease
+the number of low-skilled employees in the next
+few years as to increase the number (producing a
+small positive balance of +5%), meaning there will
+be tough competition for jobs among those with
+lower skill levels
+â€¢	 Demand for more people with higher-level skills
+is expected to be particularly strong in sectors
+central to growth such as engineering (+95%),
+manufacturing (+76%) and construction (+69%)
+â€¢	 Growing numbers of businesses are worried there
+will not be sufficient skilled people to meet this
+rising demand as the economic recovery gains
+pace (with a balance of -23% not confident they
+will be able to fill all their higher-skills roles)
+â€¢	 The confidence deficit on the availability of enough
+people with the right high-level skills applies
+across firms of all sizes, in all nations of the UK
+and all major sectors.
+7Gateway to growth: CBI/Pearson education and skills survey 2014
+STEM skills in short supply	
+â€¢	 Nearly two in five firms (39%) that need employees
+with STEM skills and knowledge currently have
+difficulties recruiting staff at some level and over
+half (53%) expect problems in the next three years
+â€¢	 Shortages of STEM-qualified technicians are
+particularly widespread, with more than a quarter
+(28%) of firms in STEM-based sectors reporting
+current difficulties in recruitment and more than
+a third (35%) anticipating problems over the next
+three years
+â€¢	 Shortages of STEM graduates are also starting
+to be experienced (by 19%) and are expected to
+affect many more STEM-based firms (28%) in the
+coming years
+â€¢	 Difficulties in recruiting people with STEM skills
+are expected to be most severe in the construction
+sector as major new projects get under way, with
+firms anticipating problems in the next three years
+in finding technicians (48%), graduate recruits (37%)
+and suitable people to train as apprentices (36%)
+â€¢	 Businesses have concerns about both the quality
+(48%) and quantity (46%) of STEM graduates,
+and report that too many lack general workplace
+experience (39%)
+â€¢	 To fire interest among young people in studying
+STEM subjects and pursuing STEM careers,
+businesses recognise that they have a key role in
+engaging with schools (57%) and offering more
+STEM-based apprenticeships (57%). They also see
+the need to work with universities to ensure the
+business-relevance of courses (54%)
+â€¢	 There is a critically important role for government
+in ensuring there is an adequate supply of
+specialist science and maths teachers in
+schools to equip young people with knowledge
+and enthusiasm for STEM (cited by 50% of
+respondents).
+Businesses are stepping up skills
+investment	
+â€¢	 Far more firms plan to increase their investment
+in employee training and development during the
+coming year than plan to cut back (producing a
+positive balance of +26%)
+â€¢	 The positive balance of firms planning increased
+investment over those planning reductions is
+particularly strong in construction at +44%,
+reflecting recognition of the need to tackle skill
+shortages
+â€¢	 Businesses are having to divert some of their
+training investment to tackle weaknesses in basic
+skills of numeracy, literacy and IT competence,
+with nearly half of employers (44%) saying they
+have organised training in at least one basic skill
+area in the past year for adult employees and more
+than a quarter (28%) for some young people joining
+from school or college
+â€¢	 Most businesses rely on external training partners
+to at least some extent, with 49% of training on
+average delivered by external providers
+â€¢	 While private providers lead on every satisfaction
+measure, the great majority of businesses give a
+positive rating too to FE colleges and universities
+on essential issues such as the quality of trainers
+and the relevance of course content to skill and
+business needs
+â€¢	 To drive forward employer ownership of the skills
+agenda, basing qualification design on employer
+needs and industry standards is cited as among
+the leading priorities by more than four in five
+business (84%) and as the single most important
+one by over half (54%).
+8 Gateway to growth: CBI/Pearson education and skills survey 2014
+Executive summary
+Shaping a fully effective apprenticeship
+system	
+â€¢	 The proportion of employers involved in
+apprenticeships has risen to more than two thirds
+of our survey in the past two years (69% in 2013
+and 68% in 2014) from only half (51%) in 2009
+â€¢	 Two thirds of those offering apprenticeships (69%)
+plan to extend their programmes in future while
+across all respondents one in eight (13%) plans to
+start offering apprenticeships in the next three years
+â€¢	 Provision of apprenticeships is spreading into new
+sectors such professional services (where 42% of
+businesses now have at least some apprentices)
+â€¢	 Leading priorities for action to encourage
+expansion in apprenticeship programmes include
+more relevant qualification programmes (44%),
+giving firms greater purchasing power by routing
+the apprenticeship grant directly to employers
+(34%) and reducing bureaucracy (31%)
+â€¢	 Greater simplification and streamlining of the
+system and action by schools to prepare young
+people would encourage increased provision by
+SMEs â€“ currently half of SMEs have no apprentices
+compared to less than one on ten (8%) firms with
+over 5,000 employees.
+Raising the performance of our schools
+â€¢	 Businesses are becoming concerned about the
+increasing educational divergence between
+different UK nations: two thirds (67%) believe
+it is important that qualifications are directly
+comparable and readily understood by employers
+â€¢	 Levels of awareness about the new vocational
+qualifications are very low among businesses, with
+85% knowing little or nothing about them.
+â€¢	 The most important factors employers weigh up
+when recruiting school and college leavers are their
+attitudes to work (85%), their general aptitudes
+(63%) and literacy and numeracy (44%). These rank
+well ahead of formal academic results (38%)
+â€¢	 Many businesses are not satisfied with the
+attitudes and skills of school leavers in important
+areas including attitudes to work (33%), teamwork
+(36%), basic numeracy (38%), problem solving
+(50%) and communication skills (52%)
+â€¢	 Businesses want to see primary schools
+concentrating above all on developing pupilsâ€™
+literacy and numeracy (85%), with these also as
+the most commonly cited priority (by 62%) in the
+11-14 phase of schooling
+â€¢	 For the 14-19 age group, employers believe the
+top priority for schools and colleges should be
+developing awareness of working life with support
+from businesses (52%)
+â€¢	 	Almost two thirds of businesses (65%) value
+foreign language skills among their employees,
+particularly in helping build relations with clients,
+customers and suppliers (28%)
+â€¢	 French (50%) and German (49%) are the leading
+languages in demand by firms, but those geared to
+business in China are increasingly seen as useful
+(with those valuing knowledge of Mandarin up
+from 25% in 2012 to 31% in 2014).
+Businesses recognise the need to support
+schools	
+â€¢	 Eight out of ten businesses (80%) now have links of
+some type with at least one school or college
+â€¢	 Over the past year, the balance of firms increasing
+their links with schools and colleges over those
+reducing them has climbed to +51%
+â€¢	 While two thirds of businesses have links with
+secondary schools (64%) and FE colleges (63%),
+only a third (31%) have links to primaries
+â€¢	 Among employers with links to schools and
+colleges, the most common forms of support are
+offering work experience placements (77%) and
+providing careers advice and talks (67%)
+â€¢	 Other widespread forms of business support
+include involvement in schemes to promote study
+of particular subjects (36%), employees acting as
+governors (32%) and employees becoming student
+mentors (31%)
+9Gateway to growth: CBI/Pearson education and skills survey 2014
+â€¢	 Progress is slow on tackling barriers to business
+involvement, with widespread uncertainty over
+how to make work experience worthwhile (31%),
+lack of interest among schools or pupils (19%) and
+problems in fitting involvement with the school
+timetable (19%)
+Careers advice: not yet fit for purpose	
+â€¢	 The great majority of employers believe the quality
+of careers advice for young people is not good
+enough (by a balance of -77%)
+â€¢	 The quality of careers advice young people receive
+to help them make informed decisions about future
+options in education is also seen as inadequate (by
+a balance of -44%)
+â€¢	 These weaknesses in careers advice are reported
+by a large majority of businesses in every part of
+the UK
+â€¢	 There is a readiness among employers to play a
+greater role in delivering careers advice, with two
+thirds (66%) willing to do more
+â€¢	 Short-term work placements of a week or two are
+by far the most common type of work experience
+offered by businesses (89%), but almost half (46%)
+also offer longer-term paid internships.
+Developing the right skills in graduates
+â€¢	 Many more businesses have increased their
+graduate recruitment in the past year than have
+cut back, with a positive balance of +18% taking on
+more graduate recruits
+â€¢	 Businesses are looking first and foremost for
+graduates with the attitudes and aptitudes that
+will enable them to be effective in the workplace
+â€“ nearly nine in ten employers (89%) value these
+above other factors such as degree subject (68%)
+â€¢	 Traditional graduate recruitment channels such
+as advertisements (used by 70%) and recruitment
+fairs (47%) are being supplemented by the use of
+social media (43%)
+â€¢	 A degree in a STEM subject gives graduates a
+clear advantage in the jobs market, with nearly
+half of employers (48%) reporting that they prefer
+graduates with these qualifications
+â€¢	 While many graduates leave university with the
+skills needed for working life, businesses still
+find too many do not: 17% report shortcomings
+in graduate applicantsâ€™ use of English, 23% in
+problem-solving and 26% in communication skills
+â€¢	 Businesses want to see higher education
+institutions doing more to improve the business
+relevance of undergraduate courses (49%) and to
+help students become job-ready (47%)
+â€¢	 They would also like to see a boost to the number
+(42%) and quality (27%) of STEM graduates.
+Businesses and universities: partnering
+for growth	
+â€¢	 More than two thirds (70%) of businesses have
+developed links of some type with universities and
+nearly half of firms (48%) are looking to grow their
+ties with universities in the future
+â€¢	 The links take many forms, including activities to
+enhance the business-relevance of HE by providing
+â€˜real-lifeâ€™ projects and resources to help students
+understand the practical relevance of their courses
+(38%) and taking part in degree programme
+advisory boards or contributing to course content
+design (28%)
+â€¢	 More than a third of firms (37%) currently partner
+with universities for research and innovation,
+seeking to draw on their wealth of expertise and
+creativity
+â€¢	 When selecting partner institutions, by far the most
+important factor for businesses is a universityâ€™s
+field of expertise/specialism (79%), followed by
+its flexibility and responsiveness (62%) and its
+location (52%).
+10 Gateway to growth: CBI/Pearson education and skills survey 2014
+section 1
+The seventh CBI education and skills survey, run in partnership with Pearson,
+comes at a time when the economic outlook for the UK has begun to look more
+positive and employment is on a rising trend. But we face a period of increased
+political risk in the run up to the 2015 general election. The challenge will be in
+ensuring that uncertainty does not negatively affect the positive steps towards
+reform in education and skills over the past 18 months.
+Key Points:
+â€¢	 The recovery continues to advance, with
+stronger growth and higher levels of
+employment than seen in recent years â€“
+however improved education and skills
+are needed to secure these positive
+developments.
+â€¢	 Too many young people are still leaving school
+without the core of literacy and numeracy they
+need to be successful in life and work â€“ with
+36.4% not achieving a C in GCSE English and
+42.4% not reaching this standard in maths.
+â€¢	 The UKâ€™s position in international education
+rankings has stagnated, highlighting the need
+for action.
+â€¢	 Whilst youth unemployment levels have
+improved over the last 12 months, they remain
+high, and we must ensure the right structures
+are in place to support young people in their
+transitions from school.
+â€¢	 Employers continue to support staff through
+training and development, but it is crucial that
+skills being developed reflect the needs of the
+labour market.
+The recovery continues to advance
+Stronger economic growth seen in the first quarter of
+20141
+is expected to continue apace throughout the rest
+of the year and into 2015.2
+Positively, over the past year
+the jobs market has continued to strengthen. In the
+three months to March 2014 employment rose at its
+fastest pace since records began, meaning 30.4 million
+people were in work, up 722,000 on a year earlier.3
+The unemployment rate has continued to fall hitting
+a five year low of 6.8% in the three months to March
+2014.4
+Encouragingly young people have also benefitted
+from a healthier labour market. There are now 868,000
+young people out of work and looking for work, down
+from one million in mid-2012.5
+As economic growth
+continues we expect the labour market to follow
+suit. However, with the election looming, political
+uncertainty remains a risk to the recovery.
+The education and skills
+landscape in 2014
+11Gateway to growth: CBI/Pearson education and skills survey 2014
+Dec-Feb2011
+Mar-May2011
+Jun-Aug2011
+Sep-Nov2011
+Dec-Feb2012
+Mar-May2012
+Jun-Aug2012
+Sep-Nov2012
+Dec-Feb2013
+Mar-May2013
+Jun-Aug2013
+Sep-Nov2013
+Dec-Feb2014
+40
+35
+30
+25
+20
+Exhibit 1 Employment levels 2011-13 (millions)
+Source: ONS
+But we know that to secure long-term
+growth, education and skills must be the
+priority
+Employers know that there is no more important
+issue facing the economy than getting our education
+and skills system right â€“ this is the underpinning of
+growth and ensuring the UK remains internationally
+competitive.
+Rising skill levels in other countries means that
+we need action to create the flexible, highly-skilled
+and motivated workforce needed to ensure British
+businesses can compete in the international
+marketplace.
+We know that this is a challenge, and one that needs
+to be tackled from the earliest stages of education
+onwards.
+Schools reform must be the first step
+towards achieving the education and skills
+system we need
+Despite the continual focus on improving standards
+in education, too many young people are still leaving
+school without the core literacy and numeracy skills
+needed to be successful in life and work. Looking at the
+benchmark of at least a grade C at GCSE level in 2013
+in each of these subjects we see that 36.4% of students
+did not achieve this level in English and a worrying
+42.4% fell short of this grade in maths.6
+The education
+system in the UK has for too long tolerated this long
+tail of low achievement alongside a trend of rising
+average performance â€“ highlighting the need for the
+wide reaching reforms that we are currently seeing.
+The challenge faced by education systems throughout
+the UK can also be observed at the international level
+by examining the OECD programme for international
+student assessment (PISA) survey, which is based on
+tests taken by 15-year olds. (Exhibit 2) Even taking
+into account the fact that an increased number of
+countries are participating in these tests, the UKâ€™s
+performance can be seen to be stagnating around the
+average â€“ a real worry as the standards of education
+of our international competitors continue to rise.
+Year 2006 2009 2012
+Science 14 16 20
+Maths 24 28 26
+Reading 17 25 23
+Source: PISA 2012 Results: What Students Know and Can Do â€“ Student performance in
+mathematics, reading and science Volume 1, OECD, February 2014
+Exhibit 2 The UKâ€™s ranking in international
+tests for 15-year olds in science, maths
+and reading 2000-09
+12 Gateway to growth: CBI/Pearson education and skills survey 2014
+While English and maths abilities create the
+foundation needed for all young people to be
+successful, what also matters to business are the
+wider attitudes and behaviours that set young people
+up for working life (chapter 7). We must ensure
+that the accountability framework within which
+schools operate incentivises a focus on this wider
+development of young people. We have seen some
+positive changes to league table measures, but as
+we set out in our report First Steps, an inspection
+framework that looks at how well schools are
+developing these wider attributes in young people is
+key to securing the outcomes we need.7
+The wider community, and in particular business, also
+has a role to play in raising ambition and attainment in
+schools â€“ and while this type of involvement is already
+widespread, there is scope to deepen and improve it
+(Chapter 8).
+Support for transitions from school to
+work is key
+Young people need to be supported in their transitions
+from education into employment in order to ensure
+that we are making the best use of their talent â€“ and
+this must start with careers guidance. We know from
+research that the career aspirations of young people
+are not well linked to the reality of labour market
+demand.8
+This needs to be tackled to ensure that we
+can fill the skills gaps of the future.
+Careers guidance â€“ especially in England â€“ has never
+been good enough, but it remains to be seen whether
+recent changes will result in positive changes. For
+too long, the careers guidance young people receive
+has been irrelevant, disparate and disconnected
+from the jobs market â€“ and not sufficient to enable
+young people to make informed decisions about their
+futures (Chapter 9).
+600
+700
+800
+900
+1000
+1100
+Nov-Jan 2014Jan-Mar 2013Jan-Mar 2012Jan-Mar 2011Jan-Mar 2010Jan-Mar 2009Jan-Mar 2008
+Exhibit 3 Youth unemployment in the UK (000s) 2008-14
+13Gateway to growth: CBI/Pearson education and skills survey 2014
+Getting this right has become increasingly important
+in recent years, as the employment market that young
+people are facing has become increasingly complex
+â€“ and will continue to change as they go through the
+education system.
+Youth unemployment statistics have improved over
+the last 12 months, but remain high in comparison
+to pre-recession figures (Exhibit 3). We need to
+build the structures that will ensure strong support
+for transitions from education and training to
+employment, and better signposting to the different
+career options available. Effective careers guidance
+that involves employers and inspires young people is
+at the heart of this.
+Skills mismatches highlight the need for a
+demand-led skills system
+Businesses know and recognise the value in providing
+training for their staff and investing in the skill levels
+of the workforce. UKCES estimates for example that
+two thirds of employers fund or arrange training
+for their staff at a cost to UK businesses of Â£42.9bn
+a year.9
+While the latest total investment figure is
+slightly down from 2011, this is in the context of a
+greater number of staff receiving training and a
+shift towards more on the job or internal provision
+(Chapter 5).
+The question around how the government supports
+investment in skills with public spending remains,
+particularly in the face of concerns around
+mismatches between the skills being developed and
+relevant positions available in the labour market.10
+This mismatch points to the need for a more
+demand-led system of skills investment and training,
+and we have begun to see progress towards this
+over the last 12 months. Successive reviews into
+apprenticeships (from Doug Richard,11
+Jason Holt12
+and the BIS Select Committee13
+) have recognised
+the vital role that apprenticeships play in delivering
+the training that is needed by employers and the
+necessity for the system to become more responsive
+and representative of need in order to deliver value
+for businesses and for the tax-payer. The challenge
+will be ensuring that the reforms encourage more
+Exhibit 4 Change in occupational structure 1990-2020 (% share)
+Occupation 1990 2000 2010 2015 2020 % change*
+Managers and Senior Officials 8 9 10 11 11 +18
+Professional Occupations 15 17 19 20 21 +14.9
+Associate Professional and Technical 11 12 13 13 14 +14
+Administrative and Secretarial 15 14 12 11 10 -10.5
+Skilled Trades Occupations 16 13 12 11 10 -6.5
+Personal Service Occupations 5 7 9 9 9 +11.5
+Sales and Customer Service Occupations 8 8 9 8 8 +0.1
+Machine and Transport Operatives 10 8 6 6 5 -3.2
+Elementary Occupations 12 12 10 10 10 +3.2
+Source: UKCES, Working Futures 2010-2020: Main Report, August 2012   *Data reflects change in total numbers
+14 Gateway to growth: CBI/Pearson education and skills survey 2014
+businesses â€“ particularly SMEs â€“ to get involved. This
+means that changes must lead to a simpler system
+and reforms must be carefully piloted and phased in â€“
+as set out in our recent response to the governmentâ€™s
+consultation on apprenticeship funding reform.
+Data from the UK Commission for Employment and
+Skills (UKCES) highlights the continuing shift in the
+shape of the labour market, with the majority of jobs
+created between now and 2020 expected to be in
+high-skilled posts. Almost half of all employment is
+set to be in managerial, professional or associate
+professional roles by 2020 (Exhibit 4). This shift
+continues to raise concerns for employers about
+their ability to meet their future workforce demands
+(Chapter 3).
+Prospective undergraduates are responding to
+changes to student fees and heightened competition
+in the UK jobs market by opting in increasing
+numbers for subjects that have good employment
+prospects and potential wage returns. Applications
+for undergraduate courses starting in 2014/15 by
+March 2014 saw the largest increases compared with
+2013/14 in technologies (15%), computer science (13%)
+and engineering (11%).14
+In the 2014 budget the Chancellor announced funding
+of Â£20 million over two years to support the growth of
+higher apprenticeships up to postgraduate level.15
+The
+emphasis on encouraging higher apprenticeships is
+reflected in levels of take-up, with the number of new
+starters increasing from just 200 in 2008/09 to 9,800
+in 2012/13. This increase is part of a more general
+shift towards advanced and higher apprenticeships
+(Exhibit 5). While higher apprenticeship starts have
+increased by 165% in the last year, intermediate
+apprenticeship starts have decreased by 11%.16
+Higher
+apprenticeships still represent a relatively small
+number of total starts, however, with intermediate
+still being the most common level. The total number
+of apprenticeship starts has increased by more than
+230,000 since 2009/10, showing the programmeâ€™s
+importance as a skills pipeline.17
+â€œ â€
+almost half of all employment
+is set to be in managerial,
+professional or associate
+professional roles by 2020
+Source: BIS/SFA
+Exhibit 5: UK Apprenticeship starts, 2008-2013
+2008/09 2009/10 2010/11 2011/12 2012/13
+Intermediate 158,500 190,500 301,100 329,000 292,800
+Advanced 81,300 87,700 153,900 187,900 207,700
+Higher 200 1,500 2,200 3,700 9,800
+15Gateway to growth: CBI/Pearson education and skills survey 2014
+Exhibit 6 Respondents by economic sector (%)
+16 Gateway to growth: CBI/Pearson education and skills survey 2014
+A further one in ten firms (10%) self-classified into the
+â€˜Otherâ€™ category. Their core business activities range
+from private healthcare and housing to media and the
+creative industries.
+The survey was conducted in the spring of 2014,
+with usable responses received from 291 employers,
+collectively employing more than 1.4 million people,
+equivalent to 5.5% of all employees in the UK.18
+Participant organisations are drawn from all sectors
+of the economy and are of all sizes, from very small
+firms to organisations with workforces of more than
+5,000 people.
+The survey was completed by a senior executive
+in each organisation. In small and medium-sized
+companies, this tended to be the managing director,
+chief executive or chairman. In larger firms, it was
+the human resources director or equivalent.
+Sectoral analysis
+Responses were received from across all sectors of
+the economy (Exhibit 6). Private sector respondents
+predominate, making up well over nine in ten
+participants (96%). Manufacturing firms form the
+single largest grouping of respondents, accounting
+for just under a fifth (19%), while construction
+and professional services businesses each make
+up close to a tenth of the sample (11% and 10%
+respectively). Engineering firms are also well
+represented (9%).
+The seventh CBI education and skills survey, run in partnership with Pearson,
+captures an authoritative snapshot of trends in business opinion and practice
+across a wide range of education and skills issues. Since 2008, successive
+surveys have mapped how education and training have evolved against a
+backdrop of economic turbulence. As the economic recovery now gathers pace,
+it is more than ever essential for the UK to make the most of skills across the
+current workforce and to ensure that people â€“ particularly young people â€“
+develop the skills that will be needed for a prosperous future.
+The seventh education and skills survey
+section 2
+Other 10%
+Science/Hi-tech/IT 4%
+Education provider 6%
+Public sector 3%
+Other services 8%
+Professional services
+10%
+Construction 11% Transport &amp; distribution
+5%
+Manufacturing 19%
+Banking, ï¬nance
+&amp; insurance 4%
+Engineering 9%
+Energy &amp; water 6%
+Retail &amp; hospitality 5%
+Exhibit 2.1 Respondents by economic sector (%)
+17Gateway to growth: CBI/Pearson education and skills survey 2014
+5,000+ employees
+17%
+500-4,999 employees
+31%
+250-499 employees
+14%
+50-249 employees
+21%
+1-49 employees
+17%
+Exhibit 2.2 Respondents by company size (%)
+Exhibit 2.3 Respondents by region (%)
+0 10 20 30 40 50
+London
+South East
+West Midlands
+South West
+North West
+East Midlands
+Scotland
+East of England
+North East
+Yorkshire &amp; Humber
+Wales
+Northern Ireland
+23
+30
+31
+32
+32
+33
+34
+34
+37
+45
+38
+28
+49%Respondents with some employees
+in devolved nations
+Respondents by company size
+Companies of all sizes participated in the survey. Just
+under one in five (17%) employ under 50 staff while at
+the other end of the scale the same proportion (17%)
+employ more than 5,000 people (Exhibit 7).
+Using the official definition of small and medium
+enterprises (SMEs) as being those organisations
+employing fewer than 250 people, SMEs make up
+more a third (38%) of respondents to the survey.
+Exhibit 7 Respondents by company size (%)
+Respondents by location
+The majority of respondents have employees based in
+several or most regions and nations of the UK
+(Exhibit 8). Respondents most commonly have at
+least some employees in London (45%) and the
+South East (38%). Across other localities, the range
+is from more than a third of respondents (37%) with
+at least part of their workforces based in the West
+Midlands to nearly a quarter (23%) with employees in
+Northern Ireland.
+Taking the devolved nations together, half of
+respondents (49%) have employees based in one or
+more of them.
+Exhibit 8 Respondents by region (%)
+18 Gateway to growth: CBI/Pearson education and skills survey 2014
+The recovery faces a mounting risk
+of skill shortages
+section 3
+There is a serious risk that skill shortages will become a constraint as
+economic recovery gathers momentum and the pace of technological change
+increases. Worries about meeting the need for more and higher levels of skills
+are mounting rapidly. If British businesses cannot access people with the
+right skills on a sufficient scale, the UKâ€™s capacity to prosper and succeed in
+international markets will be undermined. Individuals will also not be able to
+progress at work and share in rising prosperity if their skills fail to keep pace
+with changing demand and fit them for new job opportunities. Skills that were
+adequate in the past will not suffice for the future.
+Key findings:
+â€¢	 Most employers consider overall skill
+levels among their employees have been
+satisfactory for their functions to date, with
+more than two thirds (69%) rating the skills of
+their high-skilled employees as good
+â€¢	 But more than half of employers are aware
+of weaknesses in the core competencies of
+at least some of their employees in literacy
+(54%), numeracy (53%) and IT skills (61%)
+â€¢	 The drive towards a higher-skill economy
+means that over the next three to five years,
+far more businesses expect to increase the
+number of jobs requiring leadership and
+management skills and higher skills than
+expect to reduce them (positive balances of
++73% and +71% respectively)
+â€¢	 Almost as many employers expect to decrease
+the number of low-skilled employees in the
+next few years as to increase the number
+(producing a small positive balance of +5%),
+meaning there will be tough competition for
+jobs among those with lower skill levels
+â€¢	 Demand for more people with higher-
+level skills is expected to be particularly
+strong in sectors central to growth such as
+engineering (+95%), manufacturing (+76%)
+and construction (+69%)
+â€¢	 Growing numbers of businesses are worried
+there will not be sufficient skilled people to
+meet this rising demand as the economic
+recovery gains pace (with a balance of -23%
+not confident they will be able to fill all their
+higher-skills roles)
+â€¢	 The confidence deficit on the availability of
+enough people with the right high-level skills
+applies across firms of all sizes, in all nations
+of the UK and all major sectors.
+19Gateway to growth: CBI/Pearson education and skills survey 2014
+Skill levels have mostly been adequate
+to dateâ€¦
+Overall levels of skill among employees have been
+largely adequate for the jobs that currently exist
+and for the slow-growth conditions of recent years
+(Exhibit 9). More than nine out of ten businesses
+rate the skills levels of their current employees
+as satisfactory or good in low-skilled roles (97%),
+intermediate-skilled jobs (98%) and high-skilled
+posts (98%). But the past levels of skills are no guide
+to those that will be needed in the future. The bar is
+constantly being raised by international competition
+and technical change.
+â€¦ but there are widespread weaknesses in
+core competenciesâ€¦
+While employers consider their workforcesâ€™ overall
+levels of skills have been sufficient to cope with
+their jobs to date, they are also aware of worrying
+weaknesses in core competencies. A clear majority of
+businesses report that they are aware of IT, literacy/
+use of English and numeracy shortfalls to at least
+some extent within their current workforce
+(Exhibit 10).
+Exhibit 9 Ratings of employee skill
+levels (%)
+Exhibit 3.1 Ratings of employee skill levels (%)
+0 20 40 60 80 100
+PoorSatisfactoryGood
+High-skilled
+Intermediate-skilled
+Low-skilled
+2013
+2013
+2013
+2014
+2014
+2014
+46 51 3
+44749
+56
+57
+42
+2
+2
+41
+1
+269 29
+72 27
+As competitive pressures intensify and product
+mixes become more sophisticated, shortcomings in
+these basic skills become a greater challenge for
+businesses and individuals. While in 2009 around
+two in five business (40%) reported weaknesses
+among some employees in literacy/use of English and
+numeracy, the proportions have climbed above half in
+more recent years, reaching 54% for literacy and 53%
+for numeracy in 2014. When it comes to IT skills, close
+to two thirds (61%) of firms report they are aware of
+problems among current employees to at least some
+extent, up from 57% in 2009. As the proportion of jobs
+involving use of IT increases, it becomes increasingly
+important to tackle gaps in IT capability.
+The levels of skills needed at work will continue
+to rise in the future. Achieving higher levels of
+productivity and added value depend on the right
+skills. So it is essential for our training and education
+systems to go further and faster to add to the skills of
+the current workforce and ensure that new entrants
+can cope effectively. As the OECD has recognised,
+low-skilled adults in the UK run the risk of getting
+trapped in a situation where their skills remain weak
+or deteriorate over time, making it harder for them to
+learn and progress.19
+The consequences of weaknesses in basic skills are
+well-documented. They affect employeesâ€™ ability to
+perform everyday tasks. They can hinder employeesâ€™
+ability to draw out information effectively from
+written texts and instructions, compose written
+communications, or work through calculations and
+make sense of numerical data. Shortcomings in
+IT skills affect more and more jobs as the use of
+technology spreads to new activities.
+Exhibit 3.2 Employers reporting concern about basic
+skills of current workforce (%)
+78
+30
+40
+50
+60
+70
+NumeracyLiteracyIT
+201420132012201120102009
+20 Gateway to growth: CBI/Pearson education and skills survey 2014
+â€¦and those weaknesses affect all major
+sectors
+While shortcomings in basic skills vary from business
+to business, no major sector is unaffected
+(Exhibit 11).
+Awareness of skills gaps is particularly widespread
+among construction firms, where close to three
+quarters (72%) report concerns over IT skills and
+more than half over literacy/use of English (59%)
+and numeracy (59%). Skills gaps are also seen as
+widespread in manufacturing â€“ where the demands
+made on employees by new technologies and new
+processes are rising at a particularly rapid rate â€“ with
+nearly two thirds of firms (62%) reporting weaknesses
+in the IT skills of at least some employees. Two
+thirds of firms (68%) across retail and hospitality,
+transport and distribution, and other services
+recognise shortfalls in numeracy among at least
+some employees, with 13% reporting weaknesses to a
+significant extent across their workforces.
+Exhibit 3.3 Employers reporting concern about
+basic skills by sector (%)
+0 20 40 60 80
+NumeracyLiteracyIT
+Engineering
+Professional services
+Construction
+Manufacturing
+Retail &amp; hospitality, transport &amp; distribution, and other services
+71
+62
+59
+72
+56
+56
+59
+32
+56
+56
+33
+39
+61
+50
+68
+68
+Rising levels of skill will be needed in
+the future
+In the years ahead, British businesses will need
+more people able to fill skilled jobs. The results of
+our survey show the strength of the drive towards
+a higher-skill economy and the changing future
+shape of skill needs (Exhibit 12). Sustained economic
+recovery will intensify the push towards greater
+levels of skill.
+Over the next three to five years, far more employers
+expect to need more people with leadership and
+management skills than expect to need fewer (76%
+expect to need more, 4% to need fewer and 21% no
+change, producing a positive balance of +72%). The
+balance of businesses expecting to require more
+people with leadership and management skills has
+been above +60% every year since 2010, and it has
+gained added impetus as the economic recovery
+becomes more securely based. The positive balance
+Exhibit 10 Employers reporting concern
+about basic skills by competence (%)
+Exhibit 11 Employers reporting concern about
+basic skills by sector (%)
+21Gateway to growth: CBI/Pearson education and skills survey 2014
+Exhibit 3.4 Employer demand for different
+skills levels over the next 3-5 years (%) *
+-20 0 20 40 60 80
+2011201220132014
+* Firms reporting increased demand minus those reporting decreased demand
+Leadership and management skills
+Higher skills
+Intermediate skills
+Low skills
+-4
+-3
+-5
+40
+35
+28
+71
+59
+61
+30
+72
+58
+63
+65
+67
+5
+76%
+Only among roles in the low skills category are
+job prospects less strongly positive. Half (49%) of
+employers expect no change in their number of
+low-skill jobs in the years ahead, and almost as
+many expect to reduce the number of low-skilled
+posts as to increase them, producing a small positive
+balance of +5%. This trend â€“ likely driven by the UKâ€™s
+stronger economic performance over the past year,
+brings to an end the negative balances shown by
+our surveys since 2010, but the results highlight the
+tough competition for job openings among those with
+the lowest levels of skills. Among those businesses
+employing 250 people and above, the numbers
+planning to reduce low-skill jobs match those
+expecting to create new openings.
+Demand for skills will be strongest in high-
+growth sectors
+Employer demand for more people with higher level
+skills in the next three to five years is expected to be
+particularly strong in those sectors that should lead the
+rebalancing of the economy (Exhibit 13). Engineering
+(a positive balance of +95%) and manufacturing (+76%)
+head the list of sectors anticipating greater demand for
+recruits with higher skills, with firms in construction
+expecting to increase their demand both for those with
+higher skills (+69%) and intermediate skills (+59%).
+Achieving sustained growth depends on the capacity
+to meet these skill needs, particularly by encouraging
+more young people to recognise the opportunities open
+to them in these sectors.
+Exhibit 12 Employer demand for different
+skills levels over the next 3-5 years (%)*
+of firms expecting to need more employees with other
+higher skills has been only a little lower over the
+same period (climbing to +71% in 2014). Larger firms
+expect to lead the growth in demand for those with
+higher-level skills (with a positive balance of +78%
+among non-SMEs compared with +58% among SMEs).
+As economic growth continues to pick up, survey
+respondents also expect to need more people with
+intermediate skills in the next three to five years. The
+balance of employers anticipating adding jobs over
+those cutting intermediate roles has risen from +30%
+in 2013 to +40% in 2014.
+Employers expecting to need more staff
+with leadership and management skills
+in the years ahead
+22 Gateway to growth: CBI/Pearson education and skills survey 2014
+Can the growing demand for more skilled
+employees be met?
+Employers are losing confidence that they will be able
+to attract and retain the right skill mix of employees
+in the years ahead. As the economic recovery gains
+pace, businesses expect it will become much harder
+to fill their more skilled vacancies.
+When it comes to filling high-skilled jobs in future
+(Exhibit 14), last year the proportion of businesses
+(46%) not confident they would be able to find
+sufficient recruits matched those (46%) who believed
+there would be enough people available to them
+(producing a 0% confidence balance). This year a big
+gap has opened up: more than half of employers are
+not confident they will be able to recruit enough high-
+skill employees (58%), while only a third are confident
+(35%), giving a negative confidence balance of -23%.
+Worries over filling high-skilled posts apply
+across the UKâ€¦
+Levels of confidence about being able to access
+sufficient high-skill employees in future have fallen
+sharply across all parts of the UK (Exhibit 15). The
+biggest turn around in confidence has been in
+Northern Ireland, with a drop from a large positive
+confidence balance in 2013 (of +29%) to a heavily
+negative -27% in 2014. Confidence about recruitment
+of those with high skills among businesses in
+Scotland too has swung from a positive balance (+1%
+in 2013) to a negative one (-24%) this year.
+Exhibit 3.6 Employer confidence about accessing
+employees in the future (%)
+0 20 40 60 80 100
+Don't knowNot conï¬dentConï¬dent
+High-skilled
+Intermediate-skilled
+Low-skilled
+73Â  20
+15
+7
+780
+72
+53
+61
+53
+35 58 7
+8
+13
+46
+51
+46
+36
+41
+31
+37
+21
+7
+2014
+2014
+2014
+2013
+2013
+2013
+2012
+2012
+2012
+5
+7
+6
+8
+10
+Exhibit 3.5 Increased employer demand for skills
+over next 3-5 years by sector (%) *
+0 20 40 60 80 100
+Intermediate skillsHigher skills
+Retail, hospitality &amp; other services
+Professional services
+Construction
+Manufacturing
+Engineering
+56
+76
+69
+27
+51
+58
+28
+95
+69
+59
+* Firms reporting increased demand minus those reporting decreased demand
+Exhibit 13 Increased employer demand for
+skills over next 3-5 years by sector (%) *
+Exhibit 14 Employer confidence about
+accessing employees in the future (%)
+23Gateway to growth: CBI/Pearson education and skills survey 2014
+â€¦affecting firms of all sizes and key
+sectors
+Concerns about filling future high-skilled openings
+affect firms of all sizes. Among SMEs, firms believing
+that in the coming years they may not be able to
+recruit sufficient employees with the high skills they
+will need outnumber those that are confident about
+future recruitment (by a balance of -12%). Worries are
+even more widespread among larger firms (with a
+negative confidence balance of -30%).
+Within individual sectors (Exhibit 16), there have been
+big falls in confidence about being able to recruit
+sufficient highly skilled staff in future. Professional
+services firms, for example, have swung from a positive
+confidence balance of +33% in 2013 to 0% in 2014.
+Construction businesses have moved from a relatively
+small negative balance of -4% to -48% in 2014.
+These findings highlight the urgent need for more
+action to boost skills if the pace of economic recovery
+is not to be held back. Ensuring continued success
+in the sectors where the UK has a competitive
+advantage will be at the heart of a successful
+industrial strategy for the UK. It is a real concern that
+sectors that are central to the UKâ€™s future growth
+anticipate problems accessing the skilled staff they
+will need.
+2014 2013
+Northern Ireland -27 +29
+Scotland -24 +1
+Wales -24 -14
+All UK -23 0
+* Net balance of firms reporting â€˜confidentâ€™ minus those reporting â€˜not confidentâ€™
+Exhibit 15 Employer confidence in
+accessing high-skilled employees in the
+future by country (%)*
+2014 2013
+Professional services 0 +33
+Construction -48 -4
+Retail &amp; hospitality,
+transport &amp; distrib, and
+other services
+-7 -5
+Manufacturing -31 -24
+Engineering -59 -64
+* Net balance of firms reporting â€˜confidentâ€™ minus those reporting â€˜not confidentâ€™
+Exhibit 16 Employer confidence in
+accessing high-skilled employees in the
+future by sector (%)*
+58%Employers not confident of being
+able to recruit sufficient high-skill
+employees in the future
+24 Gateway to growth: CBI/Pearson education and skills survey 2014
+Science, technology, engineering and maths (STEM) skills underpin innovation
+and the UKâ€™s ability to compete successfully in high-value, high-growth sectors.
+Demand for these skills is rising strongly as economic recovery takes hold.
+This is already causing a rise in the proportion of businesses reporting current
+difficulties in recruiting technicians and experienced staff with STEM skills.
+And the shortage problems are expected to intensify in the coming years. There
+is an urgent need to improve the supply of STEM-skilled people if economic
+growth is not to be held back.
+Key findings:
+â€¢	 Nearly two in five firms (39%) that need
+employees with STEM skills and knowledge
+currently have difficulties recruiting staff
+at some level and over half (53%) expect
+problems in the next three years
+â€¢	 Shortages of STEM-qualified technicians are
+particularly widespread, with more than a
+quarter (28%) of firms in STEM-based sectors
+reporting current difficulties in recruitment
+and more than a third (35%) anticipating
+problems over the next three years
+â€¢	 Shortages of STEM graduates are also starting
+to be experienced (by 19%) and are expected
+to affect many more STEM-based firms (28%)
+in the coming years
+â€¢	 Difficulties in recruiting people with STEM
+skills are expected to be most severe in the
+construction sector as major new projects get
+under way, with firms anticipating problems
+in the next three years in finding technicians
+(48%), graduate recruits (37%) and suitable
+people to train as apprentices (36%)
+â€¢	 Businesses have concerns about both the
+quality (48%) and quantity (46%) of STEM
+graduates, and report that too many lack
+general workplace experience (39%)
+â€¢	 To fire interest among young people in
+studying STEM subjects and pursuing STEM
+careers, businesses recognise that they have
+a key role in engaging with schools (57%) and
+offering more STEM-based apprenticeships
+(57%). They also see the need to work with
+universities to ensure the business-relevance
+of courses (54%)
+â€¢	 There is a critically important role for
+government in ensuring there is an adequate
+supply of specialist science and maths
+teachers in schools to equip young people
+with knowledge and enthusiasm for STEM
+(cited by 50% of respondents).
+STEM skills in short supply
+section 4
+25Gateway to growth: CBI/Pearson education and skills survey 2014
+People with STEM skills are becoming
+harder to recruitâ€¦
+Science, technology, engineering and maths (STEM)
+skills are vital to the UKâ€™s ability to sustain and
+develop high value-added industries â€“ they underpin
+the UKâ€™s future economic growth. Those with STEM
+skills are in demand at all levels from apprentice and
+technician level upwards.20
+Among those businesses that recruit employees with
+STEM skills and knowledge, well over a third (39%)
+report current difficulties recruiting STEM-skilled
+staff at some level (Exhibit 17). So despite STEM
+shortages being high on the agenda for both business
+and government, the supply of STEM skills is still
+inadequate and has worsened markedly at key levels
+as the recovery has gained traction.
+More than one in four employers report difficulties
+in meeting their need for technicians (28%) and
+experienced staff with STEM expertise (26%). In both
+cases these figures are higher than in 2013 (in our last
+survey they were 14% and 22% respectively). Finding
+suitable graduate recruits has also become more of a
+problem, with nearly one in five (19%) reporting current
+difficulties in 2014 compared with 12% in 2013. There
+has been a jump too in the proportion of employers
+reporting difficulties in recruiting people with STEM
+skills to train as apprentices (from 12% to 22%).
+Given the central role of STEM skills in the UKâ€™s growth
+strategy, there is plainly an urgent need for action,
+as the recent CBI report on the contribution of STEM
+skills to our economic future shows (Exhibit 18).
+Exhibit 17 Current difficulties in recruiting
+individuals with STEM skills and
+knowledge (%)
+Exhibit 4.1 Current difficulties in recruiting
+individuals with STEM skills and knowledge
+(%)
+0 10 20 30 40 50
+201220132014
+At some level
+Experienced
+Postgraduate
+Graduate
+Technician
+People to train as apprentices
+22
+12
+13
+17
+17
+15
+23
+42
+14
+12
+7
+22
+39
+28
+19
+18
+26
+39
+â€œ â€
+Those with STEM skills are
+in demand at all levels from
+apprentice and technician
+level upwards
+26 Gateway to growth: CBI/Pearson education and skills survey 2014
+Exhibit 18 Engineering our future21
+â€¦and businesses expect the difficulties to
+intensify
+Businesses needing STEM-skilled staff believe the
+recruitment market will become much more difficult
+in the years ahead as the economic recovery gathers
+momentum. The proportion anticipating difficulties over
+the next three years has climbed from two in five (41%)
+in 2013 to more than half (53%) in 2014 (Exhibit 19).
+More than a third of firms recruiting STEM staff
+expect difficulties in finding suitable technicians
+(35%) and experienced STEM staff (36%) in the next
+three years. For both groups the proportions of
+businesses in 2014 anticipating problems are much
+higher than last year (20% and 17% respectively in
+2013). The supply of STEM graduates too is expected
+to be inadequate, with the proportion of employers
+anticipating problems in the next three years rising
+to 28% from 10% last year. At postgraduate level, the
+percentage of firms expecting recruitment problems
+has doubled (from 12% in 2013 to 25% in 2014). These
+are troubling findings.
+With science, technology, engineering and maths
+(STEM) skills critical to the UKâ€™s success, the CBI report,
+Engineering our Future: stepping up the urgency on STEM
+sets out the need for a new impetus in expanding our
+STEM skills base. As the economy rebalances towards
+manufacturing, investment and exports, major growth
+sectors must be confident that the supply of skilled people
+will grow with their businesses in the years ahead. The
+report warns that skills shortages are threatening our
+recovery as demand for workers with STEM skills â€“
+particularly skilled technicians â€“ outstrips supply.
+To increase the pipeline of STEM skilled workers we must
+ensure that the value of STEM-related qualifications and
+jobs are better showcased and more routes into such
+careers are created, especially for women who are poorly
+represented in many STEM fields. We need to tackle
+both long and short-term demand by retraining existing
+workers, creating more apprenticeships and ensuring
+that our education system supports young people to
+study STEM subjects.
+Exhibit 19 Expected difficulties in next three
+years recruiting individuals with STEM skills
+and knowledge (%)
+Exhibit 4.3 Expected difficulties in the next
+three years recruiting individuals with STEM
+skills and knowledge (%)
+0 10 20 30 40 50 60
+201220132014
+At some level
+Experienced
+Postgraduate
+Graduate
+Technician
+People to train as apprentices
+32
+11
+12
+35
+20
+19
+28
+10
+18
+25
+12
+14
+36
+17
+23
+53
+41
+45
+27Gateway to growth: CBI/Pearson education and skills survey 2014
+Shortage of STEM skills is impacting some
+of our key growth sectors hardest
+The mounting difficulties in recruiting STEM-skilled
+people currently and in the future (Exhibit 20) are
+intense in sectors that should be driving future
+economic growth. The Governmentâ€™s industrial
+strategy sectors â€“ aerospace, agri-tech, automotive,
+construction, education, information economy, life
+sciences, nuclear, oil and gas, offshore wind, and
+professional and business services â€“ are amongst
+those most in need of increases in amount and quality
+of skills.22
+In manufacturing, nearly one in four firms (24%)
+reports current difficulties in recruiting technicians,
+while more than a third (36%) expect problems in the
+coming three years. In the construction sector too, one
+in four (24%) reports current problems in recruiting
+technicians, and nearly half (48%) of construction
+firms anticipate problems over the next three years as
+the sector expands rapidly. In engineering, well over
+a quarter (29%) of businesses report difficulties in
+finding suitable technicians and the same proportion
+expect those problems to continue.
+More difficulties are also expected in recruiting
+suitable people to train as apprentices in the coming
+years as the economy strengthens, with over a third
+of firms in all these sectors foreseeing problems.
+These findings highlight the need for balanced,
+effective careers advice to help young people
+understand the range of opportunities open to them
+in these and related sectors. Major challenges are
+also foreseen over STEM graduate recruitment.
+In construction, for example, more than one in
+three firms (37%) expects difficulties in filling their
+vacancies in the next three years.
+The calibre of STEM graduates also needs
+attention
+When asked about the barriers they encounter
+in filling jobs that require STEM-linked skills and
+qualifications, employers point to a range of concerns
+(Exhibit 21).
+Heading the list is the troubling finding that nearly
+half of those respondents (48%) experiencing
+problems have concerns about the quality of STEM
+graduates. This ranks just ahead of the problem of a
+shortage of STEM graduates (at 46%). Compounding
+this problem â€“ and probably a major factor behind
+the worries over graduate calibre â€“ is that the content
+of qualifications at all levels is too often not relevant
+to business needs (33%). These findings highlight
+the need for firms and education and training
+People to
+train as
+apprentices
+Technician Graduate
+Manufacturing â€“
+currently
+26 24 19
+â€“next three years 35 36 25
+Construction â€“
+currently
+18 24 11
+â€“next three years 36 48 37
+Engineering â€“
+currently
+26 29 31
+â€“next three years 35 29 38
+Exhibit 20 Difficulty recruiting individuals with STEM
+skills and knowledge by sector (%)
+28 Gateway to growth: CBI/Pearson education and skills survey 2014
+providers to work together to ensure programmes
+of study properly reflect workplace developments
+and technological advances in manufacturing and
+science-based industries.
+A lack of general workplace experience among
+applicants (39%) and weaknesses in the attitudes and
+aptitudes for working life among candidates (30%) are
+also identified as common problems. These findings
+highlight the need for young people to develop their
+understanding and gain some experience of the day-
+to-day demands of the workplace, preferably in the
+sector where they aim to work longer term.
+Exhibit 21 Barriers to recruiting
+STEM-skilled staffExhibit 4.5 Barriers to recruiting STEM-skilled
+staff (%)
+0 10 20 30 40 50
+Other
+Lack of applications
+Lack of practical experience/lab skills
+Lack of appropriate attitude and aptitudes for working life
+Content of qualiï¬cation(s) not relevant to business needs
+Lack of general workplace experience
+Shortage of STEM graduates
+Quality of STEM graduates
+48
+46
+39
+33
+30
+19
+16
+9
+â€œ
+â€
+...the content of
+qualifications at all
+levels is too often
+not relevant to
+business needs
+29Gateway to growth: CBI/Pearson education and skills survey 2014
+STEM progress needs action by businesses
+and educationâ€¦
+There is a clear need for action to promote the study
+of STEM subjects and so increase the future supply
+of STEM-skilled employees. When asked how best
+to achieve this, respondents see essential roles for
+businesses, educational bodies and government
+(Exhibit 22).
+Three priorities for action are identified by more than
+half of respondent businesses. First, businesses
+need to engage with schools to enthuse pupils about
+STEM study (57%). They can inject an invaluable â€˜real
+worldâ€™ perspective, opening young peopleâ€™s eyes to
+the practical value and exciting creative scope of
+STEM subjects. Equally important is the creation of
+more STEM-related apprenticeships (57%). These
+are particularly important to tackle the current and
+impending shortages of technicians. Progress on this
+will in part rely on addressing the quality of vocational
+education through the newly introduced qualifications
+(see Chapter 7).
+A majority of respondents (54%) also point to the
+need to tackle the low business relevance of some
+STEM qualifications. This requires employers and
+universities to work together more closely to develop
+STEM courses with built-in business relevance,
+with employers for example participating in degree
+programme advisory boards or the creation of
+entirely new degree courses. This can help tackle the
+worries over the quality of STEM graduates.
+Firing young peopleâ€™s interest in STEM careers
+through schemes such as the STEM ambassadorsâ€™
+programme23
+is widely recognised as important.
+This is reflected in the view of more than a third
+of respondents (38%) that employees should be
+encouraged to become STEM ambassadors as part of
+meeting the current challenge. And there is the added
+challenge of encouraging more young women to
+â€¦but also by government
+Government too has an essential role in fostering
+development of STEM-skilled young people. First,
+there can be no let-up in the push to recruit and retain
+more specialist STEM teachers in schools, with half
+of businesses (50%) pointing to the need for action.
+The government has recognised the importance of
+focusing funding on meeting the need for specialist
+teachers in England.24
+But after a period in which
+figures on initial teacher training suggested real
+progress was being made, the latest trends are
+worrying.25
+In 2013/14, the number of new entrants
+to maths teaching programmes was only 90% of the
+target, while for physics the numbers fell back to
+72% of the target. Moreover, only two thirds of those
+trainee teachers held a first or 2.1 class degree (67%
+for maths and 65% for physics) compared with three
+quarters (74%) of trainee teachers as a whole.
+Far from tackling the hangover of too few specialist
+STEM teachers in schools and colleges, there is a
+real risk that the problem may intensify: over a fifth
+of those in secondary schools in England teaching
+maths (22%) and chemistry (24%) and a third of
+physics teachers (34%) have no qualification in the
+subject beyond A level.26
+There is a pressing need
+for high-quality teaching by specialists to foster
+enthusiasm and interest among young people in
+maths and science. The announcement of the Maths
+and Physics Chairs programme from September 2014
+to increase the supply of maths and physics teachers
+with high-level subject expertise in non-selective
+state schools is therefore a welcome development.27
+see STEM careers as open to them and an attractive
+option. Initiatives such as the Women into technology
+and engineering compact have an important part to
+play in this (Exhibit 23).
+There is a clear need for action to promote the
+study of STEM subjects and so increase the
+future supply of STEM-skilled employees.
+30 Gateway to growth: CBI/Pearson education and skills survey 2014
+Exhibit 22 Priority action to promote
+STEM studyExhibit 4.6 Priority action to promote STEM
+study
+0 10 20 30 40 50 60
+Businesses should provide ï¬nancial incentives
+Streamlining of government and stakeholder initiatives
+Business should provide more high quality work placements
+Employees should be encouraged to become STEM ambassadors
+Government should tilt higher education in favour of STEM subjects
+Government should recruit and retain more specialist teachers
+Closer working between business &amp; universities to develop business-relevant
+STEM courses
+More STEM apprenticeships
+Businesses should engage with schools to enthuse pupils about STEM study
+57
+54
+57
+50
+38
+40
+36
+31
+14
+Exhibit 23 Women into technology and
+engineering compact
+The Women into technology and engineering
+compact asks organisations to work together in
+a national partnership-led campaign of activity
+to boost female participation in technology and
+engineering. Supported by the CBI and other
+organisations, the aim of the compact is to
+support a step-change in how women and girls
+are encouraged to consider technology and
+engineering careers and the subject choices
+or vocational pathways â€“ especially the study
+of maths and physics â€“ that lead to them. The
+compact asks businesses to commit to concrete
+action in the following areas:
+â€¢	 Engaging with young people
+â€¢  	Contributing to a national campaign
+â€¢ 	 	Increasing women in technology and
+engineering in their own	organisation.
+Action is particularly important if uptake of triple
+science GCSE â€“ the best preparation for A-level and
+beyond â€“ is to improve. Since 2009/10, the percentage
+of pupils in state-funded schools entered for triple
+science has risen from 19% to 28% in 2012/13,28
+but
+continuing that positive trend depends on having the
+right teachers in place.
+In higher education, the government is already taking
+steps to weight funding support towards STEM as
+high-cost subjects. This type of support is essential,
+with two in five businesses (40%) highlighting the
+importance of the government tilting higher education
+in favour of STEM subjects.29
+There is also a case
+for better streamlining of the varied initiatives to
+promote STEM study (seen as a priority by 31% of
+respondents). While a variety of programmes and
+campaigns can mean different audiences are reached,
+there is a risk of confusion and duplication of effort.
+There could be a role for government in encouraging
+some streamlining and better co-ordination.
+31Gateway to growth: CBI/Pearson education and skills survey 2014
+â€œ â€
+There is also a case for better streamlining of
+the varied initiatives to promote STEM study
+32 Gateway to growth: CBI/Pearson education and skills survey 2014
+Key findings:
+â€¢	 Far more firms plan to increase their
+investment in employee training and
+development during the coming year than
+plan to cut back (producing a positive balance
+of +26%)
+â€¢	 The positive balance of firms planning
+increased investment over those planning
+reductions is particularly strong in
+construction at +44%, reflecting recognition of
+the need to tackle skill shortages
+â€¢	 Businesses are having to divert some of their
+training investment to tackle weaknesses
+in basic skills of numeracy, literacy and IT
+competence, with nearly half of employers
+(44%) saying they have organised training in
+at least one basic skill area in the past year
+for adult employees and more than a quarter
+(28%) for some young people joining from
+school or college
+â€¢	 Most businesses rely on external training
+partners to at least some extent, with 49%
+of training on average delivered by external
+providers
+â€¢	 While private providers lead on every
+satisfaction measure, the great majority
+of businesses give a positive rating too to
+FE colleges and universities on essential
+issues such as the quality of trainers and
+the relevance of course content to skill and
+business needs
+â€¢	 To drive forward employer ownership of the
+skills agenda, basing qualification design on
+employer needs and industry standards is
+cited as among the leading priorities by more
+than four in five business (84%) and as the
+single most important one by over half (54%).
+section 5
+Businesses recognise their responsibility to develop the skills of their
+workforces to meet their future needs. They are planning for a step change in
+the scale of their investment in skills in response to the economic recovery. But
+they need schools, colleges and universities to be preparing young people to
+enter the world of work equipped with the right competencies and attitudes and
+for external training bodies to provide high-quality, flexible and cost-effective
+training. They also need scope to steer the skills agenda effectively.
+Businesses are stepping
+up skills investment
+33Gateway to growth: CBI/Pearson education and skills survey 2014
+Firms are planning a major boost in skills
+investment
+Businesses recognise that it is more important than
+ever to maintain or increase their levels of investment
+in training to take advantage of the opportunities
+opened up by economic recovery. They are also keenly
+aware of the risks of potential skills shortages.
+We asked respondents what impact the economic
+climate is having on their plans to invest in training
+and development of their staff over the next 12
+months (Exhibit 24). The results show a third of firms
+(34%) plan to increase their level of spend, while just
+one in twelve (8%) plans to cut back, giving a positive
+balance of +26% intending to increase their training
+and development investment. This is far ahead of last
+yearâ€™s positive balance of +6% and a zero balance in
+2012. Overall, more than nine in ten businesses (92%)
+intend to maintain or increase their current spending
+on training in the coming year.
+The determination to maintain or increase investment
+in training and development applies to employers
+right across the UK (Exhibit 25). In the devolved
+nations balances of those planning to increase
+investment over those planning reductions range
+from +30% in Wales to +34% in Scotland. Analysed
+by company size, a positive balance of +19% of SMEs
+intend to increase their training spend, rising to +28%
+among larger firms.
+Exhibit 24 Employerâ€™s intentions for training
+and development of staff (%)Exhibit 5.1 Employerâ€™s intentions for training
+and development of staff (%)
+0 20 40 60 80 100
+Reduced investmentNo changeIncreased investment
+2010
+2011
+2012
+2013
+2014
+34
+21
+19
+41
+14 58 28
+50 8
+62 19
+64 15
+58 8
+Exhibit 25 Employerâ€™s intentions for training
+and development of staff by country (%)Exhibit 5.2 Employerâ€™s intentions for training and
+development of staff by country (%)
+0 20 40 60 80 100
+Reduced investmentNo changeIncreased investment
+England
+Northern Ireland
+Wales
+Scotland
+42
+39
+38
+34 58
+55 7
+9
+52 9
+50 8
+34 Gateway to growth: CBI/Pearson education and skills survey 2014
+Construction leads the growth in training
+investmentâ€¦
+The results show major variations between sectors
+over training and development intentions in the
+coming year (Exhibit 26). The positive balance of
+firms planning increased investment over those
+planning reductions is particularly strong in
+construction at +44%, reflecting recognition of the
+need to tackle the risk of skill shortages holding
+businesses back. Other sectors where plans to grow
+training investment are well above those of firms as
+a whole include professional services (+42%) and
+manufacturing (+34%).
+At a time when the UK needs to be renewing large
+parts of its infrastructure and expanding its high-
+value activities, it is encouraging that firms are
+responding in this way with targeted expansion of
+training and development investment.
+â€¦and firms want that investment to yield
+good returns
+Measuring levels of investment in training and
+development in cash terms is one side of the
+equation. The other is the effectiveness of that
+training in equipping employees with relevant skills to
+add value.
+Over half of businesses (59%) report that in the
+coming year they intend to target training more
+effectively on those employees where it will make
+the biggest difference (Exhibit 27). A majority (55%)
+of respondents also intend to seek more cost-
+effective routes for delivering training. A particularly
+cost-effective approach â€“ and one exactly geared
+to an organisationâ€™s needs â€“ is to conduct training
+on-the-job or deliver it internally. Just over half of
+businesses (51%) plan to increase the amount of
+training delivered in this way. Among the one in ten
+respondents (9%) planning other changes are moves
+to work collaboratively with other businesses to share
+delivery.
+92%Employers planning to maintain or
+increase levels of investment in training
+Exhibit 26 Balance of employers by sector
+planning to increase/decrease training
+spend (%)*
+Exhibit 27 Planned changes in training
+delivery (%)
+Exhibit 5.3 Balance of employers by sector
+planning to increase/decrease training spend
+(%) *
+0 20 40 60
+Retail &amp; hospitality, transport &amp; distribution and other services
+All sectors
+Manufacturing
+Professional services
+Construction
+44
+42
+34
+26
+23
+* Net balance of employers planning to increase training spend minus those planning to
+decrease spend
+Exhibit 5.4 Planned changes in training delivery (%)
+0 20 40 60 80
+Other
+More training on-the-job or internally
+Seeking more cost-effective delivery
+Targeting training more effectively
+59
+55
+51
+9
+35Gateway to growth: CBI/Pearson education and skills survey 2014
+Too much training investment is still being
+diverted into remedial education
+All too often, employers are having to divert funding
+and resources into remedial education to make up
+for shortcomings in basic competencies (Exhibit 28).
+Close to half of employers (44%) say that in the past
+year they have organised training in at least one basic
+skill area for adult employees. IT skills have been
+the most common area in need of attention, with
+39% of businesses reporting that they have provided
+remedial training for at least some adult employees.
+There has been less widespread activity on literacy/
+use of English (15%) and numeracy (13%), but even
+these figures are disturbingly high, showing little
+improvement over the years.
+More than a quarter of businesses (28%) report they
+have organised remedial training for at least some
+young people joining them from school or college.
+Most commonly this has been in literacy/use of
+English (22%), but even among young people one in 12
+Exhibit 28 Employers providing remedial training in past year (%)
+School/college leavers Graduates Adult employees
+2014 2013 2012 2014 2013 2012 2014 2013 2012
+Literacy/use of English 22 15 20 7 5 6 15 16 15
+Numeracy 19 14 18 4 6 5 13 13 13
+IT skills 13 13 23 8 8 14 39 39 50
+firms (13%) has had to provide help for at least some
+in acquiring basic IT skills. For graduate recruits,
+nearly one in six employers (15%) reports providing
+remedial training in at least one area during the past
+12 months. The most common area for assistance has
+been IT skills (by 8% of businesses).
+The lack of improvement in these figures over the
+years shows there is deep-rooted underperformance
+in parts of our schools systems. The CBIâ€™s First Steps
+report30
+set out the case for a major rethink, based
+on identifying the outcomes we want our schools to
+achieve and the capabilities we want every school
+leaver to possess. The nations of the UK cannot
+continue to tolerate educational shortfalls on this
+scale â€“ particularly as our competitors across the
+globe drive up their standards. We must ensure that
+all young people are better supported in developing
+the skills, attitudes and behaviours that they need for
+success in work and life.
+36 Gateway to growth: CBI/Pearson education and skills survey 2014
+Training delivery depends on effective
+partnership
+Businesses rely on a range of partners to help equip
+employees with the skills they need in their current
+jobs and to develop them for the future. While just
+over half of training (51%) is delivered in-house â€“
+through a combination of on-the-job and off-the-job
+development â€“ on average 49% of training is carried
+out by external providers (Exhibit 29). With business
+confidence recovering fast and skill needs increasing,
+the proportion of training conducted by external
+bodies is well up on last yearâ€™s average level (41%).
+The increase in the use of external partners to train
+and develop employees applies across organisations
+of all sizes. The average proportion of training
+delivered by external specialists now ranges from
+55% among the smallest businesses employing under
+50 people to 40% among those with 5,000 employees.
+Our survey shows some marked variations between
+sectors. While among professional services firms only
+just over a third (37%) of training and development
+is delivered by external partners on average, the
+proportion climbs to almost two thirds (64%) among
+construction businesses. Manufacturing is exactly in
+line with the all-sector average, with 49% of training
+on average delivered by external providers.
+Thereâ€™s scope for training providers to up
+their gameâ€¦
+On almost every measure, employers over recent
+years have become more satisfied with the training
+delivered by external providers.31
+But there is still
+scope for providers to improve their provision in
+important respects.
+Private providers remain by far the most common
+choice for employers using external training and
+development provision (Exhibit 30). More than four
+in five (88%) of those firms in our survey drawing
+on outside providers look to private trainers. They
+are often called on to deliver short, unaccredited
+courses to address particular needs or changes.
+Further education colleges are also used by a clear
+majority (59%), particularly to support delivery
+of apprenticeship programmes and similar skills
+training. Although less commonly used, many
+universities have expanded their services to
+businesses in recent years. Among those firms using
+outside providers, close to half (45%) now draw on
+universities for at least some programmes.
+Private providers achieve the highest employer
+satisfaction ratings on every measure (Exhibit 31). On
+overall responsiveness to an organisationâ€™s training
+requirements, for example, the balance of those
+businesses satisfied with private providers over those
+dissatisfied stands at +93%, far ahead of the positive
+balances for universities and FE colleges (+63% and
++56% respectively). Nonetheless, across all categories
+of training provider, a high proportion of firms give a
+positive assessment on essential measures such as
+quality of trainers and the relevance of course content
+to skill and business needs.
+Exhibit 29 Training delivered by external
+providers by organisation size (mean %)Exhibit 5.6 Training delivered by external providers
+by organisation size (mean %)
+0 20 40 60 80
+All respondents
+5,000+ employees
+500-4,999 employees
+250-499 employees
+50-249 employees
+1-49 employees
+55
+54
+46
+49
+49
+40
+37Gateway to growth: CBI/Pearson education and skills survey 2014
+â€¦with flexibility to meet business
+operations in need of improvement
+The costs of training will always be a concern for a
+business, with the positive balance of satisfaction
+dipping to as low as +23% in the case of the cost
+of university programmes. The other areas where
+there is still scope for progress concern conducting
+training in ways that fit with the day-to-day running
+of the business. Delivering training on employer
+premises or at another convenient location can often
+be important. But a positive balance of less than
+three quarters (+72%) of those businesses using FE
+colleges and +58% of those using universities report
+that training has been delivered in locations that suit
+their business needs.
+The timing of training delivery matters too. While
+there are plenty of instances of training delivered, for
+example, to meet the needs of those working shifts
+and weekends, or at more quiet business periods, not
+all training providers adapt suitably. While a positive
+balance of nine in ten employers (+91%) using an
+external private provider say training is delivered
+at times to suit their organisationâ€™s needs, that
+balance falls to +68% for FE colleges and +64% for
+universities.
+Exhibit 30 Type of external providers used (%)
+Exhibit 31 Balance of employer satisfaction
+with training providers (%)*
+Exhibit 5.7 Type of external providers used (%)
+0 20 40 60 80 100
+University
+FE college
+Private provider
+88
+59
+45
+Exhibit 5.8 Balance of employer satisfaction
+with training providers (%) *
+0 20 40 60 80 100
+FE CollegeUniversityPrivate provider
+Training delivered at a time to suit my organisation's needs
+* Net balance of employers satisï¬ed or very satisï¬ed minus those dissatisï¬ed or very
+dissatisï¬ed
+Training delivered in a location to suit my organisation's needs
+Cost of the training
+Relevance of course content to your skills/training needs
+Quality of trainers/assessors
+Overall responsiveness to your organisation's training requirements
+93
+63
+56
+90
+80
+75
+94
+83
+69
+60
+23
+48
+91
+58
+72
+91
+64
+68
+On average, 49% of
+training is carried
+out by an external
+provider
+38 Gateway to growth: CBI/Pearson education and skills survey 2014
+Employers want greater control of
+qualification design
+Achieving best use of resources by ensuring the
+business-relevance of training depends on employers
+taking ownership of the agenda. Over the past 18
+months the government has taken steps to lay the
+foundations for a more demand-led system, ceding
+greater control of resource allocation to business.
+It is now widely recognised that too often in the
+past public resources committed to training and
+development have been poorly targeted.
+This direction of policy is welcome, but there is
+much more to be done. Asked to identify their
+three top priorities for moving this agenda forward,
+respondents highlight the need to base qualification
+design on employersâ€™ needs and industry standards
+(Exhibit 32). This is cited as among their leading
+priorities by more than four in five business (84%) and
+as the single most important one by over half (54%).
+It is clearly at the very heart of employer ownership.
+Respondents also see a broader need to raise
+awareness of the skills initiatives already under way
+and how businesses can engage effectively with
+these in practice (72%). Only if there is widespread
+involvement by businesses will employer ownership
+become a meaningful reality. Nearly two thirds
+(65%) of firms also see shaping of design standards
+for vocational qualifications by employer-led
+partnerships as an important issue to ensure those
+qualifications meet real business needs. This is seen
+as even more important than giving employers direct
+control of skills funding (cited as a priority by 38%).
+Real progress is now being made. The plans, for
+example, for a new college to deliver the specialised
+training and qualifications required for high-speed
+rail to meet the needs of HS2 and other future
+infrastructure projects illustrate the potential..32
+But
+all parties need to be moving further and faster.
+Exhibit 32 Priorities for progressing
+employer ownership (%)Exhibit 5.9 Priorities for progressing employer
+ownership (%)
+0 20 40 60 80 100
+Other
+Permanent employer ownership fund with bigger budget &amp; ongoing bidding rounds
+More money for skills provision to local enterprise partnerships
+Giving employers direct control over skills funding
+Employer-led partnerships should help design standards for vocational
+qualiï¬cations
+Raising employer awareness of existing initiatives &amp; how to engage with skills system
+Qualiï¬cation design based around employers' needs and industry standards
+84
+72
+65
+38
+18
+16
+3
+Only if there is
+widespread involvement
+by business will employer
+ownership become a
+meaningful reality
+39Gateway to growth: CBI/Pearson education and skills survey 2014
+40 Gateway to growth: CBI/Pearson education and skills survey 2014
+Shaping a fully effective
+apprenticeship system
+section 6
+Key findings:
+â€¢	 The proportion of employers involved in
+apprenticeships has risen to more than two
+thirds of our survey in the past two years (69%
+in 2013 and 68% in 2014) from only half (51%)
+in 2009
+â€¢	 Two thirds of those offering apprenticeships
+(69%) plan to extend their programmes
+in future while across all respondents
+one in eight (13%) plans to start offering
+apprenticeships in the next three years
+â€¢	 Provision of apprenticeships is spreading
+into new sectors such professional services
+(where 42% of businesses now have at least
+some apprentices)
+â€¢	 Leading priorities for action to encourage
+expansion in apprenticeship programmes
+include more relevant qualification
+programmes (44%), giving firms greater
+purchasing power by routing the
+apprenticeship grant directly to employers
+(34%) and reducing bureaucracy (31%)
+â€¢	 Greater simplification and streamlining of
+the system and action by schools to prepare
+young people would encourage increased
+provision by SMEs â€“ currently half of SMEs
+have no apprentices compared to less
+than one on ten (8%) firms with over 5,000
+employees.
+Apprenticeships are vital to raising skill levels in our economy, enabling people
+to earn while they learn and opening the way to fulfilling, well-paid careers.
+The number of apprenticeship opportunities has grown rapidly in recent
+years as employers have recognised their value as a means of developing the
+skilled people they increasingly need. The government has rightly increased its
+support for apprenticeships, but there is still more to be done to develop a truly
+demand-led apprenticeship system under business leadership.
+41Gateway to growth: CBI/Pearson education and skills survey 2014
+The apprenticeship system has seen rapid
+growthâ€¦
+More than half a million people (510,200) started
+apprenticeship programmes in 2012/13. This is an
+encouraging figure, standing more than 230,000
+higher than in 2009/10 and showing the strength of
+the drive to improve the UK skills pipeline.33
+Across our 2014 respondents as a whole, more
+than two thirds of employers (68%) are currently
+involved in providing at least some apprenticeship
+places (Exhibit 33). This means the growth in
+apprenticeships over recent years has been
+consolidated, following the climb in the proportion
+of businesses involved in apprenticeships from just
+under half of respondents (48%) in 2008 to above
+two thirds (69%) last year. The challenge now is
+to raise the proportion of businesses involved in
+apprenticeships still further.
+â€¦and there is scope for further expansion
+Prospects for further expansion of the programme
+are strong. Well over half (60%) of employers either
+intend to expand their current apprenticeship
+programmes or plan to start providing apprenticeship
+places in the next three years (Exhibit 34). The
+proportion of businesses that report they are already
+involved in providing some apprenticeship places and
+plan to expand their schemes in future has risen from
+41% in 2012 to just under half (47%) this year. This is
+equivalent to more than two thirds (69%) of all those
+currently engaged in apprenticeship provision.
+Exhibit 33 Employers involved in
+apprenticeships 2008-14 (%)
+Exhibit 34 Employer involvement in
+apprenticeship programmes (%)
+Employers involved in apprenticeships
+40
+50
+60
+70
+80
+2014201320122011201020092008
+Employer involvement in apprenticeship
+programmes (%)
+0 10 20 30
+40 50
+201220132014
+No intention of getting involved
+No, but plan to in next three years
+No, but have in past
+Yes, but have no plans to expand
+Yes, and plan to expand in future
+47
+45
+41
+21
+24
+22
+4
+5
+7
+13
+10
+17
+15
+16
+13
+42 Gateway to growth: CBI/Pearson education and skills survey 2014
+Involvement in apprenticeships has spread far
+beyond the sectors with which they are traditionally
+associated (Exhibit 35). While more than four in
+five respondents (84%) in manufacturing have
+apprentices, nearly two thirds of firms (65%) in
+retail and hospitality, transport and distribution,
+and other services, and two in five professional
+services businesses (42%) are also now engaged
+in apprentice training provision to at least some
+degree. The expansion of apprenticeships into more
+sectors shows the growing variety of businesses that
+recognise the value of this type of training and the
+new fields in which it can be applied.
+For continued expansion business must
+have the leading role 	
+The past couple of years have been a period
+of reflection on the UK apprenticeship system.
+Reviews by Doug Richard,34
+Jason Holt35
+and the
+BIS Select Committee36
+recognised the vital role
+of apprenticeships in delivering business-focused
+training, equipping people with the skills and
+knowledge to carry out demanding roles, boost
+productivity and add value within their organisations.
+But while apprenticeships support people into
+fulfilling, well-paid jobs, enabling them to â€˜learn while
+Exhibit 35 Employer involvement in
+apprenticeship programmes by sector (%)Employer involvement in apprenticeships
+programmes by sector (%)
+0 20 40 60 80 100
+Professional services
+Construction
+Retail &amp; hospitality, transport &amp; distrib, and other services
+Manufacturing
+84
+65
+56
+42
+you earnâ€™ and opening the way to varied careers,
+the reviews also identified that the system needs
+to become more effectively demand-led to produce
+better value for businesses and the taxpayer.
+Our survey asked employers about the three top
+measures that would encourage them to become more
+involved in apprenticeship programmes (Exhibit 36).
+The most important issue, cited by more than two
+fifths of respondents, is qualification programmes that
+are more relevant to business needs (44%).
+Putting more purchasing power in the hands of
+firms by routing the apprenticeship grant directly to
+employers also ranks highly (34%). This is particularly
+an issue for larger businesses: some 38% of those
+employing 250 people and above identify this as
+a priority for action, compared with 27% of SMEs.
+Nearly a third of all respondents also want to see
+reductions in bureaucracy (31%) â€“ a clearer and
+simpler system would be an important step in
+enabling businesses to exercise greater leadership
+over the apprenticeship system. These priorities are
+reflected in our response37
+to the recent government
+consultation on apprenticeship funding which
+highlighted the need for an apprenticeship system
+that works for firms of all sizes, that responds to
+businessesâ€™ demands for simplicity and which routes
+funding directly to employers.
+Other important areas in need of attention include
+greater flexibility for employers to be able to
+design bespoke apprenticeship frameworks (28%).
+This would be a valuable step towards ensuring
+apprenticeship training and qualifications fit more
+closely with business needs. Schools and colleges
+also have an important role to play in partnership
+with employers to ensure that more of the young
+people who apply for apprentice places are suitably
+qualified and motivated. Across businesses as a
+whole this is seen a priority by one in four (26%),
+rising to nearer one in three (30%) among SMEs.
+43Gateway to growth: CBI/Pearson education and skills survey 2014
+Exhibit 36 Action required to encourage
+employers to get more involved in
+apprenticeships (%)
+Exhibit 37 Employer involvement in
+apprenticeship programmes by size 2014 (%)
+Action required to encourage employers
+to get more involved in apprenticeships (%)
+0 10 20 30 40 50
+Support for apprentice training agencies and GTAs
+Other
+Better information on apprenticeships and how to become involved
+Improving the quality of training provided by external providers
+Better information on apprenticeships and how to become involved
+A clear deï¬nition of what an apprenticeship means
+Less frequent changes to the skills system
+Government support for ï¬rms to train more apprentices than they need
+More suitable qualiï¬ed &amp; motivated young people applying for apprenticeships
+Greater ï¬‚exibility for employers to design frameworks
+Reductions in bureaucracy
+Apprenticeship grant from government should be routed directly to employers
+Qualiï¬cation programmes that are more relevant to business needs
+44
+34
+31
+28
+26
+20
+19
+14
+13
+12
+13
+12
+5
+Employer involvement in apprenticeship
+0 20
+29
+40 60 80 100
+Over 5,000
+500-4,999
+200-499
+50-249
+1-49
+29
+67
+55
+80
+92
+Thereâ€™s scope to involve many more SMEs
+While more than a quarter of the smallest firms (29%)
+have some involvement with apprenticeships, that
+still leaves the great majority of these businesses
+â€“ which include the major employers of the future â€“
+with no engagement at all with the apprenticeship
+system (Exhibit 37). It is also clear that medium-sized
+enterprises remain relatively under-represented
+among providers of apprenticeships. While four in five
+businesses (80%) employing over 500 people offer
+apprenticeship places (rising to over 90% among
+those 5,000 or more staff) only just over half (55%) of
+firms in the 200 to 500 employees band are currently
+involved.
+The imbalance in the scale of involvement by smaller
+businesses highlights the importance of reducing the
+bureaucracy around apprenticeships and ensuring
+that programmes fit more closely with business
+needs. It also illustrates the need for effective
+support structures, such as through Apprenticeship
+Training Agencies or Group Training Associations,
+to simplify the process for smaller businesses and
+reduce the risks involved in participation. It is these
+factors rather than cost that smaller firms too often
+find off-putting. Jason Holtâ€™s review set out a clear
+pathway to boosting apprenticeship uptake among
+SMEs by tackling these issues, but we have yet to
+see reforms having a major practical impact. There is
+scope for FE colleges â€“ often the key training partners
+for apprenticeships â€“ to up their game to ensure the
+relevance and quality of programmes.
+The imbalance in the scale of involvement
+by smaller businesses highlights the
+importance of reducing the bureaucracy
+around apprenticeships
+44 Gateway to growth: CBI/Pearson education and skills survey 2014
+What happens at school is crucially important for individuals in their lives,
+for the businesses that employ them and for the wider economy. If the right
+standards are not set and achieved during education, people and their
+employers risk being disadvantaged. Moreover, standards of schooling that
+might once have been adequate are no longer good enough. Competitor nations
+across the world are continually driving up their educational standards. It is
+essential that the UK responds effectively and does not slip behind.
+Key findings:
+â€¢	 	Businesses are becoming concerned about
+the increasing educational divergence
+between different UK nations: two thirds (67%)
+believe it is important that qualifications are
+directly comparable and readily understood
+by employers
+â€¢	 Levels of awareness about the new vocational
+qualifications are very low among businesses,
+with 85% knowing little or nothing about them
+â€¢	 The most important factors employers weigh
+up when recruiting school and college leavers
+are their attitudes to work (85%), their general
+aptitudes (63%) and literacy and numeracy
+(44%). These rank well ahead of formal
+academic results (38%)
+â€¢	 	Many businesses are not satisfied with the
+attitudes and skills of school leavers in
+important areas including attitudes to work
+(33%), teamwork (36%), basic numeracy (38%),
+problem solving (50%) and communication
+skills (52%)
+â€¢	 Businesses want to see primary schools
+concentrating above all on developing pupilsâ€™
+literacy and numeracy (85%), with these also
+as the most commonly cited priority (by 62%)
+in the 11-14 phase of schooling
+â€¢	 For the 14-19 age group, employers believe the
+top priority for schools and colleges should
+be developing awareness of working life with
+support from businesses (52%)
+â€¢	 	Almost two thirds of businesses (65%)
+value foreign language skills among their
+employees, particularly in helping build
+relations with clients, customers and
+suppliers (28%)
+â€¢	 French (50%) and German (49%) are the
+leading languages in demand by firms, but
+those geared towards business in China
+are increasingly seen as useful (with those
+valuing knowledge of Mandarin up from 25%
+in 2012 to 31% in 2014).
+section 7
+Raising the performance
+of our schools
+45Gateway to growth: CBI/Pearson education and skills survey 2014
+Businesses want young people who are
+rigorous, rounded and groundedâ€¦
+There is no more important contributor to long-term
+economic success than education, so the quality of our
+school and college systems is of central importance
+to employers. Businesses want young people who are
+rigorous, rounded and grounded â€“ with not only key
+skills and knowledge, but also, crucially, the attitudes
+and behaviours needed for success in life and work.
+Stretching academic standards are necessary but
+not sufficient to success in this, as emphasised in the
+CBIâ€™s First Steps report38
+(Exhibit 38).
+With our international competitors pushing up levels
+of achievement every year, raising ambition for all in
+schools is of fundamental importance to business.39
+Employers look to schools to develop confident,
+motivated young people with the attitudes, core
+knowledge and behaviours that will prepare them for
+success in life outside the school gates.
+Exhibit 38 First Steps: A new approach for
+our schools
+In November 2012, CBI published First Steps, a
+comprehensive look at businessesâ€™ priorities for
+the education system. Working with teachers,
+headteachers and business, we set out a
+pathway for reform that includes:
+â€¢	 Developing a clear statement of the outcomes
+all schools should deliver
+â€¢	 Ensuring the accountability system -
+particularly the Ofsted framework - is
+reformed to reflect this statement
+â€¢	 Empowering school leaders and teachers
+â€¢	 Closing the attainment gap at primary level
+â€¢	 Aligning the curriculum and examination at
+secondary level with the desired outcomes
+â€¢	 Encouraging business engagement
+While some progress has been made in key
+areas, more still needs to be done to clearly
+specify outcomes and to ensure schools are
+held accountable for how these outcomes are
+delivered. In particular, we need reform of the
+Ofsted framework to ensure that both academic
+progress and the development of character are
+prioritised by schools.
+Businesses want
+young people who are
+rigorous, rounded and
+grounded
+46 Gateway to growth: CBI/Pearson education and skills survey 2014
+â€¦with comparable standards across all
+nations of the UK
+The increasing divergence of school and qualification
+performance in the different parts of the UK is
+becoming a concern for businesses (Exhibit 39).
+School and exam systems are one of the main
+responsibilities devolved to the administrations of
+the different nations of the UK, and recent reforms to
+qualifications have moved these systems even further
+away from each other. While devolution of control
+over schools is something businesses support, clarity
+over standards and exam rigour is an essential part
+of ensuring all young people get the education the
+need, and that employers are clear about the level
+students have reached. There is a risk of drift towards
+increasingly disparate arrangements and uneven
+levels of performance and assessment, so it is
+essential devolved authorities are able to learn from
+each other about what works.
+The latest results from the OECD Programme for
+International Student Assessment (PISA), for example,
+illustrate the extent of differences within the UK in
+2012 and the scale of challenge against international
+competitors in essential skill areas such as maths
+and science.40
+Across the economy as a whole, two thirds of
+employers (67%) believe it is important that
+qualifications from all parts of the UK are comparable
+and readily understood by employers. A particular
+concern here is where exams with the same name
+â€“ for instance the English GCSE and the Welsh GCSE â€“
+are held to differing standards. Businesses need to be
+confident that they can recruit people with genuinely
+comparable levels of qualification and that they are
+clear about the level of skills and knowledge that
+can be expected among those recruits. Otherwise
+there is a real risk of the UK qualifications landscape
+becoming increasingly confusing, to the detriment of
+young people and their potential employers. We know
+from the example of the Scottish qualification system
+that a differentiated system can work well, but what is
+key here is clarity and employer confidence.
+The concerns about comparability and clarity in
+educational standards are held by a large majority
+of employers throughout the UK (Exhibit 40).
+Proportions of respondents viewing increased
+divergence as a cause for concern range from nearly
+two thirds in Wales (63%) to seven in ten (70%) in
+Northern Ireland.
+Looking at levels of concern by organisation size,
+SMEs and larger businesses are virtually equally
+concerned (69% and 68% respectively).
+Exhibit 39 Concerns about divergence of
+school and qualification systems within UK (%)
+Exhibit 40 Businesses seeing divergence as
+cause for concern (%)
+Other 2%
+Satisï¬ed with current system
+and changes in prospect 7%
+Unaware of changes
+7%
+Donâ€™t know 8%
+No, not relevant
+9%
+Important that
+qualiï¬cations across the
+UK are comparable and
+understood 67%
+Exhibit 7.1 Concerns about divergence of school
+and qualification systems within the UK (%)
+Exhibit 7.2 Businesses seeing divergence as
+cause for concern (%)
+0 20 40 60 80
+Wales
+All UK
+England
+Scotland
+Northern Ireland
+70
+68
+68
+67
+63
+47Gateway to growth: CBI/Pearson education and skills survey 2014
+Most employers know little about the new
+vocational qualifications
+A key driver of success of qualifications is confidence
+that they are equipping young people with skills
+and qualifications that are valued by employers. It
+is therefore important that changes in qualifications
+and the skills and knowledge they reflect are
+communicated effectively to businesses. The results
+from our survey show the government has a major
+job to do in explaining to business the new vocational
+qualifications for young people that will start to be
+delivered in England from September.41
+The new Tech Levels and Applied General
+qualifications are an attempted answer to businessesâ€™
+call for a gold standard vocational qualification to sit
+alongside the academic A Level at age 18. They are
+geared to the needs of students wishing to specialise
+in a technical career (for example in engineering,
+IT or accounting) or a range of other recognised
+occupations, and are recognised by relevant trade or
+professional bodies. Businesses remain concerned by
+the complexity of a two-qualification model.
+Introduction of the new qualifications is an important
+development, although it is early days and it remains
+to be seen whether they deliver on their promise.
+But it is essential for employers to be aware of
+them and for more to engage with the process of
+approval to ensure their success and recognition in
+the employment market. Only one in eight businesses
+(12%) reports a high level of awareness, including
+just 3% engaged with the process. A troubling
+half of businesses (50%) are not aware of the new
+qualifications, while a further third (35%) have only a
+little awareness (Exhibit 41).
+Exhibit 41 Business awareness of new Tech
+level and Applied General qualifications (%)
+Business awareness of new Tech
+level and Applied General qualiï¬cations (%)
+3%
+Not aware
+50%
+A little aware
+35%
+Well aware
+9%
+Engaged with the process
+3%
+85%Proportion of businesses with
+little or no awareness of new
+English vocational qualifications
+48 Gateway to growth: CBI/Pearson education and skills survey 2014
+Attitudes to work among young people
+matter most
+When it comes to recruiting school and college
+leavers, (Exhibit 42) our survey results show the
+overwhelming importance of young peopleâ€™s attitudes
+to work. More than four out of five employers (85%)
+rate this as one of their three most important
+considerations. This comes as no surprise and is
+in line with our previous research.42
+The CBI has
+long pointed to the central importance of a positive
+attitude, demonstrated for example by a readiness to
+take part, openness to new ideas and activities, and a
+desire to achieve. It also involves understanding that
+hard work and effort yields results.
+Also ranking ahead of formal academic results and
+qualifications are young peopleâ€™s aptitudes for work
+(cited as important by 63%) and core skills such as
+basic literacy and numeracy (44%). In day-to-day
+working life, personal attitudes, aptitude, ability to
+communicate and a sufficient capacity to cope with
+numerical data are key enablers. It is therefore
+critically important that our school system helps all
+young people develop as fully as possible in at least
+these areas by age 18.
+Exhibit 42 Most important factors in
+recruiting school &amp; college leavers (%)
+Exhibit 7.3 Most important factors in recruiting
+school and college leavers (%)
+0 20 40 60 80 100
+Other
+Business awareness
+Relevant work experience
+Academic results
+Qualiï¬cation obtained
+Basic literacy and numeracy
+Aptitudes for work
+Attitudes towards work/character
+0
+85
+63
+44
+38
+30
+24
+14
+142
+Too many young people leave school
+underequipped for lifeâ€¦
+Too many young people are still leaving school and
+college without these attributes being adequately
+developed. (Exhibit 43). It is particularly troubling
+that a third of employers (33%) are not satisfied
+with school and college leaversâ€™ attitudes to work.
+Since this is the single most important consideration
+when young people are seeking that critical first job
+opening, developing a constructive attitude during
+their schooling is fundamental to working life.
+More than a third of firms are also not satisfied
+with the technical skills (34%), teamworking (36%),
+literacy/use of English skills (36%), and basic
+numeracy (38%) of young people entering the world of
+work. Half report dissatisfaction with young peopleâ€™s
+ability to analyse problems (50%) and to communicate
+effectively (52%). All these are essential skills for
+effectiveness in life. An undue emphasis on GCSE
+grades (or equivalent) and school league tables risks
+distracting attention from the need to equip every
+young person adequately with these capabilities.
+More than half of businesses (55%) are not
+satisfied with young peopleâ€™s work experience. The
+governmentâ€™s decision to end the statutory duty on
+schools in England to provide every pupil at Key Stage
+4 with work-related learning is therefore a matter
+of regret. While not every placement has been of
+uniformly high quality, the emphasis should have been
+on improving schemes, not abandoning the concept.
+For most young people their work experience gives
+them a first, critically important taste of workplace
+life and the chance to reflect on the lessons of it. With
+more than two thirds of employers (72%) not satisfied
+with levels of business and customer awareness
+among school and college leavers, work experience
+placements can help young people gain practical
+insight into why providing customer satisfaction
+matters and routes to achieving it.
+49Gateway to growth: CBI/Pearson education and skills survey 2014
+â€¦with IT the only area of steady improvement
+Viewing employer experience over a longer period
+(Exhibit 44), the one area of consistent progress
+has been school leaversâ€™ grasp of IT (now seen as
+satisfactory or better by 96% of employers). The
+emphasis in schools on English does not seem to
+have yielded lasting improvement, with the proportion
+of businesses considering standards satisfactory
+slipping below two thirds (to 64%) in 2014.
+In other essential areas such as numeracy and
+attitudes to work, there has been no sustained
+improvement in recent years. The results show how
+much still needs to be done during their time at
+school to lay the essential foundations for peopleâ€™s
+working lives.
+The CBI has made the case for a broader definition
+of success at school that incentivises the progress
+of all young people and takes into account the wider
+package of attributes and competencies that they
+should have for success in life and work. A fresh
+approach of this type is needed to refocus our schools
+on tackling these important areas â€“ an increased
+focus from Ofsted in inspections, for example, would
+encourage and incentivise schools to place a greater
+emphasis on these issues.
+Exhibit 43 Employer satisfaction with
+school/college leaversâ€™ skills
+Exhibit 44 Employer satisfaction with
+selected skills of school/college leavers
+2010-14 (%)Exhibit 7.5 Employer satisfaction with selected skills
+of school/college leavers 2010-14 (%)
+40
+60
+80
+100
+Relevant work experience
+Positive attitude to work
+Basic literacy and use of English
+Basic numeracy skillsUse of IT
+20142013201220112010
+Exhibit 7.4 Employer satisfaction with school/
+college leaversâ€™ skills (%)
+0 20 40 60 80 100
+Not satisï¬edSatisï¬edVery satisï¬ed
+Business and customer awareness
+International cultural awareness
+Foreign language skills
+Self-management/resilience
+Knowledge about their chosen job/career
+Relevant work experience
+Communication skills
+Skills of analysis
+Problem solving
+Basic numeracy skills
+Basic literacy and use of English
+Teamworking
+Technical skills
+Positive attitude to work
+Use of IT
+27
+7
+6
+4
+7
+5
+1
+1
+1
+1
+2
+2
+3
+3
+69
+33
+34
+36
+36
+38
+50
+50
+52
+55
+56
+61
+62
+63
+72
+60
+60
+60
+57
+57
+49
+49
+46
+45
+43
+36
+35
+35
+27
+4
+50 Gateway to growth: CBI/Pearson education and skills survey 2014
+Employers want a clear focus on essential
+competencies in primary schools
+Businesses want to see primary schools focusing
+on the essential competencies that make further
+learning possible (Exhibit 45). Asked to identify the
+three priority areas they believe primary education
+should focus on, the top response by a wide margin
+is establishing and achieving clearly defined goals
+in literacy and numeracy (85%). Without sustained
+progress in these areas during their time in primary
+education, evidence shows that young people will find
+it almost impossible to catch up. There is certainly
+no room for complacency: one child in four (25%)
+in England leaves primary school without reaching
+expected standards in reading, writing and maths
+combined.43
+In over 750 schools in England, under
+60% of pupils attain the expected standard.
+Businesses also see it as important for primary
+schools to help children develop appropriate
+self-management and personal behaviour (52%)
+and to make headway in developing the effective
+communication skills that are so essential later
+in personal and working life (a priority for 44% of
+respondents). These are important skills underpinning
+both effective future learning and success in any work
+environment. Unless these become firmly embedded
+during their time in primary school, it will be hard for
+young people to thrive later in life.
+Exhibit 45 Priority areas for action in
+primary education (%)Exhibit 7.6 Priority areas for action in primary
+education (%)
+0 20 40 60 80 100
+Improved careers advice
+School strategies for engaging wider community and drawing on wider expertise
+Foreign language skills
+Business support to give basic awareness about work
+Broader deï¬nition of achievement at school
+Technology skills
+Power for heads and teachers to tailor teaching to needs of each class
+Clear goals on science
+Communication skills
+Self-management/personal behaviour
+Clear goals on literacy and numeracy
+85
+52
+44
+26
+19
+19
+19
+14
+10
+7
+5
+51Gateway to growth: CBI/Pearson education and skills survey 2014
+The focus should continue to age 14
+Businesses believe the focus on literacy and
+numeracy at the outset of formal schooling needs to
+be maintained in the age 11 to 14 phase of education
+(Exhibit 46). This remains the top priority (cited by
+62%). Communication skills and self-management
+also continue to rank highly (43% and 37%
+respectively) when business identify their top three
+priorities. Unless young people can master these
+essential enabling skills effectively, they will struggle
+to meet the demands of working life.
+In this early phase of secondary schooling, one in
+four employers (26%) also sees a need for businesses
+to support schools in giving young people a basic
+awareness of the world of work. Businesses have an
+important part to play from this stage of education
+onwards in helping young people understand the â€˜real
+worldâ€™ relevance of the knowledge and skills to be
+gained at school, boosting their motivation to engage
+fully with learning.
+Exhibit 46 Priority areas for action in 11-14
+education (%)Exhibit 7.7 Priority areas for action in 11-14
+education (%)
+0 20 40 60 80
+School strategies for engaging the wider community and drawing on wider expertise
+Provision and signposting to a range of vocational options
+Power for heads and teachers to tailor teaching to needs of each class
+Signposting to options in HE
+Foreign language skills
+More opportunities for relevant work experience
+Improving quality of careers advice
+Broader deï¬nition of achievement at school
+Technology skills
+Clear goals on science
+Commitment from business to support schools
+Self-management/personal behaviour
+Communication skills
+Clear goals on literacy and numeracy
+62
+43
+37
+26
+25
+21
+19
+15
+14
+11
+10
+8
+8
+5
+Businesses see the need to support schoolsâ€¦
+For young people in the 14-19 age bracket, employers
+want to see a much greater focus on work awareness
+(Exhibit 47). Asked to identify their three top priority
+areas for action in education for this age group,
+respondents highlighted the need for businesses to
+commit to supporting schools (52%). This includes
+helping them improve young peopleâ€™s understanding
+of the skills and attitudes required at work and
+enthusing them about the options open to them.
+Young people themselves recognise the need for
+help in this area.44
+They report that all too often they
+find it difficult to connect the relevance of school and
+learning to their future work aims. Current activity in
+this area is reviewed in more detail in Chapter 8.
+A third of firms (32%) also want to see a step change
+in the quality of careers advice. Young people need
+help to gain a better understanding of the varied
+routes open to them and the qualifications they
+will require to pursue them. The government has
+recognised the need for change, issuing new guidance
+for schools.45
+Ofsted will also be looking more closely
+in future at the quality of careers advice and support
+available when they inspect schools. This follows a
+report last year in which Ofsted found three quarters
+of the schools visited were not implementing their
+duty to provide impartial careers advice effectively.46
+We return to this issue in Chapter 9.
+In parallel with developing work and careers
+awareness among the 14-19 age group, businesses
+also highlight the importance of continuing to
+reinforce the core areas of literacy and numeracy
+(35%), communication skills (34%) and self-
+management and personal behaviour (29%). Almost
+one business in four (23%) sees it as a priority at this
+stage in education to recognise a broader definition of
+achievement, going beyond formal academic results
+to recognise the positive attitudes and behaviours
+valued in a work context.
+52 Gateway to growth: CBI/Pearson education and skills survey 2014
+â€˜My Educationâ€™
+The Pearson and Teach First My Education report published in
+November 2013 examines the views of young people on their
+own experiences of the education system â€“ bringing together the
+opinions of over 8,000 young people aged 14-21 across the UK.47
+My Education looks at issues ranging from teaching and assessment
+to the future ambitions and aspirations of young people, showing that
+what young people want is an education that will prepare them for
+success in life and work.
+The findings of research undertaken showed that young people
+themselves are focusing clearly on their future prospects, with 41%
+of those surveyed citing a desire to achieve future careers goals as
+the main driver that encouraged them to work hard at school.
+When asked what they thought would be important factors in
+helping them to achieve their goals, over 90% of those questioned
+highlighted high-quality qualifications that are respected by
+universities and employers, with 88% citing more of a focus on
+practical life skills such as CV writing and 83% believing that more
+opportunities for work experience and better careers advice are
+important.
+This research showed that young people want to learn more about
+getting a job, managing money, different cultures and languages,
+and generic work skills â€“ matching some of the areas where
+businesses report lower levels of satisfaction with the skills of
+school and college leavers (Exhibit 43).
+Students were also asked what they thought the most important
+skills they needed to learn at school were, and again this reflected
+many of the priorities that business has for the education system.
+94% of the young people surveyed, for example, thought that
+communication skills were important to learn at school, 92% saw
+confidence and motivation as important and 89% agreed that
+employability skills should be developed at school.
+What this research highlights is that young people are increasingly
+thinking about their next steps and what pathways they will
+follow to success, and that their priorities often reflect those
+of employers. We must ensure that the education system and
+the structures around it are geared towards supporting and
+incentivising schools to deliver the education that develops young
+people that are prepared to succeed in work and life.
+Exhibit 47 Priority areas for action in 14-19
+education (%)Exhibit 7.8 Priority areas for action in 14-19
+education (%)
+0 10 20 30 40 50 60
+Power for heads and teachers to tailor teaching to needs of each class
+Foreign language skills
+School strategies for engaging wider community and drawing on wider expertise
+Signposting to options in HE
+Provision and signposting to a range of vocational options
+Clear goals on science
+Technology skills
+More opportunities for relevant work experience
+Broader deï¬nition of achievement at school
+Self-management/personal behaviour
+Improving quality of careers advice
+Communication skills
+Clear goals on literacy and numeracy
+Commitment from business to support schools
+52
+35
+34
+32
+29
+23
+21
+18
+14
+12
+12
+8
+8
+6
+Young people are
+increasingly thinking
+about their next
+steps and what
+pathways they will
+follow to success
+53Gateway to growth: CBI/Pearson education and skills survey 2014
+Language skills can smooth the path to
+business
+While a focus on foreign language skills is not seen
+by many as a top priority area for action in education,
+only around one third of businesses (35%) have
+no need at all for foreign language skills in their
+employees â€“ and this is likely to decrease as we shift
+towards a more export-led economy.
+English is the international language of business â€“ in
+itself a real benefit for the UK. But there can be great
+advantages for British businesses if employees can
+communicate with at least reasonable proficiency
+in the language of clients, customers and suppliers
+(Exhibit 48).
+The vast majority of businesses (94%) do not require
+a high level of foreign language fluency as an
+essential core competence of their operations. But
+conversational fluency in another language helps
+in the conduct of business and can assist staff in
+their careers. Over two in five employers (41%) see
+foreign language ability as beneficial to the business
+although not a recruitment requirement, while more
+than one in four (28%) finds it helpful in building
+relations with overseas suppliers, customers and
+other contacts. Around one in six (16%) says language
+skills assist staff mobility within the organisation,
+facilitating international working.
+Language skills are more highly valued in those
+sectors leading the rebalancing towards a more
+export-oriented economy. For example, over half
+of manufacturing firms (51%) and a third (33%)
+of professional services businesses say foreign
+language skills among staff are helpful in building
+relations with overseas contacts.
+Exhibit 48 Need for employees who can
+speak foreign languages (%)Exhibit 7.10 Need for employees who can speak
+foreign languages (%)
+0 10 20 30 40 50
+Essential core competence for our work
+Needing foreign language skills in the next couple of years
+Assist staff mobility within our organisation
+No need for foreign language skills
+Helpful in building relations with overseas contacts
+Beneï¬cial, but not a requirement when recruiting staff
+41
+28
+35
+16
+12
+6
+Given the dividends language skills can pay for
+businesses, it is concerning that foreign language study
+in schools has been under pressure in recent years.
+There are some encouraging signs of change: some
+50% of state schools in England report an increase over
+the past three years in the numbers of pupils taking
+at least one language at Key Stage 4.48
+In about one in
+five schools, however, take-up for languages remains
+persistently low (below 25%) with no indication of
+an increase. The jury is still out over whether recent
+government initiatives to revive foreign language
+learning will bring about a much needed resurgence.
+54 Gateway to growth: CBI/Pearson education and skills survey 2014
+Exhibit 49 Foreign languages rated as
+useful to the organisation (%)Exhibit 7.11 Foreign languages rated as useful to the
+organisation (%)
+0 20 40 60
+201220132014
+Korean
+Portuguese
+Japanese
+Other
+Cantonese
+Russian
+Polish
+Arabic
+Mandarin
+Spanish
+German
+French
+50
+50
+49
+49
+49
+45
+44
+34
+37
+31
+28
+25
+23
+16
+19
+19
+29
+19
+19
+18
+13
+11
+16
+16
+16
+17
+15
+8
+11
+11
+13
+6
+5
+4
+3
+12
+Languages for new markets on the rise
+The major European languages continue to be those
+most commonly mentioned as being in demand
+(Exhibit 49), led by French (50%) and German (49%).
+The major European economies still represent â€“ along
+with the US â€“ large export markets for British goods.
+Over recent years, however, there has been a steady
+rise in the proportion of businesses rating Mandarin
+as useful. By 2014 this has come to be seen as
+useful by close to a third (31%) of those respondents
+identifying particular languages, reflecting the
+phenomenal growth of the Chinese economy and
+the expanding trade and investment links of British
+firms. Spanish too is widely cited as useful (by 44% in
+2014). Outside Europe, much of the Spanish-speaking
+world is experiencing solid economic growth, opening
+export and investment opportunities for the future
+where some knowledge of the language may help.
+55Gateway to growth: CBI/Pearson education and skills survey 2014
+56 Gateway to growth: CBI/Pearson education and skills survey 2014
+Key findings:
+â€¢	 Eight out of ten businesses (80%) now have links
+of some type with at least one school or college
+â€¢	 Over the past year, the balance of firms
+increasing their links with schools and
+colleges over those reducing them has
+climbed to +51%
+â€¢	 While two thirds of businesses have links
+with secondary schools (64%) and FE
+colleges (63%), only a third (31%) have links to
+primaries
+â€¢	 Among employers with links to schools and
+colleges, the most common forms of support
+are offering work experience placements (77%)
+and providing careers advice and talks (67%)
+â€¢	 Other widespread forms of business support
+include involvement in schemes to promote
+study of particular subjects (36%), employees
+acting as governors (32%) and employees
+becoming student mentors (31%)
+â€¢	 Progress is slow on tackling barriers to
+business involvement, with widespread
+uncertainty over how to make work
+experience worthwhile (31%), lack of interest
+among schools or pupils (19%) and problems
+in fitting involvement with the school
+timetable (19%)
+section 8
+Achieving a greater focus on work awareness among young people at
+school depends on a high level of business involvement. Schools, colleges and
+businesses need to work together as partners with the shared aim of raising
+ambition and levels of attainment for all. By providing work experience and
+becoming involved in other ways, employers can spell out the value of the
+skills and knowledge developed at school and open pupilsâ€™ eyes to career
+opportunities. They can also bring their expertise into schools and colleges
+through roles such as governor.
+Businesses recognise the
+need to support schools
+57Gateway to growth: CBI/Pearson education and skills survey 2014
+Business/school partnerships are
+widespreadâ€¦
+The CBI has long championed business partnerships
+with schools and colleges. As part of the wider
+community, business recognises its obligation to help
+schools raise ambition and levels of achievement
+among young people â€“ the workforce of the future.
+Many schools and businesses already have active
+links, with eight out of ten respondents (80%) to our
+survey having links of some type with one or more
+school or college (Exhibit 50).
+Where links exist, most businesses have increased
+their scale of commitment (Exhibit 51). Over half of
+employers (55%) with some education links report
+they have increased their engagement over the past
+year, while just 4% have cut back. This means the
+balance of firms increasing their links with schools
+and colleges over those reducing them stands at +51%.
+â€¦Particularly in secondary level education
+Connections are most widespread between
+businesses and secondary schools (64%) and FE
+colleges (63%) (Exhibit 52). This reflects the priority
+employers attach to achieving a greater focus on
+work awareness among young people in the 14-19 age
+group (see Chapter 7). Links at the level of primary
+schooling are only half as common, with a third (31%)
+of businesses reporting links of some type at this
+level. There is a strong case for strengthening and
+expanding the scale of links between business and
+primary schools. It is at primary school that young
+peopleâ€™s attitudes, aptitudes and basic competencies
+are being developed, so helping pupils understand
+how much these matter for life beyond school can
+be an important motivator. Links with students
+at primary school age can also help to generate
+inspiration and ambition around particular career
+pathways and sectors from an early age.
+Levels of engagement are highest among the largest
+businesses employing more than 5,000 people. In this
+category more than eight in ten firms have links to
+secondary schools (89%) and FE colleges (84%) and
+half to primary schools (49%). Even among SMEs,
+however, nearly half have links of some type with
+secondary schools (47%) and FE colleges (49%) and a
+fifth (22%) with primary schools. In all, 70% of SMEs
+have links at some level.
+Exhibit 50 Employers linked with schools/
+colleges (%)
+Exhibit 51 Change in scale of links with
+schools/colleges over past year (%)
+Exhibit 8.1 Employers linked with schools/colleges (%)
+0
+20
+40
+60
+80
+100
+201420132012201120102009
+Stayed the same
+41%
+Decreased
+4%
+Increased
+55%
+Exhibit 8.2 Change in scale of links with schools/
+colleges over past year (%)
+58 Gateway to growth: CBI/Pearson education and skills survey 2014
+Exhibit 52 Employers linked with schools/
+colleges by level (%)
+Exhibit 8.3 Employers linked with schools/colleges (%)
+0 20 40 60 80
+201220132014
+FE colleges
+Secondary/sixth-form colleges
+Primary
+31
+36
+20
+64
+67
+57
+63
+65
+56
+Over half of
+employers with some
+education links report
+they have increased
+their engagement
+over the past year
+There are high levels of linkage across the
+nations and at varied levels
+Links between businesses and schools/colleges are
+extensive in all parts of the UK (Exhibit 53). The scale
+of connections is at or above eight in ten firms in all
+four nations.
+For the great majority of businesses (88%) with
+connections to schools or colleges, those links are
+made and managed at local level (Exhibit 54). A third
+(33%) of linked employers, however, report operating
+links at regional level and nearly one in five (18%) at
+national level, often complementing local tie-ups with
+individual schools and colleges. These links above
+the local level are often in the context of programmes
+to encourage young people in studying particular
+subjects, as we discuss below.
+Exhibit 53 Employers linked with schools/
+colleges by nation (%)
+Exhibit 54 Scale of employer links with
+schools/colleges (%)
+Exhibit 8.4 Employers linked with schools/colleges
+by nation (%)
+0 20 40 60 80 100
+All UK
+Northern Ireland
+Wales
+Scotland
+81
+81
+80
+88
+Exhibit 8.5 Scale of employer links with schools/
+colleges (%)
+0 20 40 60 80 100
+National
+Regional
+Local
+88
+33
+18
+59Gateway to growth: CBI/Pearson education and skills survey 2014
+Business support is focused on work
+experience and careers adviceâ€¦
+The single most widespread way in which businesses
+support schools and colleges is by providing work
+experience placements for students (Exhibit 55).
+Close to four out of five employers (77%) with links
+to schools and colleges offer placements. Among
+those firms employing more than 5,000 people,
+the proportion climbs to nearly nine in ten (88%).
+Readiness among businesses to provide this type
+of support is critically important in view of the
+widespread concerns about the inadequate extent of
+school leaversâ€™ workplace experience (see Chapter 7).
+Two thirds (67%) of those businesses with links to
+schools are involved in delivering careers advice and
+talks. Given the long-standing shortcomings in the
+machinery for delivering careers guidance, a high level
+of business involvement is essential if young people
+are to have a sound grasp of options and opportunities
+and the qualifications they need to secure.
+â€¦but businesses are also delivering practical
+support
+Schemes in which employers engage with schools to
+promote study of particular subjects are widespread,
+with one in three businesses (36%) taking this
+approach. In particular, there are a range of initiatives
+to enthuse and inspire young people about studying
+STEM subjects to try and tackle the shortfalls in these
+skills areas (Chapter 4).
+School governance is another area where business
+involvement can make a highly valuable impact.
+Success in our education system depends on
+excellence in its school leaders, backed and held to
+account by assertive, confident and capable governing
+bodies (Exhibit 56). A third of employers (32%) now
+have members of staff acting as governors, who can
+draw on their business expertise to help schools
+and colleges run efficiently and effectively. This is
+an important level of contribution, but there is scope
+for further expansion. Recruiting good governors is
+often still difficult for special schools and schools in
+disadvantaged areas or under pressure from Ofsted
+for rapid improvement.49
+Their governing bodies need
+exactly the qualities those from business can inject,
+such as asking challenging questions, accepting
+collective responsibility for the conduct of the school
+and the ability to work as a team on complex issues.
+Other valuable forms of business support include
+enabling employees to act as student mentors (31%)
+â€“ particularly important in raising aspirations among
+young people from deprived backgrounds â€“ and
+advice or other help related to running of the school
+(27%) or development of the curriculum (22%).
+Exhibit 55 Nature of employersâ€™ work with
+schools/colleges (%)Exhibit 8.6 Nature of employersâ€™ work with
+schools/colleges (%)
+0 20 40 60 80 100
+Provide placements for teachers on secondment
+Co-sponsorship of academies
+Other
+Curriculum development
+Support running of school through advice/practical assistance
+Employees act as student mentors
+Employees act as governors
+Schemes which promote subject study
+Provide careers advice/talks
+Provide work experience for pupils/students
+77
+67
+36
+32
+31
+27
+22
+18
+15
+8
+60 Gateway to growth: CBI/Pearson education and skills survey 2014
+Barriers to business involvement still
+need to be tackled
+Although the great majority of businesses now have
+at least some links with schools and colleges, that
+involvement could be extended and deepened if current
+barriers were tackled effectively. The results of our
+survey show slow progress in doing so (Exhibit 57).
+When asked about any barriers to building links with
+schools and colleges, close to a third of employers
+(31%) say there is insufficient guidance and support on
+how to make work experience placements worthwhile.
+This has long been an area of concern to businesses
+and the governmentâ€™s decision to end compulsory
+work experience in England sends a negative signal
+about the perceived value of placements.
+Lack of interest is seen as a further barrier, but
+declining in importance â€“ a welcome sign that the
+school system itself is becoming more responsive
+to the strengths of working with business. A fifth of
+respondent businesses (19%) report that local schools
+or colleges, or their pupils, are not interested in ties
+to business. This is well below last yearâ€™s levels
+(27%). There has also been a drop in the proportion
+saying not enough of their employees are interested
+in working with schools and colleges (down from
+25% last year to 18% in 2014). Taking charge of
+young people on work experience, fulfilling the
+responsibilities of a governor and the demands of
+mentoring or giving career presentations are not only
+valuable to schools and their students, but can play a
+useful part in the development of employees â€“ these
+opportunities should be valued.
+Other problems include the fit of work experience
+or other involvement with the school timetable
+(19%), the perception that involvement will be unduly
+onerous (21%) and uncertainty over how best to make
+contact with schools and colleges (14%). Businesses
+report there is no well-publicised one-stop shop for
+becoming involved.
+Exhibit 56 Leading the way
+Strong leadership and governance are essential to driving
+school improvement, but as the CBI report Leading the Way
+sets out, too many schools are not performing well enough
+in this area. Strong and effective governance is about
+giving headteachers strategic guidance and challenge, and
+many of the skills needed on a governing body are linked
+to â€“ and often developed in â€“ a business setting. These
+include the ability to think strategically, understand and
+interpret balance sheets, human resources expertise and
+general management awareness.
+There should be a real focus on encouraging more
+individuals from business to volunteer as governors in
+schools and colleges in order to drive up standards, and
+that is why the CBI is now working with a range of partners
+â€“ including the DfE and BIS â€“ on the new â€˜Inspiring
+Governors Allianceâ€™ (www.inspiringgovernors.org). The
+alliance is focused on championing and promoting the role
+that school and college governors play and ensuring that
+the right people with the right skills, such as those from
+business, are in place on governing bodies.
+61Gateway to growth: CBI/Pearson education and skills survey 2014
+Exhibit 57 Barriers to building links with
+schools/collegesExhibit 8.8 Barriers to building links with schools/
+colleges (%)
+0 10 20 30 40
+20132014
+Not sure how to make contact with schools/colleges
+Other
+Too difficult/H&amp;S requirements too onerous
+Schools/colleges interested but unsure how employers can help
+Difficulty ï¬tting with school timetable
+Not enough employee interest in working with schools/colleges
+Local schools/colleges or pupils/students not interested
+Too little guidance/support on how to make work experience worthwhile
+31
+29
+19
+27
+18
+25
+19
+24
+22
+22
+21
+21
+26
+17
+14
+13
+â€¦involvement could
+be extended and
+deepened if current
+barriers were tackled
+effectively
+62 Gateway to growth: CBI/Pearson education and skills survey 2014
+The UKâ€™s economic prosperity depends on making full use of talent at all levels
+and everyone deserves the chance to progress and make the most of their
+abilities. But as the world of work becomes increasingly complex, young people
+need guidance and support to enable them to understand the options open to
+them. And they need support in navigating a route into their chosen career
+area. The school-to-work transition is currently far too haphazard a process.
+Businesses believe the quality of careers advice is simply not good enough and
+is in need of major improvement.
+Key findings:
+â€¢	 The great majority of employers believe the
+quality of careers advice for young people is
+not good enough (by a balance of -77%)
+â€¢	 The quality of careers advice young people
+receive to help them make informed decisions
+about future options in education is also seen
+as inadequate (by a balance of -44%)
+â€¢	 These weaknesses in careers advice are
+reported by a large majority of businesses in
+every part of the UK
+â€¢	 There is a readiness among employers to play
+a greater role in delivering careers advice,
+with two thirds (66%) willing to do more
+â€¢	 Short-term work placements of a week or
+two are by far the most common type of work
+experience offered by businesses (89%), but
+almost half (46%) also offer longer-term paid
+internships.
+Young people need the right help to prepare
+for working life
+We need to do much more to help young people
+prepare for working life. That is both the view of
+businesses and of young people themselves.50
+Nowhere
+is the need for improvement more important than in
+the transition from school to work.
+Millions of people in the UK today work in jobs that
+did not exist when their parents left school and first
+started work. Changes in technology, markets and
+customer demand open up new, constantly evolving
+career opportunities. Arrangements to help younger
+people into work that may have been adequate in the
+past in a simpler, slower-changing economy are no
+longer fit for purpose. If in future we are to make the
+most of peopleâ€™s talents and ambitions, we need a
+radically different approach.
+Careers advice: not yet fit for purpose
+section 9
+63Gateway to growth: CBI/Pearson education and skills survey 2014
+Better careers advice is urgently neededâ€¦
+Effective careers guidance and inspiration is at the
+heart of helping young people navigate the transition
+between education and work. Current provision is
+simply not up to the mark and businesses are seeing
+no sign of improvement, judging by our survey results
+(Exhibit 58).
+Four out of five businesses (80%) across the UK feel
+the quality of careers advice young people receive
+is not good enough to help them make informed
+decisions about future career options. Only 3%
+consider the quality of current careers advice to be
+adequate, producing a negative balance of -77%.
+These worrying results are even more negative than
+the views expressed by businesses in previous years.
+In 2011 and 2012, a balance of more than two thirds
+of respondents (-68% and -67% respectively) viewed
+the quality of careers advice as failing to deliver to
+the standard required. So there is a long-standing
+problem that needs urgent action.
+Careers guidance in England has never been good
+enough, but handing over the entire responsibility
+to schools without extra resource or support â€“ as
+we have seen â€“ is unlikely to result in a system
+that effectively supports all young people to
+progress through education and into employment.
+Analysis from the National Careers Council has also
+highlighted the need for a rethink around careers
+guidance in schools.51
+Recent steps from the government â€“ such as the
+publication of new statutory guidance for schools
+on careers â€“ are welcome, but not sufficient to drive
+the improvements needed to ensure that all young
+people are prepared for life outside the school gates.52
+We particularly welcome the references within
+this guidance to strong employer engagement, as
+businesses have a key role to play in helping to make
+young people aware of the opportunities available to
+them, to inform them about what it is employers are
+looking for in potential recruits, and to inspire them to
+follow particular pathways.
+Exhibit 58 Business views on the quality of
+advice about careers for young people
+Business views on the quality of
+advice about careers for young people (%)
+0 20 40 60 80 100
+Donâ€™t knowNot good enoughGood enough
+2012
+2013
+2014
+3 80 17
+72 23
+2472
+5
+4
+However schools, colleges and businesses canâ€™t do
+this alone â€“ what is needed is some kind of system to
+broker the relationships between these stakeholders,
+to ensure all young people have access to the
+information and inspiration they need to succeed in
+life and work.
+But real change will only come with government
+acknowledgement of the scale of the challenge
+and practical steps to apply a comprehensive new
+approach backed by adequate resources. Careers
+advice must move from being about provision of
+information to being about helping people to navigate
+information in a way that leaves them inspired and
+sets them on a practical path to achieve their goals.
+This is particularly important for young people.
+â€¦across all parts of the UK
+It is essential that the careers provision available to
+young people â€“ and indeed to adults as well â€“ keeps
+pace with change in the working world. Our findings
+show there is good reason to believe that it has failed
+to do so in every part of the UK (Exhibit 59). The scale
+of dissatisfaction ranges from three quarters of firms
+on England (a negative balance of -76%) to over eight
+in ten firms in Scotland (a negative balance of -81%)
+believing the quality of careers advice is not good
+enough. This is a problem which requires urgent
+attention from administrations in all parts of the UK.
+64 Gateway to growth: CBI/Pearson education and skills survey 2014
+Exhibit 60 Business views on the quality of
+advice about education options for young
+people (%)
+Exhibit 62 Employers willing to play a greater
+role in delivering careers advice (%)
+Exhibit 61 Business views on the quality of
+advice about education options by nation (%)
+Donâ€™t know
+22%
+Not good enough
+61%
+Good enough
+17%
+Business views on the quality of advice
+about education options for young people (%)
+Employers willing to play a greater role
+in delivering careers advice (%)
+Unsure 18%
+No 1%
+resources 15%
+Yes 66%
+Exhibit 9.4 Business views on the quality of
+advice about education options by nation (%)
+0 20 40 60 80 100
+Donâ€™t knowNot good enoughGood enough
+Northern Ireland
+Wales
+Scotland
+England
+17
+19
+60
+66
+62
+15
+15
+23
+23
+23
+16 61
+Exhibit 59 Business views on the quality of
+careers advice by nation (%)Exhibit 9.2 Business views on the quality of
+careers advice by nation (%)
+0 20 40 60 80 100
+Donâ€™t knowNot good enoughGood enough
+Northern Ireland
+Wales
+Scotland
+England
+3 79 18
+85
+82
+82
+11
+13
+16
+4
+5
+2
+Advice on education options also needs
+improvement
+The quality of careers advice young people receive
+to help them make informed decisions about future
+options in education is also in need of improvement
+(Exhibit 60). Less than one in five businesses (17%)
+view the quality of advice relating to education options
+for young people as good enough, while six in ten
+(61%) consider it is not adequate, producing a negative
+balance of -44%. All too often, young people are not
+given sufficient understanding of the qualifications
+they need to enter the career fields they aspire to or
+which subjects are likely to equip them best, with the
+result that they find doors closed to them when they
+leave school.
+Once again, the pattern of weakness applies across
+the UK (Exhibit 61). While in Wales a negative balance
+of -39% of firms believe advice for young people is not
+good enough when it comes to helping them select
+education options, the negative balance rises to -47%
+in Scotland.
+65Gateway to growth: CBI/Pearson education and skills survey 2014
+Businesses are ready to expand their input
+Business involvement is an essential component in
+ensuring that advice and information for young people
+is inspiring, relevant, and â€“ importantly â€“ grounded in
+the realities of the evolving labour market. Supporting
+schools and colleges through involvement in careers
+guidance, such as through delivering inspiring talks,
+is already very widespread (see Chapter 8). Our
+results show that businesses of all sizes are ready to
+step up their commitment and further help to achieve
+improvement (Exhibit 62).
+Two thirds of businesses (66%) report that they are
+willing to play a greater role in delivery of careers
+advice in schools and colleges, strengthening existing
+initiatives. If this readiness to help among employers
+can be combined with a step change on the calibre of
+other aspects of careers advice, there would be major
+benefits for young people and for the economy.
+But what we need is a system in place to support
+schools and businesses in developing these
+relationships to ensure that all young people
+are benefitting from this kind of engagement â€“ a
+nationally mandated, locally run system of brokerage
+is something that deserves serious consideration.
+Work experience openings take many forms
+Weaknesses in practical work experience are seen as
+widespread among many young people, as we noted
+earlier (in Chapter 7). Traditional work placements for
+a week or two are by far the most widespread form
+of work experience offered by businesses (by 89%)
+(Exhibit 63). These provide many school pupils with
+their first taste of the workplace and what goes on
+there. While they are a valuable introduction, their
+limited nature means they can achieve only so much.
+Exhibit 63 Forms of work experience for
+young people (%)Exhibit 9.6 Forms of work experience for
+young people (%)
+0 20 40 60 80 100
+Other
+Simulated exercises/work environment
+Work on a speciï¬c project
+Job shadowing
+Paid internships
+Traditional one or two week placements
+46
+37
+35
+21
+3
+89
+Almost half of respondents (46%) also offer paid
+internships, normally geared to a somewhat older
+age group and running for longer periods. These can
+help students develop the attitudes and work-relevant
+skills that are so important to employers. They also
+give young people the chance to gain a taste of a
+particular career or field of work so they can better
+judge whether it is right for them.
+Other approaches designed to give those on work
+experience placements a better understanding of
+work include job shadowing (37%), work on a specific
+project (35%) and simulated exercises or working
+environment (21%). All of these should be encouraged,
+as interaction with employers and experience of the
+workplace are some of the most valuable experiences
+a young person can have in preparing them for
+working life.
+66 Gateway to growth: CBI/Pearson education and skills survey 2014
+Key findings:
+â€¢	 Many more businesses have increased their
+graduate recruitment in the past year than
+have cut back, with a positive balance of +18%
+taking on more graduate recruits
+â€¢	 Businesses are looking first and foremost for
+graduates with the attitudes and aptitudes
+that will enable them to be effective in the
+workplace â€“ nearly nine in ten employers
+(89%) value these above other factors such as
+degree subject (68%)
+â€¢	 Traditional graduate recruitment channels
+such as advertisements (used by 70%)
+and recruitment fairs (47%) are being
+supplemented by the use of social media
+(43%)
+â€¢	 A degree in a STEM subject gives graduates
+a clear advantage in the jobs market, with
+nearly half of employers (48%) reporting
+that they prefer graduates with these
+qualifications
+Developing the right skills in graduates
+section 10
+There will be growing demand for degree-level skills in the years ahead as
+high-value, high-skill products and services increasingly dominate economic
+activity in the UK. When this trend is combined with the current upturn
+in the economy, it is no surprise that our survey shows job prospects for
+graduates are improving. For the majority of employers, the attitudes and
+aptitudes of graduates for work are more important than the specific degree
+studied, so there is a need for graduates to strengthen their work-related
+skills. Universities should be looking to do more to help them prepare for the
+transition into work.
+â€¢	 While many graduates leave university with
+the skills needed for working life, businesses
+still find too many do not: 17% report
+shortcoming in graduate applicantsâ€™ use of
+English, 23% in problem-solving and 26% in
+communication skills
+â€¢	 Businesses want to see higher education
+institutions doing more to improve the
+business relevance of undergraduate courses
+(49%) and to help students become job-ready
+(47%)
+â€¢	 They would also like to see a boost to the
+number (42%) and quality (27%) of STEM
+graduates.
+67Gateway to growth: CBI/Pearson education and skills survey 2014
+Graduate-level skills are in growing demandâ€¦
+Employees with graduate-level skills bring
+organisations the advanced knowledge, capabilities
+and subject-specific expertise needed to drive
+their future productivity and growth. Across the
+economy as a whole, businesses will be increasing
+their demand for people with higher-level skills and
+leadership and management skills in the years ahead
+(Exhibit 12, Chapter 3).
+The demand for graduates and the value they bring to
+firms is reflected in the fact that graduates are more
+likely to be in work than those with lower levels of
+qualification and less likely to become unemployed.
+By the age of 35, graduates on average earn nearly
+twice as much as those whose highest qualification
+is equivalent to an A* to C grade at GCSE, with the
+highest earnings among those who studied science,
+engineering and maths-based subjects.53
+â€¦and firms of all sizes are expanding their
+graduate recruitment
+Nearly nine in ten businesses (88%) have maintained
+or increased their levels of graduate recruitment
+during the past year (Exhibit 64). Just one in
+eight businesses (12%) have cut back on graduate
+recruitment while nearly one in three (30%) report
+increasing their graduate intake, giving a positive
+balance of +18%.
+This represents an acceleration of growth in graduate
+recruitment since our 2013 survey (Exhibit 65). At that
+time the positive balance figure was +8%, based on
+23% of firms expanding their graduate intake over the
+previous year and 15% reducing it.
+The increase in graduate recruitment has been
+occurring across firms of all sizes (Exhibit 66).
+Among the largest businesses employing 5,000
+people or more, a positive balance of +9% report that
+they have increased levels of graduate recruitment
+during the past year, rising to a positive balance of
++25% among those employing 50 to 249 employees.
+All too often, graduates tend to assume that job
+prospects are greatest among large employers, but
+the reality is there are good opportunities among
+businesses of every size.
+Exhibit 64 Changes in levels of graduate
+recruitment 2014(%)
+Exhibit 65 Changes in levels of graduate
+recruitment 2013(%)
+Exhibit 66 Balance of businesses by
+workforce size increasing graduate
+recruitment*
+Changes in levels of graduate
+Increased
+30%
+Decreased
+12%
+No change
+58%
+Changes in levels of graduate
+Increased
+23%
+Decreased
+15%
+No change
+62%
+Exhibit 10.3 Balance of businesses by workforce
+size increasing graduate recruitment (%) *
+0 10 20 30
+5,000+ employees
+500 to 4,999 employees
+250 to 499 employees
+50 to 249 employees
+Up to 49 employees
+14
+25
+20
+20
+9
+* Firms reporting increased recruitment minus those reporting decreased recruitment
+68 Gateway to growth: CBI/Pearson education and skills survey 2014
+Graduatesâ€™ attitudes matter most of all in
+job huntingâ€¦
+When recruiting graduates, businesses are looking
+first and foremost for the attitudes and aptitudes
+that will enable them to be effective in the workplace
+(Exhibit 67). Repeating the pattern of previous years,
+this is the top-rated factor among graduate recruiters,
+with nearly nine in ten employers (89%) citing it as
+among their three most important considerations.
+Over half (54%) rank it as the single most important
+factor.
+Despite the growing demand among businesses,
+there will always be tough competition among
+candidates for prime graduate jobs, so those aiming
+to move smoothly into the world of work need to
+take seriously the development of the right skills and
+attitudes during their time in higher education.54
+â€¦with business-relevant qualifications and
+experience also giving an edge
+Employers are also on the lookout for graduates in
+certain subject disciplines. For around two thirds of
+businesses, the degree subject studied is among the
+main considerations (cited by 68%) but almost equally
+important (cited by 62%) is having relevant work
+experience â€“ gained for example through a business
+placement or internship. Work experience can play
+an invaluable part in strengthening the generic
+employability skills of graduates, as well as providing
+them with the opportunity to learn about a particular
+sector or type of work.
+Among the least important considerations is
+the particular university attended (a top-three
+consideration for only 12%). Businesses are instead
+primarily focused on what individual graduates can
+bring to the workplace.
+There are varied avenues into workâ€¦
+In seeking graduate recruits, businesses use a range
+of traditional channels such as job advertisements
+(70%), links with university careers services (61%)
+and graduate recruitment fairs (47%) (Exhibit 68).
+But technology has opened up additional means for
+businesses and graduates to connect, and close to
+half of employers (43%) report using social media as
+an element in their graduate recruitment strategies.
+Sandwich placements or internships are also an
+important means for businesses to identify graduate
+talent and for students to demonstrate to potential
+employers the contribution they can make. More than
+a third of businesses (39%) report recruiting through
+this avenue.
+Exhibit 67 Most important factors considered
+when recruiting graduates (%)Exhibit 10.4 Most important factors considered
+when recruiting graduates (%)
+0 20 40 60 80 100
+201220132014
+Foreign language capability
+University they attended
+Degree class (1st, 2:1 etc)
+Relevant work experience/industrial placement
+Degree subject
+Attitudes &amp; aptitudes for work
+89
+88
+81
+68
+67
+70
+62
+67
+68
+61
+48
+46
+12
+7
+8
+4
+4
+3
+69Gateway to growth: CBI/Pearson education and skills survey 2014
+â€¦but STEM subjects give graduates an
+advantage
+Studying STEM subjects gives students a competitive
+advantage in the labour market (Exhibit 69). When
+asked whether they prefer any particular degree
+subject when recruiting graduates, nearly half of
+employers (48%) say they prefer those with STEM
+degrees (up from 42% in 2013). The mathematical
+abilities and analytical skills associated with STEM
+study are in high demand among businesses and the
+degree courses are often seen as more testing than
+some other subjects. Business (at 19%) is the only
+other area of study attracting employer preference
+above a marginal level, while more than one in four
+graduate recruiters (29%) has no preference for a
+particular subject. Instead they are focused on the
+broader skills and attitudes that make graduate
+employees effective in the workplace.
+The employability skills of graduates are
+too uneven
+While employers are satisfied with the work-relevant
+skills of graduate applicants in many respects, there
+are also some worrying areas of weakness that are
+particularly important for those aspiring to future
+leadership and management roles (Exhibit 70).
+Almost all businesses (98%) are satisfied with
+graduatesâ€™ IT skills and more than nine in ten (91%)
+with their technical skills. When it comes to numeracy,
+powers of analysis and use of English, however,
+levels of satisfaction start to fall. Around one in seven
+employers reports being dissatisfied (14%, 15% and
+17% respectively). These are surprisingly high figures
+and businesses should be able to expect a reasonable
+level of competence in all these areas among those
+completing higher education.
+Exhibit 68 Channels used for graduate
+recruitment (%)
+Exhibit 69 Priority degree subject for
+employers (%)Exhibit 10.5 Channels used for graduate
+recruitment (%)
+0 20 40 60 80 100
+Other
+Participate in the graduate milk round
+Sandwich placements or internships
+LinkedIn and other social media
+Graduate recruitment fairs
+Links to university careers services
+Job advertisements
+70
+61
+47
+43
+39
+23
+9
+Arts 1%
+Social sciences 3%
+Business 19%
+No subject preference
+29%
+STEM 48%
+Priority degree subject for employers (%)
+Languages 1%
+Arts 2%
+Social sciences 5%
+Business 14%
+No subject preference
+35%
+STEM 42%
+70 Gateway to growth: CBI/Pearson education and skills survey 2014
+Exhibit 70 Employer satisfaction with
+graduatesâ€™ employability skills (%)
+Exhibit 10.7 Employer satisfaction with graduatesâ€™
+employability skills (%)
+0 20 40 60 80 100
+Not satisï¬edSatisï¬edVery satisï¬ed
+Foreign language skills
+Business and customer awareness
+International cultural awareness
+Relevant work experience
+Self-management/resilience
+Knowledge about their chosen job/career
+Communication skills
+Problem solving
+Teamworking
+Positive attitude to work
+Basic literacy and use of English
+Analysis skills
+Basic numeracy skills
+Technical skills
+Use of IT
+38
+24 67
+25
+17
+25
+15
+12
+9
+8
+10
+6
+6
+5
+5
+2
+61
+67
+58
+67
+69
+68
+64
+64
+61
+57
+58
+45
+44 51
+19
+23
+26
+30
+31
+37
+37
+53
+9
+14
+15
+17
+18
+60 2
+Nearly a quarter (23%) of firms are also not satisfied
+with graduatesâ€™ problem-solving skills, which should
+be a prime output of higher education. Equally
+concerning is the one in four employers (26%) citing
+dissatisfaction with graduatesâ€™ communication skills.
+Effective communication is central to almost all
+high-skill activities and essential for those looking to
+take on management and leadership functions in the
+future (Exhibit 71).
+One of the reasons relevant workplace experience is
+valued in graduate candidates (Exhibit 67) is that it
+helps to develop general business awareness. With
+over half of respondents (53%) voicing dissatisfaction
+with graduatesâ€™ levels of business and customer
+awareness, there is a clear advantage for those
+candidates who can show a good grasp of issues in
+these areas.
+Exhibit 71 The communications challenge
+One respondent summed up the problems over
+communication in these terms:
+â€˜Graduates with good degree results can often
+have very poor written and verbal communication
+skills, including basic errors of spelling and
+grammar. â€˜Text speakâ€™ proliferates. We often
+have a need for basic business writing courses,
+eg. how to write basic emails and basic
+customer letters. This can carry through into
+poorly developed written communication skills
+as people progress in their careers, which
+can become an issue when producing formal
+business reports, customer publications etc.â€™
+â€œ â€
+Effective
+communication is
+central to almost all
+high-skill activities
+71Gateway to growth: CBI/Pearson education and skills survey 2014
+Time for a rethink on HE programme design
+When asked to identify the priority areas for action in
+higher education, an emphasis on developing studentsâ€™
+work-relevant skills is the leading area in which
+businesses would like to see change (Exhibit 72). Half
+of firms (49%) want to see steps taken to improve the
+business relevance of undergraduate courses, while
+only a slightly smaller proportion (47%) want to see
+more done to develop students to be job-ready on
+graduation.
+As the economy recovers, there are also concerns
+as to whether the right people with STEM skills will
+be available to businesses in the years ahead. More
+than two in five (42%) see increasing the number
+of STEM graduates as a priority, while more than
+a quarter (27%) are looking for their quality to be
+improved. A similar proportion (28%) also want to
+see more vocational options for higher study, such
+as higher apprenticeships, to strengthen the UKâ€™s
+technical skills base. Increasing the supply of capable
+STEM-skilled people at HE level, however, depends to
+a large extent on schools and colleges playing their
+part in improving the pipeline. We will need to expand
+existing routes â€“ and create new routes â€“ to higher
+skills if we are to meet this skills challenge, as set out
+in our Tomorrowâ€™s Growth report (Exhibit 73).
+Exhibit 72 Business priorities for higher
+education (%)Exhibit 10.9 Business priorities for higher
+education (%)
+0 20 40 60
+Other
+University-business collaboration on sponsored degree courses
+Quality of graduates in other subjects
+Offering programmes to upskill existing employees
+Quality of careers advice
+Quality of STEM graduates
+Greater ï¬‚exibility in course design/delivery to match business/learner needs
+More vocational options for higher study
+Number of STEM graduates
+Development of job-ready graduates
+Improving business relevance of undergraduate courses
+49
+47
+42
+28
+27
+27
+24
+19
+10
+7
+2
+Exhibit 73 Tomorrowâ€™s growth: new routes to higher skills
+In order to respond to the higher skills challenge, expanding
+and promoting apprenticeships and â€˜learn while you earnâ€™
+courses such as part-time degrees, are needed to equip
+people with the right skills to deliver tomorrowâ€™s growth.
+The UK has a strong track record on higher skills
+achievement, but we need to quicken our pace if we are
+to ensure international competitors do not overtake us.
+More partnership-based provision, with greater levels of
+business involvement in colleges and universities, and the
+development of more flexible degree programmes is key to
+addressing this.
+There are already many good examples of collaboration
+between businesses and HE institutions on courses,
+particularly since fee reforms were enacted. Analysis
+suggests that there remain some significant barriers to
+developing the marker, which need to be tackled:
+â€¢	 Financial support for those studying part-time
+â€¢	 Access and visibility of information to learners of all ages
+â€¢	 Alignment of incentives and goals with the desired growth
+of the market
+â€¢	 Lack of focus on the end goal of sustained employment.
+72 Gateway to growth: CBI/Pearson education and skills survey 2014
+Businesses and universities:
+partnering for growth
+section 11
+Effective partnerships between businesses and universities are critically
+important for the success of both parties and for our economic prosperity.
+Businesses look to higher education to develop people with the right knowledge
+and skills to meet their future needs and to access the expertise and innovative
+capacity for which the UKâ€™s universities are rightly famed. Universities on their
+side need business input to ensure the quality and relevance of their course
+offerings and to create links through which research successes can be turned
+into marketable products.
+Key findings:
+â€¢	 More than two thirds (70%) of businesses have
+developed links of some type with universities
+and nearly half of firms (48%) are looking to
+grow their ties with universities in the future
+â€¢	 The links take many forms, including activities
+to enhance the business-relevance of HE by
+providing â€˜real-lifeâ€™ projects and resources
+to help students understand the practical
+relevance of their courses (38%) and taking
+part in degree programme advisory boards or
+contributing to course content design (28%)
+â€¢	 More than a third of firms (37%) currently
+partner with universities for research and
+innovation, seeking to draw on their wealth of
+expertise and creativity
+â€¢	 When selecting partner institutions, by far
+the most important factor for businesses is
+a universityâ€™s field of expertise/specialism
+(79%), followed by its flexibility and
+responsiveness (62%) and its location (52%).
+Business-HE links can enhance growth
+Higher education is one of the UKâ€™s strongest
+assets, with a research record second only to
+the US and institutions recognised as among the
+best in the world.55
+The recent government review
+led by Sir Andrew Witty, CEO of GlaxoSmithKline,
+into strengthening links between universities and
+businesses rightly concluded that universities have an
+extraordinary potential to enhance economic growth.
+The full diversity of institutions have a role to play
+from local SME support and supply chain creation
+to primary technology leadership and breakthrough
+invention. The report called for incentives to be
+strengthened to encourage maximum engagement
+from universities in a third mission alongside
+research and education.56
+Reflecting recognition of the potential benefits
+generated by effective links between businesses and
+higher education institutions (HEIs), more than two
+thirds of respondents (70%) report links of some type
+with one or more universities (Exhibit 74). Moreover,
+more than a third of businesses (36%) plan to expand
+their links to HEIs in the future while one in eight
+(12%) plan to start developing links for the first time in
+the coming years. This means that nearly half of firms
+(48%) are looking to grow their ties with universities.
+73Gateway to growth: CBI/Pearson education and skills survey 2014
+The links take a variety of formsâ€¦
+Business-HEI engagement takes a variety of forms
+(Exhibit 76). Graduate recruitment predictably
+heads the list (cited by 66%). Reflecting the rising
+demand for graduate skills, it has become even more
+important than a year ago (52% in 2013). Provision
+of sandwich-year and other placements also
+ranks highly, together with offering internships for
+graduates (offered by 42% and 39% respectively of
+those employers with links of some type with an HEI).Exhibit 74 Employer links to universities
+Exhibit 75 Employers with current links to
+universities (%)
+No intention of getting
+involved 9%
+No, but plan to in next
+three years 12%
+No, but have in past
+9%
+Yes, but have no plans
+to expand 34%
+Yes, and plan to expand
+in future 36%
+Employer links to universities (%)
+Exhibit 11.2 Employers with current links to
+universities (%)
+0 20 40 60 80 100
+All UK
+Northern Ireland
+Wales
+Scotland
+79
+77
+73
+70
+Our survey shows the extensive scale of links in all
+parts of the UK (Exhibit 75). There are also business-
+HEI links among firms of all sizes. It is particularly
+encouraging that over half of SMEs (51%) report
+that they have links of some type to one or more
+university. Moreover, across SMEs as a whole, 27%
+are looking to expand existing links and 17% intend to
+establish them for the first time in the next few years.
+â€¦with employers involved in enhancing
+business-relevanceâ€¦
+Almost equally widespread is business involvement
+in providing â€˜real-lifeâ€™ projects and resources to help
+students understand the practical relevance of their
+courses (38%) and in partnering with universities
+for research and innovation (37%). The technical
+knowledge and capacity for innovation within our
+HEIs are among the great strengths of the UK and
+businesses are keen to draw on them.
+More than one in four employers (28%) is also
+involved directly in developing HEI course offerings
+by taking part in degree programme advisory boards
+and participating in course design to help shape the
+content. These types of involvement can help ensure
+that qualifications and course content are geared to
+meeting real business needs while at the same time
+boosting the employability of students. Although
+larger employers tend to be most active in this way
+(30%), nearly a fifth of SMEs (22%) are also involved.
+As Chapter 5 showed, business looks to the university
+sector as an important supplier of training and
+development services. Among respondents with
+links to universities, a fifth (20%) report collaborating
+with HEIs on work-based and/or off-site learning
+programmes for members of their own staff, drawing
+on the expertise available within universities.
+74 Gateway to growth: CBI/Pearson education and skills survey 2014
+Expertise and responsiveness drive the
+choice of partner
+When it comes to selecting a university partner, by far
+the most important consideration for businesses is
+the expertise or specialism of a particular university
+(Exhibit 77). Asked to identify the three most
+important factors on which businesses base their
+choices, nearly four out of five firms (79%) that have
+developed links with HEIs say they aim to connect
+with the leading experts in a particular field. Indeed,
+this consideration is the single most important one
+for three quarters (74%) of businesses.
+Flexibility and responsiveness to the firmâ€™s needs also
+play an important part for close to two thirds (62%)
+of firms. So universities need to have clear points of
+initial contact, effective signposting and a readiness to
+respond promptly and positively to the requirements
+of potential partner businesses.
+There are clear benefits in easy access and
+opportunities for face-to-face contact. Over half of
+businesses (52%) with HEI links therefore identify
+the universityâ€™s location as one of their three main
+considerations. Given the important role many HEIs
+play in local economies and communities, employers
+are also often keen to help support and benefit from
+their local university.
+Exhibit 76 Nature of employer links with
+universities (%)
+Exhibit 77 Basis for links with universities (%)
+Exhibit 11.3 Nature of employer links with
+universities (%)
+0 20 40 60 80 100
+201220132014
+School leaver programmes
+Other
+Collaborate on training and learning for staff (work-based or off-site)
+Careers events
+Sponsor students
+Participate in degree advisory boards/course design
+Partner with universities for research and innovation
+Provide 'real-life' projects and resources
+Offer internships to graduates
+Provide sandwich years or work placements to university students
+Graduate recruitment
+*
+*
+*
+*
+*
+*
+* Not asked in this form
+66
+52
+42
+43
+53
+39
+41
+39
+38
+39
+37
+37
+39
+37
+28
+25
+23
+27
+21
+37
+20
+20
+6
+9
+9
+3
+4
+Exhibit 11.4 Basis for links with universities (%)
+0 20 40 60 80 100
+Other
+Tendering exercise
+Cost considerations
+Quality of facilities
+Direct approach from the university
+Prestige or reputation
+Quality of teaching
+Location
+Flexibility and responsiveness to the organisationâ€™s requirements
+Area of expertise/speciality
+79
+62
+52
+26
+25
+16
+11
+12
+2
+5
+With higher tuition fees and a university system
+increasingly driven by student demand, a quarter of
+employers (25%) look to provide financial support
+for students studying selected subjects. Support of
+this kind can be important in encouraging people to
+acquire the knowledge and skills most needed by
+businesses and can form part of a recruitment and
+development strategy. While the greater resources of
+larger firms means they are more likely to offer some
+student sponsorship (29%), even among SMEs student
+sponsorship is practised to some extent (by 14%).
+References
+1	 GDP increased by 0.8% in the Q1 2014: Gross Domestic Product, Q1
+2014, ONS, 22 May 2014
+2	 CBI/Accenture On the up, employment and trends survey, December 2013
+3	 Labour market statistics, ILO unemployment January to March 2014
+data, ONS, March 2014
+4	 Labour market statistics, January to March 2014 data, ONS, March 2014
+5	 Labour market statistics, young people aged 16 to 24 January to March
+2014 data, ONS, March 2014
+6	 JCQ, GCSE and Entry Level Certificate Results Summer 2013, August 2013
+7	 First steps: a new approach for our schools, CBI, November 2012
+8	 A Mann, D Massey, P Glover, E Kashefpadkel and J Dawkins, Nothing
+in common: The career aspirations of young Britons mapped against
+projected labour market demand (2010-2020), Education &amp; employers
+taskforce, March 2013
+9	 UK Commissionâ€™s Employer Skills Survey 2013: UK Results, UKCES,
+January 2014
+10	 Hidden talents: skills mismatch, CESI, June 2012
+11	 The Richard review of apprenticeships, BIS, November 2012
+12	 Making apprenticeships more accessible to small and medium-sized
+enterprises, BIS, May 2012
+13	 Apprenticeships, fifth report of session 2012â€“13, House of Commons
+Business, Innovation and Skills Committee, 2013
+14	 March Deadline Analysis: Subjects, UCAS, March 2014
+15	 Budget 2014, HM Treasury, March 2014
+16	 BIS/SFA March 2014: All age apprenticeship by level and age
+participation
+17	 Apprenticeship statistics, House of Commons library note SN/EP/6113,
+10 February 2014
+18	 Based on 25.63 million employees aged 16 and over in employment in
+the three months to March 2014, according to ONS
+19	 Skills outlook 2013: first results from the survey of adult skills, OECD, 2013
+20	 M Harrison, Jobs and growth: the importance of engineering skills to the
+UK economy, The Royal Academy of Engineering, 2012
+21	 Engineering our future: stepping up the urgency on STEM, CBI, March 2014
+22	 Raising the bar: business priorities for industrial strategy one year on,
+CBI, September 2013
+23	 http://www.stemnet.org.uk/content/ambassadors
+24	 Training our next generation of outstanding teachers: implementation
+plan, Department for education, November 2011
+25	 Initial teacher training census for the academic year 2013/14,Department
+for education, November 2013
+26	 School workforce in England: November 2013, Department for education,
+April 2014
+27	 http://www.researchersinschools.org/researchers/maths-and-
+physics-uplift/
+28	 GCSE and equivalent results in England 2012/13 (revised), Department for
+education, January 2014
+29	 Funding for higher education in England for 2014-15: HEFCE grant
+letter from BIS, February 2014
+30	 First steps: a new approach for our schools, CBI, November 2012
+31	 Changing the pace: CBI/Pearson education and skills survey 2013, CBI,
+June 2013
+32	 â€˜First new college in 20 years to support development of High
+Speed 2 (HS2)â€™, BIS press release, January 2014, https://www.gov.
+uk/government/news/first-new-college-in-20-years-to-support-
+development-of-high-speed-2-hs2
+33	 Apprenticeship statistics, House of Commons library note SN/EP/6113,
+10 February 2014
+34	 The Richard review of apprenticeships, BIS, November 2012
+35	 Making apprenticeships more accessible to small and medium-sized
+enterprises, BIS, May 2012
+36	 Apprenticeships, fifth report of session 2012â€“13, House of Commons
+Business, Innovation and Skills Committee, 2013
+37	 http://www.cbi.org.uk/media-centre/news-articles/2014/05/cbi-
+response-to-apprenticeship-reform/
+38	 First steps: a new approach for our schools, CBI, November 2012
+39	 See for example the commentary on comparative international
+performance by Robert Peston, â€˜UK education: average wonâ€™t doâ€™,
+http://www.bbc.co.uk/news/business-25198153
+40	 Results from PISA 2012: United Kingdom, Country note, OECD, 2013
+41	 https://www.gov.uk/government/publications/vocational-
+qualifications-for-14-to-19-year-olds
+42	 Changing the pace: CBI/Pearson education and skills survey 2013,
+CBI, 2013
+43	 National curriculum assessments at key stage 2 in England 2013,
+Department for education, December 2012
+44	 My education, Pearson and Teach First, 2014
+45	 Careers guidance and inspiration in schools: statutory guidance for
+governing bodies, school leaders and school staff, Department for
+education, April 2014
+46	 Going in the right direction?, Ofsted, September 2013
+47	 My Education, Pearson and Teach First, November 2013
+48	 K Board and T Tinsley, Language Trends 2013/14: the state of language
+learning in primary and secondary schools in England, CfBT and British
+Council, 2014
+49	 The state of school governing in England 2014, University of Bath &amp;
+national governorsâ€™ association, May 2014
+50	 My Education, Pearson and Teach First, November 2013
+51	 An aspirational nation: creating a culture change in careers provision,
+National Careers Council, June 2013
+52	 Careers Guidance and inspiration in schools â€“ statutory guidance for
+governing bodies, school leaders and school staff, DfE, April 2014
+53	 Graduates in the UK labour market 2013, ONS, November 2013
+54	 CBI/NUS, Working towards your future: making the most of your time
+in higher education, March 2011
+55	 http://www.timeshighereducation.co.uk/world-university-
+rankings/2013-14/world-ranking
+56	 Encouraging a British invention revolution: Sir Andrew Wittyâ€™s review of
+universities and growth, BIS, October 2013
+75Gateway to growth: CBI/Pearson education and skills survey 2014
+www.cbi.org.ukProduct code: 10407
+For further information on this report,
+or for a copy in large text format contact:
+Grace Breen
+Policy Adviser
+Employment and skills
+CBI
+Cannon Place
+78 Cannon Street
+London EC4N 6HN
+T: +44 (0)20 7395 8047
+E: grace.breen@cbi.org.uk
+Â© Copyright CBI 2014
+The content may not be copied,
+distributed, reported or dealt
+with in whole or in part without
+prior consent of the CBI.
+Printed by Colourscript on
+Revive 100 pure white silk, containing
+100% recovered fibre certified by the FSCÂ®.
+Colourscript is certified to ISO 14001 and
+registered to EMAS environmental
+management systems NEZ052.
+</field>
+	

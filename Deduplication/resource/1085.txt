@@ -1,0 +1,6 @@
+>
+
+	
+		<field name="slideshow_id">36626772</field>
+		<field name="slide_text"></field>
+	

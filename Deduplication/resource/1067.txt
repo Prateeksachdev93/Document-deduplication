@@ -1,0 +1,78 @@
+>
+
+	
+		<field name="slideshow_id">36626790</field>
+		<field name="slide_text">OSAMA MOHAMMAD AL-HAKEEM
+OBJECTIVE
+My objective is to obtain a good experience and position in IT activity or any related field
+which will allow me to utilize and share my abilities .
+PERSONAL INFORMATION
+Date of Birth : 15 Sep 1986.
+Gender : Male.
+Marital Status : Single.
+Nationality : Jordanian.
+Place of Birth : Kuwait.
+Tel No. : Mobile: 0788022010 / 0796413400.
+Home: 06-5310280
+E-Mail : Osama_10_ps@hotmail.com
+EDUCATION
+The University Of Jordan, Amman, Jordan 2005-2009
+BSc in Computer Science, Graduated June, 2009
+Work and Experience
+â€¢ JorAMco,(Jordan Aircraft Maintenance Limited) Amman, Jordan June 2014 â€“ Present
+* Work as Technical Support.
+â€¢ Capital Bank Of Jordan, Amman , Jordan Nov 2011 â€“ June 2014
+* Banking Applications System Support Officer.
+ï‚§ Administrator for Banking Application. ( Create , modify Userâ€™s and Privilege )
+ï‚§ T24 System (TEMENOS Core Banking System) as the Application Support.
+ï‚§ Troubleshooting and Opening Calls with temenos ( T24 ) portal..
+ï‚§ ECC System (Electronic Check Clearing), as the Application Support.
+ï‚§ Providing Support for the end users
+ï‚§ SWIFT (SWIFT Alliance).
+ï‚§ Any other applications developed by the bank.
+1
+ï‚§ Generating reports from different systems for the other departments
+* ATM Support Officer
+ï‚§ Preparing and Configurations for the ATMâ€™s Software.
+ï‚§ Managing ATMs using CR2 application.
+ï‚§ Troubleshooting ATMâ€™s Problems and Errors
+â€¢ Falcons Soft Co., Amman, Jordan Oct 2009 â€“ Nov 2011
+By Register and Accept in Graduate Internship &amp; Employment Program (GEP).
+Which Run Under the supervision of the Ministry of labor. Dec 2009 â€“ June 2011
+.
+* Got Training , Learning Delphi Language and Work as Programmer and System analyst,
+Working on POS System ,Order's System, School's System, Factory System , and some Other
+System's. (Delphi Language),
+â€¢ JORDAN INVESTMENT &amp; FINANCE BANK , Amman , Jordan
+Training in IT department of the main Branch, as Prerequisite to graduate from
+The University. Aug 3, 2008 â€“ Sep 11, 2008
+LANGUAGES SKILLS
+Arabic : Mother language
+English : Good reading, writing and speaking
+GENERAL SKILLS
+â€¢ Accurate, reliable, and presentable.
+â€¢ Ability to Analysis Systems.
+â€¢ Experience in tracing problems and find a proper corrections and solutions.
+â€¢ Advanced user of the Internet, and search engine optimization.
+â€¢ Ability to work well in a team environment.
+â€¢ Ability to learn new technology or programming languages in short time.
+â€¢ Ability to Make Good Communication with Other.
+â€¢ Computer Maintenance (Hardware and Software).
+â€¢ Programming languages.
+â€¢ Ability to Work under Pressure.
+2
+SOFTWARE LANGUAGES
+â€¢ DELPHI.
+â€¢ ORACEL (SQL + Pl /SQL + Forms + Report).
+â€¢ VB &amp; VB.NET.
+â€¢ JAVA.
+â€¢ C++.
+â€¢ HTML.
+Courses
+â€¢ SOFT SKILLS by Graduate Internship &amp;Employment Program (GEP).
+â€¢ VB.NET and ASP.NET from Pioneer Training center
+â€¢ Oracle (SQL, PL/SQL, Forms, Report) From Jitawi station .
+.
+3
+</field>
+	

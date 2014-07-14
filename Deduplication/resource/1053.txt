@@ -1,0 +1,107 @@
+>
+
+	
+		<field name="slideshow_id">36626804</field>
+		<field name="slide_text">Seema Pandit
+Senior Product Manager at Yahoo
+Highly experienced Product Manager, looking for an opportunity to apply my experience
+as Product, Partner and Program manager to lead product(s) and strong cross-functional
+team(s) for team and organization success
+Summary
+â€¢ Overall 17 years experience
+â€¢ Product and program leadership, working with multi-location teams across product
+marketing, partner management and Business development, design, engineering,
+quality, operations, legal, and customer care
+â€¢ Certified Product owner and Scrum master with unique combination of hands-on
+experience in road-map planning, prioritization, backlog grooming and sprint
+planning along with setting up, coaching and building self-organizing scrum teams
+â€¢ Establish process, governance and feedback mechanisms to drive continuous
+improvement and improve efficiency
+â€¢ Strong Project management skills, drive execution end-to-end from roadmap to
+delivery with focus on quality
+â€¢ An excellent communicator, good listener, with emphasis on building strong
+relationships and with a strong sense of responsibility &amp; integrity
+Skills
+Product Management, Agile methodologies, Partner management, Program Management,
+Waterfall/Iterative development, Team building, Process and operations, Enterprise and
+Internet companies, Globalization and e-commerce domains.
+Work Experience
+Sept 12 till date Senior Product Manager
+Yahoo, Bangalore, India
+Product Owner for a $180M+ global business for Search Distribution products for Yahoo
+comprising Yahoo Toolbar, Customized Browsers, Search and Home page set products
+and Yahoo Extensions to increase Yahoo! Search volume and revenue. My charter is to
+enhance Search volume and revenue and traffic to Yahoo homepage and other Yahoo
+sites.
+Major achievements:
+â€¢ Launched new products for setting default search and homepage to Yahoo on IE,
+FF and Chrome browsers
+â€¢ Increased Search volume and revenue through Search distribution products by
+10% YOY for H2
+â€¢ Doubled number of downloads of Yahoo customized browsers YOY
+â€¢ Launched many experiments on Yahoo toolbar and new extensions for driving
+traffic to Yahoo websites, search
+â€¢ Launched enhanced user experiences on existing toolbar buttons
+Feb 09 to Aug 12 Senior Program Manager
+Yahoo, Bangalore, India
+Program Manager for the Yahoo! Small Business team. Yahoo Small Business was a
+$180M business that sells Domains provides Hosting and e-Commerce platforms with
+5L+ web hosting and 30K+ eCommerce customers.
+Major achievements:
+â€¢ Successfully managed the transition of the multi-functional Engineering teams
+from USA to Bangalore; driving transition timelines, hiring, training, risk
+management, communication across stakeholders. Met the transition goals and
+success criteria for transition
+â€¢ Established process to ensure execution rhythm for multiple, concurrent projects
+â€¢ Setup the pilot Scrum team for Small Business Advisor, and played the role of
+Scrummaster from start of the product till its launch
+â€¢ Set up the Scrum model for 8 Scrum teams, coaching the teams and moved from
+a 3 month release cycle to a monthly release cycle
+â€¢ Set up the Agile Task force for Audit of Scrum teams and delivered training,
+continuous process improvements and sharing of best practices across scrum
+teams
+â€¢ Driving the Scrum of scrums across 8 scrum teams; proactively identifying
+resource gaps and risks, managing highly matrixed internal resources with
+competing priorities, inter-dependencies and driving critical delivery for the
+program
+Dec 03 to Jan 09 Program Manager
+Sun Microsystems, Bangalore, India
+Program Manager in the Sun Globalization team, driving internationalization (i18n),
+translation and localization (l10n) of 4 products in the Sun Java Enterprise system suite.
+Major achievements:
+â€¢ Collaborated with the product teams, globalization teams and vendors in 5
+different locations, to ship the L10n bundles for 7 languages as part of the English
+product release with aggressive schedules, on time and within assigned budget.
+â€¢ Engaged with the various stakeholders and Senior Management throughout the
+Product life cycle (PLC) to plan, co-ordinate and deliver the globalized products.
+â€¢ Drove process improvements and efficiencies within G11n teams as well as with
+the product teams.
+â€¢ Selected for Sun Engineering Mentoring program, SEED, sponsored by the CTO.
+Early Career (additional work experience available on request)
+Nov 98 to Nov 03: Team Leader (s/w development) at Incotec Software, Pune, India
+Worked as a software developer and team leader at the Indian subsidiary of Incotec
+France. Incotec specializes in business intelligence software for the manufacturing and
+service businesses.
+May 98 to Nov 98: Executive faculty at Anuvin Business Solutions Ltd (ABSL), a training
+franchisee of IBM Global Services (India) Pvt. Ltd under the IBM-ACE (IBM Authorised
+Centre for Education) brand name.
+Oct 96 to May 98: Faculty and group leader at NIIT Ltd, Pune, India
+Education and Certifications
+â€¢ Completion of Design Incubatorâ€™s Core Training Programme in User Experience
+Design, Dec 2013
+â€¢ CSPO certification from The Scrum Alliance, Jan 2013
+â€¢ Completion of Adaptive Marketingâ€™s Adaptive Product Management Essentials
+Workshop, Sept 2012
+â€¢ CSM Certification from The Scrum Alliance, May 2011
+â€¢ PMP Certification from PMI, September 2005 (expired)
+â€¢ Microsoft Certified Professional in developing MFC/C++ applications (expired)
+â€¢ Microsoft Certified Professional in MS SQL Server database design (expired)
+â€¢ MCPS in Windows 95 (expired)
+â€¢ Honours Diploma in Systems Management, 1991 from NIIT Ltd, India and an
+additional 1year IT course in 1995-96 for training in Computer Organization, Data
+structures, COBOL, DOS, Dbase, Unix, C, OOPS concepts, C++, Sybase, Software
+lifecycle management, System Analysis and design
+â€¢ Bachelor Degree in Commerce/Accounting in 1992
+oooooooooo
+</field>
+	

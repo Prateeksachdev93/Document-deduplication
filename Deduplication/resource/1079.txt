@@ -1,0 +1,16 @@
+>
+
+	
+		<field name="slideshow_id">36626778</field>
+		<field name="slide_text">Date- 2nd
+July 2014
+NOTICE
+CMC CONGRATULATE
+Mr. Soumen Chakraborty
+(B.Tech 2014)
+Aravali College of Engineering and Management
+For getting Placed In
+FCS Software Solutions
+CMC NOIDA, PREET VIHAR, FARIDABAD
+</field>
+	

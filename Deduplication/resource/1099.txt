@@ -1,0 +1,12 @@
+>
+
+	
+		<field name="slideshow_id">36626758</field>
+		<field name="slide_text">Jeans
+Trousers Shorts
+Shirt
+Coat Boots
+Watch Cap Handkerchief
+Belt
+</field>
+	

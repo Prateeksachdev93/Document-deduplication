@@ -1,0 +1,412 @@
+>
+
+	
+		<field name="slideshow_id">36627783</field>
+		<field name="slide_text">Correo E. : carolozrc@hotmail.com CV Juan Carlos GonzÃ¡lez Carrascal
+CURRÃCULUM VITAE
+1. Nombre: JUAN CARLOS
+2. Apellidos: GONZÃLEZ CARRASCAL
+3. TelÃ©fono: 615540693
+4. CategorÃ­a Profesional: Consultor SIG/GIS
+5. FormaciÃ³n:
+InstituciÃ³n Universidad PolitÃ©cnica de Valencia y FUNDICOT
+Fecha 1998
+TÃ­tulo
+Especialista Universitario en OrdenaciÃ³n del Territorio y Medio
+Ambiente
+InstituciÃ³n Universidad de Salamanca
+Fecha 1997
+TÃ­tulo Licenciado en GeografÃ­a
+Cursos especializados:
+- 2011 Bundle ArcGis Server 10. ESRI EspaÃ±a. 20 horas
+- 2009 Curso de Infraestructuras de Datos Espaciales (IDE). Instituto GeogrÃ¡fico
+Nacional. 40 horas.
+IntroducciÃ³n a BEA Web Logic. 16 horas.
+- 2007 AnÃ¡lisis y DiseÃ±o con UML y Rational Rose 2003. SUNION. 35 horas.
+- 2006 AdministraciÃ³n ORACLE 9i .SUNION. 60 horas.
+- 2004 Visual Basic .NET. Dayfisa FormaciÃ³n. 40 horas
+AdministraciÃ³n SQL SERVER 2000. SUNION. 32 horas
+- 2002 Servidores Internet, Intranet, Extranet. Salmantina de Lenguas. 300 horas.
+- 2000 Model.It Foundation y Obra Civil. SMALLWORLD Systems EspaÃ±a. 24 horas.
+Model.It Foundation y Fibra Ã“ptica. SMALLWORLD Systems EspaÃ±a. 24 horas.
+IntroducciÃ³n a Smallworld Magik. CH2M HILL EspaÃ±a. 30 horas.
+MICROSTATION. Escuela Univ. IngenierÃ­a TÃ©cnica TopogrÃ¡fica (UPM). 40
+horas
+AUTOCAD 2000. Escuela Sistemas InformÃ¡ticos (ESI). 40 horas
+- 1998 Sistemas de InformaciÃ³n GeogrÃ¡fica: TecnologÃ­a, AplicaciÃ³n y Proyectos.
+Siemens-Nixdorf EspaÃ±a y Universidad AutÃ³noma de Madrid (Departamento de
+GeografÃ­a). 130 horas.
+Agente de Desarrollo Local Instituto Nacional de Empleo (INEM). 400 horas.
+1
+Correo E. : carolozrc@hotmail.com CV Juan Carlos GonzÃ¡lez Carrascal
+- 1997 Fundamentos de los Sistemas de InformaciÃ³n GeogrÃ¡fica. Aplicaciones en las
+Ciencias de la Tierra y en CartografÃ­a Ambiental Universidad de Salamanca
+(Departamento de GeologÃ­a), International Institute for Aerospace Survey and
+Earth Sciences (ITC PaÃ­ses Bajos) y Sociedad EspaÃ±ola de GeomorfologÃ­a
+(SEG). 45 horas.
+Idrisi para Windows 2.0 Universidad de AlcalÃ¡ de Henares (Departamento de
+GeografÃ­a) y Centro de Recursos IDRISI de EspaÃ±a. 40 horas.
+TÃ©cnico en GestiÃ³n de Recursos Naturales DiputaciÃ³n Provincial de
+Salamanca y AsociaciÃ³n EspaÃ±ola de la Carretera. Salamanca. 250
+horas.
+- 1995 IntroducciÃ³n a los Sistemas de InformaciÃ³n GeogrÃ¡fica. Universidad Nacional
+de EducaciÃ³n a Distancia (UNED). Ãvila. 30 horas.
+6. Idiomas:
+LeÃ­do Hablado Escrito
+EspaÃ±ol Lengua Materna
+InglÃ©s 4 3 3
+7. Conocimientos TÃ©cnicos:
+SIG Core Spatial Technology (Smallworld), Spatial Intelligence. ArcGIS Desktop,
+ArcSDE, ArcGIS Spatial Analyst, ArcGIS 3D Analyst, ArcGIS Network Analyst.
+Mapinfo. Geomedia, Idrisi, Autodesk Map 3d
+Sistemas CAD Autocad, Microstation
+Bases de datos espaciales Oracle (Spatial), Core Spatial Technology (Smallworld),
+PostGIS, MySQL
+Bases de datos Oracle, SQL Server, PostgreSQL, MySQL
+GIS cliente cÃ³digo abierto GvSIG, Kosmo, Udig, Jump, QGIS
+GIS Web Comerciales ArcGis for Server
+GIS Web cÃ³digo abierto Mapserver, Geoserver
+Traductores GIS/CAD FME
+Interfaces visuales BBDD Oracle Toad, Sql Developer
+Herramientas MetodolÃ³gicas Microsoft Project
+MetodologÃ­a MÃ©trica, OGC, ISO.
+2
+Correo E. : carolozrc@hotmail.com CV Juan Carlos GonzÃ¡lez Carrascal
+10. SituaciÃ³n Actual :
+Consultor GIS en INTERRA
+11. AÃ±os de Experiencia Profesional: 15
+12. Experiencia Profesional :
+12.1
+Fecha Febrero 2011 â€“ Actualidad
+CompaÃ±Ã­a INTERRA
+PosiciÃ³n Consultor SIG
+DescripciÃ³
+n
+Como Consultor GIS en INTERRA aporta su conocimiento en consultorÃ­a y
+anÃ¡lisis funcional de proyectos con informaciÃ³n geogrÃ¡fica, asÃ­ como en la
+elaboraciÃ³n de propuestas para este tipo de proyectos, especialmente en los
+campos de IngenierÃ­a GeolÃ³gica y Medioambiental. Amplios conocimientos
+de software SIG de diferentes fabricantes u Open Source para diferentes
+entornos, asÃ­ como conocimientos de administraciÃ³n de Bases de Datos
+Espaciales y de GIS Web. Muy especializado en datos y formatos
+geogrÃ¡ficos. Aporta amplia experiencia en formaciÃ³n en Sistemas de
+InformaciÃ³n GeogrÃ¡fica.
+Administrador de ArcGis Server y de Geodatabases Corporativas bajo
+ArcSDE.
+Proyectos:
+ï‚¤ ADAPT (URBAN FUTURES PLATFORM-BIOSPHERE SMART
+CITIES): Plataforma Digital de adaptaciÃ³n al futuro urbano en
+Reservas de la Biosfera, su entorno, y en Ciudades
+Patrimonio.
+Proyecto I+D+i AVANZA2 Competitividad 2012,Ref: TSI-020606-2012-
+52) En ejecuciÃ³n
+http://195.76.147.227/adapt/portal/
+ï± Tareas: AnÃ¡lisis del visor GIS y sus funcionalidades, modelo de
+datos, conversiÃ³n de formatos. PublicaciÃ³n y administraciÃ³n de
+servicios GIS. Administrador del sitio de ArcGis Server
+ï± Herramientas utilizadas: ArcGis Server 10.1, ArcGis Desktop 10.1
+ï‚¤ RENFORUS: Plataforma para la implantaciÃ³n de energÃ­as
+renovables en sitios UNESCO
+3
+Correo E. : carolozrc@hotmail.com CV Juan Carlos GonzÃ¡lez Carrascal
+http://www.renforus.net/; http://renforus.net/mapping/
+ï± Tareas: AnÃ¡lisis del visor GIS y sus funcionalidades, modelo de
+datos. PublicaciÃ³n y administraciÃ³n de servicios GIS. Administrador
+del sitio de ArcGis Server y de ArcSDE
+ï± Herramientas utilizadas: ArcGis Server 10.1, ArcGis Desktop 10.1,
+ArcSDE para SQL Server
+ï‚¤ Observatorio de la Biosfera de Fuerteventura
+http://195.76.147.227:8081/GViewers/ViewerHTMLFuertevent
+ura/
+ï± Tareas: AnÃ¡lisis del visor GIS y sus funcionalidades, modelo de
+datos, conversiÃ³n de formatos. PublicaciÃ³n y administraciÃ³n de
+servicios GIS. Administrador del sitio de ArcGis Server y de ArcSDE
+ï± Herramientas utilizadas: ArcGis Server 10.1, ArcGis Desktop 10.1,
+ArcSDE para SQL Server
+ï‚¤ Observatorio de la Biosfera de El Hierro
+http://195.76.147.227:8081/GViewers/ViewerHTMLElHierro/
+ï± Tareas: AnÃ¡lisis del visor GIS y sus funcionalidades, modelo de
+datos, conversiÃ³n de formatos. PublicaciÃ³n y administraciÃ³n de
+servicios GIS. Administrador del sitio de ArcGis Server y de ArcSDE
+ï± Herramientas utilizadas: ArcGis Server 10.1, ArcGis Desktop 10.1,
+ArcSDE para SQL Server
+ï‚¤ TUREBE: Portal web para la asociaciÃ³n espaÃ±ola de turismo
+en naturaleza
+http://turebe.org/portal/
+http://195.76.147.227:8081/GViewers/ViewerHTMLTurebe/
+ï± Tareas: AnÃ¡lisis del visor GIS y sus funcionalidades, modelo de
+datos, conversiÃ³n de formatos. PublicaciÃ³n y administraciÃ³n de
+servicios GIS. Administrador del sitio de ArcGis Server y de ArcSDE
+ï± Herramientas utilizadas: ArcGis Server 10.1, ArcGis Desktop 10.1,
+ArcSDE para SQL Server
+ï‚¤ MODELRISK: Herramienta Avanzada para la EstandarizaciÃ³n
+en la EvaluaciÃ³n y GestiÃ³n de Riesgos Naturales basada en
+cartografÃ­a cuantitativa.
+Proyecto I+D INNPACTO, Ref.: IPT-310000-2010-40
+http://195.76.147.227:8081/GViewers/ViewerHTMLModelrisk/
+4
+Correo E. : carolozrc@hotmail.com CV Juan Carlos GonzÃ¡lez Carrascal
+ï± Tareas: AnÃ¡lisis del proyecto y sus funcionalidades, modelo de
+datos, definiciÃ³n de geoprocesos vÃ­a web. PublicaciÃ³n y
+administraciÃ³n de servicios GIS. Administrador del sitio de ArcGis
+Server y de ArcSDE
+ï± Herramientas utilizadas: ArcGis Server 10.1, ArcSDE para SQL
+Server, ArcGis Desktop 10.1, ArcHydro, Model Builder
+ï‚¤ RB DIGITAL: GestiÃ³n de Reservas de la Biosfera.
+Herramienta avanzada para la gestiÃ³n sostenible y desarrollo
+del sistema de informaciÃ³n y participaciÃ³n en las Reservas de
+la Biosfera (apoyada por UNESCO)
+Proyecto I+D+i AVANZA Competitividad 2010, Ref: TSI-020110-2009-
+386 , TSI-020302-2010-16)
+www.biospheresmart.org
+ï± Tareas: AnÃ¡lisis del proyecto y sus funcionalidades, modelo de
+datos, conversiÃ³n de formatos. PublicaciÃ³n y administraciÃ³n de
+servicios GIS. Administrador del sitio de ArcGis Server y de ArcSDE
+ï± Herramientas utilizadas: ArcGis Server 10.1, ArcGis Desktop 10.1,
+ArcSDE para Postgis y ArcSDE para SQL Server, Google Earth plug-
+in
+ï‚¤ TURIMOV: Desarrollo de un Sistema Inteligente de Turismo
+MÃ³vil para el impulso del turismo dinÃ¡mico en Castilla y LeÃ³n.
+Proyecto I+D Idea &amp; Decide 2008, Agencia de InnovaciÃ³n, FinanciaciÃ³n e
+InternalizaciÃ³n de Castilla y LeÃ³n (ADE), Ref.: 05/08/SA/0040
+ï± Tareas: AnÃ¡lisis del visor GIS y sus funcionalidades, modelo de
+datos, conversiÃ³n de formatos. PublicaciÃ³n y administraciÃ³n de
+servicios GIS. Administrador del sitio de ArcGis Server
+ï± Herramientas utilizadas: ArcGis Server 10.1, ArcGis Desktop 10.1
+ï‚¤ Capacidad de Acogida del Territorio para la OrdenaciÃ³n
+Extractiva de Tenerife (Cabildo de Tenerife)
+ï± Tareas: RealizaciÃ³n de anÃ¡lisis geogrÃ¡ficos y mapas temÃ¡ticos
+ï± Herramientas utilizadas: ArcGis Desktop 10, Spatial Analyst, Model
+Builder
+ImparticiÃ³n de cursos:
+ï‚¤ ARCGIS
+ï± Varios cursos de IniciaciÃ³n (5 cursos) y de Nivel avanzado (2 cursos)
+5
+Correo E. : carolozrc@hotmail.com CV Juan Carlos GonzÃ¡lez Carrascal
+a ARCGIS v. 10 para TRAGSA e INECO-TIFSA. Duraciones entre
+20-30 h.
+12.2
+Fecha Septiembre 2007 â€“ Enero-2011
+CompaÃ±Ã­a NEORIS
+PosiciÃ³n Consultor SIG
+DescripciÃ³
+n
+Como Consultor GIS en el Ã¡rea de Gobierno aporta su conocimiento en
+consultorÃ­a y anÃ¡lisis funcional de proyectos con informaciÃ³n geogrÃ¡fica, asÃ­
+como en la elaboraciÃ³n de propuestas para este tipo de proyectos. Amplios
+conocimientos de software SIG de diferentes fabricantes u Open Source
+para diferentes entornos, asÃ­ como conocimientos de administraciÃ³n de
+Bases de Datos Espaciales. Muy especializado en datos y formatos
+geogrÃ¡ficos. AportÃ³ amplia experiencia en imparticiÃ³n de formaciÃ³n en
+Sistemas de InformaciÃ³n GeogrÃ¡fica.
+Proyectos:
+ï‚¤ AutomatizaciÃ³n de Procesos de Negocio para Banco de
+Santander UK (proyecto realizado en Bradford, Gran
+BretaÃ±a)
+ï± Tareas: ejecuciÃ³n del proyecto
+ï± Herramientas utilizadas: Quick Test Pro, Visual Basic Script
+ï‚¤ Herramienta Web para cÃ¡lculo de rutas para personas con
+movilidad reducida para FederaciÃ³n de Municipios de Madrid
+ï± Tareas: elaboraciÃ³n de la propuesta, anÃ¡lisis y diseÃ±o tÃ©cnico.
+ModelizaciÃ³n de red de transporte.
+ï± Herramientas utilizadas: ArcGis Server for Java, ArcGis Desktop,
+ArcGis Network Analyst, ArcSDE for Oracle
+ï‚¤
+ï‚¤ Movilidad para la GestiÃ³n de la PrevenciÃ³n y Lucha contra
+Incendios Forestales para VAERSA
+ï± Tareas: elaboraciÃ³n de la propuesta, diseÃ±o y anÃ¡lisis
+ï± Herramientas utilizadas: Neoris Mobility Framework
+ï‚¤ ExplotaciÃ³n del CRM de Modelo de Precios de Cemex
+EspaÃ±a con herramientas GIS en entorno web.
+ï± Tareas: ConsultorÃ­a y anÃ¡lisis
+6
+Correo E. : carolozrc@hotmail.com CV Juan Carlos GonzÃ¡lez Carrascal
+ï± Herramientas utilizadas: Mapinfo, Mapinfo MapXtreme
+ï‚¤ Toma de citas en campo del Banco de Datos de
+Biodiversidad y CartografÃ­a de Microrreservas mediante
+Dispositivos MÃ³viles para la Conselleria Medi Ambient,
+Aigua, Urbanisme i Habitatge de la Generalitat Valenciana
+ï± Tareas: AdministraciÃ³n y soporte de la base de datos
+ï± Herramientas utilizadas: Oracle
+ï‚¤ GestiÃ³n de Reservas de Caza y Cotos de Pesca para la
+Junta de Castilla y LeÃ³n (MORECA)
+ï± Tareas: elaboraciÃ³n de la propuesta, anÃ¡lisis y diseÃ±o tÃ©cnico.
+DefiniciÃ³n de servicios web GIS.
+ï± Herramientas utilizadas: ArcIms, ArcGis Desktop, ErMapper
+ImparticiÃ³n de cursos:
+ï‚¤ ARCGIS
+ï± IniciaciÃ³n a ARCGIS v. 8.x, 9 .x para InformÃ¡tica y Comunicaciones
+de la Comunidad de Madrid (ICM), Ayto. de Madrid, Ayto. Valladolid,
+Junta de Castilla y LeÃ³n, y empresas privadas: TRAGSATEC,
+TECNIBERIA, PROINTEC, INYPSA, INECO-TIFSA, etc. En total,
+mÃ¡s de 20 cursos, con duraciones entre las 24 y 32 h. ElaboraciÃ³n
+de todos los contenidos del curso: temario y parte prÃ¡ctica
+ï± ARCGIS v. 8.x, 9 Avanzado para InformÃ¡tica y Comunicaciones de
+la Comunidad de Madrid (ICM) y empresas privadas: TRAGSATEC,
+TECNIBERIA, PROINTEC, INYPSA, INECO-TIFSA. En total, mÃ¡s
+de 10 cursos, con duraciones entre las 24 y 32 h. ElaboraciÃ³n de
+todos los contenidos del curso: temario y parte prÃ¡ctica
+ï± ARCGIS SPATIAL ANALYST v. 9.2 para INECO-TIFSA. 1 curso con
+una duraciÃ³n de 30 horas. ElaboraciÃ³n de todos los contenidos del
+curso: temario y parte prÃ¡ctica
+ï‚¤ ORACLE SPATIAL
+ï± ORACLE SPATIAL ESSENTIALS para Instituto HidrogrÃ¡fico de la
+Marina (MÂº. de Defensa). 30 horas
+ï± ORACLE SPATIAL ESSENTIALS para SADIEL. 30 horas
+ï‚¤ POSTGIS
+ï± INTRODUCCIÃ“N A POSTGIS para ConsejerÃ­a de Industria y Medio
+7
+Correo E. : carolozrc@hotmail.com CV Juan Carlos GonzÃ¡lez Carrascal
+Ambiente (Junta de Castilla La Mancha). 25 horas. ElaboraciÃ³n de
+todos los contenidos del curso: temario y parte prÃ¡ctica
+ï‚¤ GEOMEDIA
+ï± Geomedia Pro Avanzado v. 6 para InformÃ¡tica y Comunicaciones de
+la Comunidad de Madrid (ICM). En total, 3 cursos, con duraciÃ³n de
+32 h. ElaboraciÃ³n de todos los contenidos del curso: temario y parte
+prÃ¡ctica
+12.3
+Fecha Agosto 2002 â€“ Agosto 2007
+CompaÃ±Ã­a IBERLAN COMUNICACIONES Y SISTEMAS
+PosiciÃ³n Analista SIG
+DescripciÃ³
+n
+Funciones:
+- AnÃ¡lisis y diseÃ±o de modelos de datos geogrÃ¡ficos
+- Montaje de entornos con BBDD Oracle. AdministraciÃ³n y soporte
+- AnÃ¡lisis para proyectos de SIG
+- DiseÃ±o y realizaciÃ³n de pruebas
+- ElaboraciÃ³n de documentaciÃ³n tÃ©cnica
+- Asesoramiento sobre informaciÃ³n geogrÃ¡fica
+- Control de calidad de datos cartogrÃ¡ficos
+- ImparticiÃ³n de cursos SIG
+- PreparaciÃ³n de ofertas
+Proyectos :
+ï‚¤ AplicaciÃ³n de DMS de red elÃ©ctrica de ONE (Marruecos) para
+Eliop (Septiembre 2006-Mayo 2007) con Smallworld 4.0 y
+Oracle 9i. UtilizaciÃ³n de herramientas CASE-UML.
+AdministraciÃ³n de BBDD Oracle.
+ï‚¤ Prototipo de ImplantaciÃ³n del Sistema de InformaciÃ³n
+GeogrÃ¡fica para el Grupo de AcciÃ³n Local Sierra de la
+Demanda. (Enero-Febrero 2007)
+8
+Correo E. : carolozrc@hotmail.com CV Juan Carlos GonzÃ¡lez Carrascal
+ï‚¤ AplicaciÃ³n de operaciÃ³n de red elÃ©ctrica SGDE ANDE
+(Paraguay) para Eliop (Mayo-Agosto 2006) con Smallworld
+4.0. UtilizaciÃ³n de herramientas CASE-UML
+ï‚¤ ConsultorÃ­a tÃ©cnica sobre implementaciÃ³n de Geodatabases
+de ESRI en la planificaciÃ³n y gestiÃ³n urbanÃ­stica de Planes
+Generales de OrdenaciÃ³n Urbana para ARQR Arquitectos
+(Marzo-Abril)
+ï‚¤ DiseÃ±o de AplicaciÃ³n, modelo de datos y carga de datos
+(georreferenciaciÃ³n) de CartografÃ­a HistÃ³rica para DirecciÃ³n
+General del Patrimonio de la Comunidad de Madrid
+(Noviembre 2005-Febrero 2006)
+ï‚¤ PreparaciÃ³n y puesta en marcha de los entornos de
+desarrollo y pruebas del proyecto â€œSincronizaciÃ³n de GIS con
+SCADA de la Red ElÃ©ctricaâ€ de la empresa Centro Sur de
+Cuenca (Ecuador) para Eliop. AdministraciÃ³n de BBDD
+Oracle/ArcSDE (Julio 2005-Enero 2006)
+ï‚¤ ConsultorÃ­a tÃ©cnica sobre implementaciÃ³n de Geodatabases
+de ESRI con aplicaciÃ³n prÃ¡ctica en el Inventario de Pistas
+Forestales de la Junta de Castilla y LeÃ³n para Agresta
+(Mayo-Junio 2005)
+ï‚¤ TraducciÃ³n al castellano del software GIS GE-CORE
+SPATIAL TECHNOLOGY 4 (antiguo SMALLWORLD) y de los
+mensajes del mÃ³dulo de Telecomunicaciones PHYSICAL
+NETWORK INVENTORY (PNI- antiguo MODEL-IT) (2004-
+2005)
+ï‚¤ Pruebas de tratamiento de datos e incorporaciÃ³n a un
+servidor web cartogrÃ¡fico para IMADE (Julio-Septiembre
+2004)
+ï‚¤ Informe cartografÃ­a de la zona del corredor del Henares para
+Gas Natural (julio 2004) con Smallworld 3.3.
+ï‚¤ Tratamiento de datos para gestiÃ³n de informaciÃ³n urbana
+9
+Correo E. : carolozrc@hotmail.com CV Juan Carlos GonzÃ¡lez Carrascal
+MÃ³stoles Sur (Mayo 2004-Julio 2006)
+ï‚¤ HomologaciÃ³n MAPTEL (Marzo-Abril 2004)
+ï‚¤ GAS NATURAL (Agosto 2003-Junio 2004)
+ï‚¤ JAZZTEL (Agosto 2003-Octubre 2003) con Smallworld 3.2.
+ï‚¤ Analista de pruebas del GIS corporativo de AMENA
+(Septiembre 2002-Agosto 2003) con Smallworld 3.1.
+ImparticiÃ³n de cursos:
+ï‚¤ ARCGIS
+ï± IniciaciÃ³n a ARCGIS v. 8.x, 9 .x para InformÃ¡tica y Comunicaciones
+de la Comunidad de Madrid (ICM), Ayto. de Madrid, Ayto. Valladolid,
+Junta de Castilla y LeÃ³n, y empresas privadas: TRAGSATEC,
+TECNIBERIA, PROINTEC, INYPSA, INECO-TIFSA, AGRESTA, etc.
+En total, mÃ¡s de 30 cursos, con duraciones entre las 24 y 32 h.
+ElaboraciÃ³n de todos los contenidos del curso: temario y parte
+prÃ¡ctica
+ï± ARCGIS v. 8.x, 9 Avanzado para InformÃ¡tica y Comunicaciones de
+la Comunidad de Madrid (ICM) y empresas privadas: TRAGSATEC,
+TECNIBERIA, PROINTEC, INYPSA, INECO-TIFSA y AGRESTA. En
+total, mÃ¡s de 10 cursos, con duraciones entre las 24 y 32 h.
+ElaboraciÃ³n de todos los contenidos del curso: temario y parte
+prÃ¡ctica
+ï‚¤ GEOMEDIA
+ï± IniciaciÃ³n a Geomedia Pro v. 5.x, 6 para InformÃ¡tica y
+Comunicaciones de la Comunidad de Madrid (ICM). En total, mÃ¡s de
+10 cursos, con duraciones entre las 28 y 32 h. ElaboraciÃ³n de la
+parte prÃ¡ctica
+ï‚¤ ORACLE SPATIAL
+ï± IntroducciÃ³n a ORACLE SPATIAL 9i para BOSLAN IngenierÃ­a y
+ConsultorÃ­a. 20 horas
+ï‚¤ MAPINFO
+10
+Correo E. : carolozrc@hotmail.com CV Juan Carlos GonzÃ¡lez Carrascal
+ï± IntroducciÃ³n a MAPINFO 7.5, para GENASYS. 24 horas
+ï‚¤ MICROSTATION GEOGRAPHICS
+ï± IniciaciÃ³n a MICROSTATION GEOGRAPHICS 7.1 para el
+Ayuntamiento de Madrid. 40 horas. ElaboraciÃ³n de la parte prÃ¡ctica
+ï‚¤ CURSOS TEÃ“RICOS SOBRE SISTEMAS DE INFORMACIÃ“N
+GEOGRÃFICA
+ï± Cursos IntroducciÃ³n a GIS organizados por CEIM a travÃ©s de IBM.
+40 horas. ElaboraciÃ³n de todos los contenidos del curso: temario y
+parte prÃ¡ctica
+12.4
+Fecha Enero 2001 â€“ Noviembre 2001
+CompaÃ±Ã­a BATMAP
+PosiciÃ³n Especialista SIG y CartografÃ­a
+Personas
+al cargo
+4
+DescripciÃ³
+n
+CompaÃ±Ã­a de Servicios Basados en LocalizaciÃ³n GeogrÃ¡fica (LBS, Location
+Based Services). ImplantaciÃ³n de navegador geogrÃ¡fico y bases
+cartogrÃ¡ficas en diferentes dispositivos mÃ³viles: telÃ©fonos mÃ³viles, PDAs,
+Internet... para su uso en routing, tracking.
+Funciones:
+- Encargado de control de calidad de la cartografÃ­a
+- Responsable de la adquisiciÃ³n de cartografÃ­a de diferentes
+proveedores, conversiÃ³n de formatos y producciÃ³n de bases
+cartogrÃ¡ficas urbanas de diferentes paÃ­ses. GestiÃ³n de grupo
+formado por cuatro personas (un tÃ©cnico y tres operadores).
+- AnÃ¡lisis y asesoramiento tÃ©cnico cartogrÃ¡fico y de modelos de datos
+geogrÃ¡ficos.
+- DiseÃ±o de cartografÃ­a digital.
+- ElaboraciÃ³n de manuales y documentaciÃ³n tÃ©cnica.
+11
+Correo E. : carolozrc@hotmail.com CV Juan Carlos GonzÃ¡lez Carrascal
+12.5
+Fecha 1998 â€“ 2001
+CompaÃ±Ã­a CH2M HILL EspaÃ±a
+PosiciÃ³n Operador GIS; TÃ©cnico GNIS (Geographic Network Information
+System)
+DescripciÃ³
+n
+- ConfiguraciÃ³n de Sistemas de InformaciÃ³n GeogrÃ¡fica para
+operadores de telecomunicaciones (Smallworld 3.0, 3.1) : ONO,
+GLOBAL CROSSING, KALLAHAN NRW ASSOCIATES
+- IntroducciÃ³n, ediciÃ³n, actualizaciÃ³n, consultas, ploteo,
+mantenimiento y control de calidad de bases cartogrÃ¡ficas.
+- IntroducciÃ³n de datos de red (planta interna/externa) y obra civil, asÃ­
+como mejora de la eficiencia de estos procesos.
+- GeneraciÃ³n de documentaciÃ³n y manuales tÃ©cnicos sobre
+MODEL_IT.
+- ExportaciÃ³n/importaciÃ³n de informaciÃ³n entre diferentes formatos
+GIS/CAD con FME
+12
+</field>
+	

@@ -1,0 +1,289 @@
+>
+
+	
+		<field name="slideshow_id">36626843</field>
+		<field name="slide_text">Self-assessment guidance for
+post-16 providers
+Guidance
+Welsh Government circular no: 012/2014
+Date of issue: June 2014
+Replaces circular no: 004/2013
+Audience 	 Further education institutions (FEIs); work-based learning (WBL)
+providers; local authorities funded to deliver community learning;
+higher education institutions providing further education funded by
+the Department for Education and Skills (DfES); Welsh for Adults
+Language Centres; HM Prisons delivering offender learning; and
+other providers if specified in their funding agreement.
+Overview 	 This guidance sets out the requirements for providers funded by
+DfES to submit an annual self-assessment report (SAR) and quality
+development plan (QDP).
+Action	 None â€“ for information only.
+required	
+Further	 Enquiries about this document should be directed to:
+information	 Gayle Powell
+	 Further Education and Apprenticeships Division
+	 Department for Education and Skills
+	 Welsh Government
+	 TyË†â€™r Afon
+	 Bedwas Road
+	Bedwas
+	Caerphilly
+	 CF83 8WT
+	Tel: 01443 663717
+	e-mail: post16quality@wales.gsi.gov.uk
+Additional 	 This document can be accessed from the Welsh Governmentâ€™s
+copies 	 website at
+www.wales.gov.uk/topics/educationandskills/learningproviders/
+raisingqualityandstandards/landm/assessment/?lang=en
+Self-assessment guidance for post-16
+providers
+Digital ISBN 978 1 4734 1551 5
+Â© Crown copyright 2014
+WG22199
+Contents
+Introduction 2
+Overview of self-assessment requirements 4
+Features of effective self-assessment 5
+Scope and content of provider self-assessment 6
+Specific areas of focus for 2014/15 submissions 7
+Quality development plans 9
+Timing and arrangements for submissions 11
+2
+Introduction
+1 This guidance sets out the requirements for providers funded by the Department
+for Education and Skills (DfES) to submit an annual self-assessment report
+(SAR) and quality development plan (QDP). It applies to:
+further education institutions (FEIs);
+work-based learning (WBL) providers;
+local authorities funded to deliver community learning;
+higher education institutions providing further education funded by DfES;
+Welsh for Adults Language Centres;
+HM Prisons delivering offender learning; and
+other providers if specified in their funding agreement.
+2 The guidance which builds on previous versions, will be live from 1 August 2014,
+from which date all providers will be expected to incorporate the new
+requirements into their self-assessment.
+3 In consultation with DfES, Estyn (Her Majestyâ€™s Inspectorate of Education and
+Training in Wales) has produced toolkits that will help providers in undertaking
+self-assessment within the shared context of the Quality and Effectiveness
+Framework and the Common Inspection Framework. The toolkits complement
+this guidance by providing more detailed advice on how providers should
+evaluate themselves against the Common Inspection Framework.
+Requirements for WBL providers
+4 WBL consortia should submit a single SAR covering their membership. The SAR
+should reflect the full range of delivery by geographical area and sector, but must
+evaluate the overall effectiveness of leadership and management for the
+consortium as a whole. Providers will be aware that, to reflect the shape of the
+new provider network, Estyn inspects WBL contracts held by FEIs separately.
+We are therefore requesting a separate WBL SAR from FE institutions which
+have direct contracts to deliver WBL.
+5 Providers are wholly responsible for the performance of their contract, therefore
+they have responsibility for the self-assessment process with information being
+fed through from any sub-contractors. The self-assessment report should
+clearly state if a provider sub-contracts any element of the provision and detail
+with whom they sub-contract and what elements of provision (including volumes)
+is sub-contracted. This should reflect the definitions of sub-contracting contained
+within the WBL Programme Specification.
+6 The SAR should outline the processes for quality assuring these sub-contracted
+elements and how this information is fed into the overall self-assessment process.
+The performance of sub-contracted elements should be clearly reported and
+analysed within the SAR and the process for remedial or developmental action
+planning between the parties should be clear.
+3
+7 DfES funds a number of cross-border providers which also hold contracts with the
+Skills Funding Agency in England. Those providers which have provision in
+England and Wales may be subject to joint inspections by Estyn and Ofsted (the
+Office for Standards in Education, Childrenâ€™s Services and Skills).
+8 Whilst we do not expect providers which deliver the majority of their provision in
+England to undertake self-assessment specifically to meet the requirements of
+DfES, the SAR must include specific references to the provision in Wales,
+supported by relevant statistics and other evidence. Either a QDP relating to the
+Welsh provision, or a guide to which elements of the national QDP are relevant to
+the Welsh provision, should be included.
+Requirements for ACL providers
+9 As Estyn inspects Adult Community Learning (ACL) on a geographical
+partnership basis, ACL partnerships are expected to prepare their SAR on this
+basis, reflecting the range of provision delivered by all of the partners in the
+locality. DfES does not require separate ACL SARs for individual partners.
+Delivering Community Learning for Wales sets out the Welsh Governmentâ€™s
+strategic aims for Adult Community Learning and defines the key actions for the
+Welsh Government and providers. Partnerships should evaluate their response to
+these in their self-assessments.
+4
+Overview of self-assessment requirements
+10 The Quality and Effectiveness Framework (QEF) focuses on providersâ€™
+responsibility for managing and improving the quality of their own delivery, with
+close involvement of their learners in the process.
+Estyn Common Inspection Framework
+11 For 2014/15, providers should carry out their self-assessments based on the
+Common Inspection Framework:
+Overall judgement on the providerâ€™s current performance
+Overall judgement on the providerâ€™s prospects for improvement
+Key Question 1 - How good are outcomes?
+1.1 Standards
+1.2 Wellbeing
+Key Question 2: How good is provision?
+2.1 Learning experiences
+2.2 Teaching and training
+2.3 Care, support and guidance
+2.4 Learning environment
+Key question 3 - How good are leadership and management?
+3.1 Leadership
+3.2 Improving quality
+3.3 Partnership working
+3.4 Resource management
+5
+Features of effective self-assessment
+12 Self-assessment needs to be seen by providers as a tool for evaluating,
+monitoring and managing the quality of their provision, not as a requirement
+imposed by external inspectors or funding bodies. It should be a continuous
+process, not an annual â€˜snapshotâ€™.
+13 Effective self-assessment:
+focuses primarily on learners, their experiences and achievements, as the
+basis on which judgements are made;
+honestly identifies shortcomings and areas for development, as well as
+strengths;
+demonstrates a consistent approach across all areas, showing that where
+different teams have carried out the self-assessment, their findings have been
+drawn together and validated by senior management;
+involves staff, managers and governors from across the organisation;
+takes account of the views of learners, employers and other stakeholders,
+including partner organisations and sub-contractors where applicable;
+tracks progress from year to year in consolidating strengths and remedying
+weaknesses;
+draws together and evaluates evidence from a range of reliable sources and
+activities; and
+is fully integrated with the providerâ€™s planning cycle, so that objectives, targets
+and actions for each year reflect the outcomes of self-assessment.
+6
+Scope and content of provider self-assessment
+14 The self-assessment report must:
+cover the previous year (funding, academic or financial);
+include a brief introduction, setting out relevant background information, a
+summary of the process for undertaking self-assessment and a summary
+including significant strengths and weaknesses identified;
+include the specific areas of focus detailed in paragraphs 15-21 below;
+be cross-referenced to an appropriate range of sources of evidence
+supporting each judgement;
+evaluate statistical data on learner outcomes;
+be evaluative rather than descriptive, clearly identifying both strengths and
+weaknesses (guidance on using evaluative statements in self-assessment can
+be found on our website);
+be open and honest in recognising where improvement is needed;
+identify actions which have already been undertaken, or are underway, to
+address weaknesses;
+refer to external inspections, assessments and reviews and show progress
+that has been made in addressing their recommendations.
+7
+Specific areas of focus for 2014/15 submissions
+Estyn Annual Report 2012/13
+15 The Chief Inspectorâ€™s Annual Report for 2012/13 was published in January 2014.
+It is the second Annual Report since the introduction of the new Common
+Inspection Framework. The key issues raised were:
+Teachers do not always challenge learners to develop higher level standards
+of practical competence;
+too few tutors/assessors/teachers use individual learning plans to plan
+learning, set realistic goals and monitor progress;
+providers do not always plan a systematic approach to developing literacy and
+numeracy across the curriculum.
+Overall self-assessment is not robust enough to identify actions to address
+shortcomings;
+Many providers do not analyse learnersâ€™ Welsh language needs well enough
+and not all providers encourage learners to undertake training and
+assessment in Welsh; and
+Local Market Intelligence (LMI) is not always used effectively to match
+programmes to employment opportunities and industry needs.
+16 All providers should be evaluating how well they address these issues in their
+self-assessment report.
+Essential skills
+17 All providers should ensure that their SAR includes an evaluation of strategies for
+meeting learnersâ€™ literacy and numeracy needs. In some cases, providers will not
+be delivering literacy and numeracy skills themselves, but should focus on
+evaluating the effectiveness of their arrangements for initial assessment and
+referral. This should include a quantified summary of the outcomes of initial
+assessments and corrective action taken where evidence suggests there are
+quality issues regarding essential skills provision or a providerâ€™s essential skills
+learner outcomes are not satisfactory.
+18 Providers should refer to section 1.1.4 of Estynâ€™s Common Inspection Framework.
+Welsh-medium learning
+19 The Welsh-medium Education Strategy was published in April 2010 with an
+accompanying implementation programme. All providers are required to show
+how they contribute to the post-16 targets of the Strategy and how they are
+addressing the key objectives for the post-16 sector. The target for increasing
+Welsh-medium and bilingual learning activities for 16-19 year old learners in
+Schools and FE learning by 2015 is 18% and 7% respectively.
+8
+20 Work-based learning providers are also required to give due consideration to
+increasing their Welsh-medium and bilingual provision and the sector target for
+Welsh-medium and bilingual learning activities in 2015 is 2.5%.
+21 Providers should refer to section 1.1.5 and 2.1.3 of Estynâ€™s Common Inspection
+Framework and take note of the recommendations in Estynâ€™s Annual Report for
+2012/13 in respect of improving and increasing the delivery of Welsh-medium and
+Welsh-language learning.
+9
+Quality development plans
+22 Providers should take action to address all of the weaknesses identified in the
+self-assessment. The QDP should identify priorities for improvement and give a
+clear indication of how the provider intends to improve quality and raise standards
+year-on-year.
+23 The QDP can be presented as a summary document with cross-references to
+more detailed action plans, but it must clearly show how the most significant
+issues identified via self-assessment will be addressed. In terms of prioritisation, if
+resource implications prevent all of the shortcomings from being addressed, the
+QDP should show how resources have been prioritised to deal with the most
+important issues.
+24 The QDP should include a brief introduction, setting out:
+a summary of the process for developing the plan, including involvement of
+staff, managers and governors;
+clear identification of the priorities to be addressed over the next year; and
+a summary of how progress and outcomes will be monitored and reported to
+managers, governors and stakeholders.
+Features of effective quality development plans
+25 Quality development plans must:
+be cross-referenced to strengths and weaknesses in the SAR;
+indicate priorities for action;
+identify specific actions to be taken to address weaknesses and build on
+strengths;
+include measurable targets and performance indicators wherever possible;
+identify timescales for completion and, where actions are long-term, interim
+review dates;
+identify resources required to undertake actions;
+identify where external expertise is needed to undertake actions;
+identify staff responsible for undertaking each action;
+identify a manager (or managers) who will take responsibility for reviewing
+progress against the QDP and measuring the resulting improvements; and
+include cross-references to Estyn inspection reports, strategic/business/
+service delivery plans and more detailed action plans for specific departments
+or areas of activity.
+26 Effective self-assessment should be an integral part of all providersâ€™ quality
+systems including monitoring progress towards the QDP. Although there is no
+longer a requirement for providers to routinely submit quarterly QDP updates to
+DfES, we expect providers to continue to regularly monitor progress in
+implementing the QDP. We may ask to see these updates to ensure that we
+have current and relevant information on providersâ€™ progress. DfES also expect
+10
+providers to ensure that actions being taken in response to Estyn inspections are
+integrated into their QDP cycles.
+11
+Timing and arrangements for submissions
+27 DfES recognises the importance of each provider developing its own quality and
+planning systems which reflect its size, organisational structure and particular
+needs. The date should reflect your providerâ€™s own quality cycle and should take
+account of factors including:
+scheduled meetings, including governing body, senior management team and
+any other groups which will consider and sign off the SAR;
+the availability of performance data and benchmarks which will feed into the
+SAR;
+the availability of other evidence such as course reviews, learner and
+employer surveys; and
+staff time to complete and write up the self-assessment, including annual
+leave arrangements.
+28 Any changes to submission dates will only be considered in exceptional
+circumstances, and will need to be agreed by DfES, via the relevant central
+mailbox: askwbl@wales.gsi.gov.uk for all WBL providers or
+post16quality@wales.gsi.gov.uk for all other providers.
+29 Providers are requested to submit their self-assessment report and quality
+development plan via e-mail to askwbl@wales.gsi.gov.uk for all WBL providers or
+post16quality@wales.gsi.gov.uk for all other providers.
+</field>
+	

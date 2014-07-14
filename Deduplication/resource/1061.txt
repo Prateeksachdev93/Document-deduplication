@@ -1,0 +1,16 @@
+>
+
+	
+		<field name="slideshow_id">36626796</field>
+		<field name="slide_text">Date- 4th
+July 2014
+NOTICE
+CMCCONGRATULATE
+Mr.Kuldeep Kumar
+(MCA 2014)
+Birla Institute of Applied Sciences
+For getting Placed In
+Dreamsol TelesolutionPvt Ltd
+CMC NOIDA, PREET VIHAR, FARIDABAD
+</field>
+	

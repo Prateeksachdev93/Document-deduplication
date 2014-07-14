@@ -1,0 +1,65 @@
+>
+
+	
+		<field name="slideshow_id">36626834</field>
+		<field name="slide_text">FORMATION
+EXPERIENCE PROFESSIONNELLE
+COMPETENCES
+18 Sentier des Piottes, 93160 Noisy le Grande, FRANCE
+26 ans
+Tel : +33 (0)6 22 71 74 22
+Email : muhammad-fadzly.asbullah@estaca.eu
+Muhammad Fadzly ASBULLAH
+2008-2013 : Ecole SupÃ©rieure des Techniques AÃ©ronautiques et de Construction Automobile (ESTACA)
+Laval, FRANCE.
+DiplÃ´me dâ€™IngÃ©nieur Bac +5 en aÃ©ronautique spÃ©cialisÃ©e en Architecture des AÃ©ronefs et Structures
+AmÃ©nagÃ©es.
+Informatique :
+â€¢ Office : Word, Excel, PowerPoint
+â€¢ CAO : Solidworks, Catia
+â€¢ Calcul : ISAMI, Patran, Nastran, Abaqus,
+Matlab
+â€¢ SystÃ¨me : Windows, Linux, Mac
+Langues :
+â€¢ Malais : Langue maternelle
+â€¢ FranÃ§ais : Bilingue
+â€¢ Anglais : Bilingue
+â€¢ Chinois : Apprentissage
+2013 : Stage IngÃ©nieur â€“ P3 Voith Aerospace
+AÃ©ronautique â€“ FRANCE â€“ Mai/Octobre
+RÃ©aliser les dossiers de calculs pour une certification fatigue et tolÃ©rances aux dommages sur les ferrures des
+trappes de train avant de lâ€™A350.
+RÃ©aliser le dossier de certification fatigue et tolÃ©rances aux dommages sur les panneaux avant et latÃ©raux de
+Nose Fairing de lâ€™A350.
+CompÃ©tences associÃ©es : ISAMI, Patran, Nastran, Catia, Calcul Fatigue et TolÃ©rances aux Dommages
+2012 : Stage IngÃ©nieur â€“ STRAND Aerospace Malaysia
+AÃ©ronautique â€“ MALAISIE â€“ Juin/Septembre
+RÃ©aliser les dossiers de calculs pour une certification statique sur les installations dâ€™essais en vol de lâ€™A350.
+AmÃ©liorer et analyser lâ€™Ã©tude statistique sur lâ€™efficacitÃ© et la qualitÃ© de travails des ingÃ©nieurs de lâ€™entreprise.
+CompÃ©tences associÃ©es : Catia, Calcul Statique, AmÃ©lioration Continue
+2011 : Stage DÃ©couverte de lâ€™Entreprise â€“ Aspati Advertising
+Informatique â€“ MALAISIE â€“ Juillet/Aout
+Assister aux travails de conception et design des sites internet et des publicitÃ©s numÃ©riques.
+2009 : Stage Ouvrier â€“ Malaysia Airlines Engineering
+AÃ©ronautique â€“ MALAISIE â€“ Juillet/Aout
+RÃ©parer et faire des rÃ©visions de piÃ¨ces mÃ©caniques telles que les trains dâ€™atterrissages, le systÃ¨me de
+sanitaire, les pompes, les vÃ©rins et les amortisseurs hydrauliques sur les avions de type B737, B747, B777,
+A320, A330 et F50.
+Projets ingÃ©nieurs dâ€™Ã©tudes :
+â€¢ Etude dâ€™un nouveau concept dâ€™ouverture de porte escamotable du compartiment toilettes situÃ© dans la partie
+avant de Dassault Falcon 7X.
+â€¢ Introduction et intÃ©gration de la porte de train dâ€™atterrissage dâ€™un avion type A320 en composite.
+â€¢ Commande de vol primaire de lâ€™hÃ©licoptÃ¨re militaire NH90 a base dâ€™actionneurs Ã©lectro hydrauliques.
+â€¢ Calcul de structure de lâ€™ULM Ã©lectrique Demoichellec.
+â€¢ Etude de lâ€™architecture et de la performance dâ€™un avion cargo a charges volumineuses.
+â€¢ SÃ»retÃ© de fonctionnement â€“ RÃ©alisation dâ€™un arbre de dÃ©faillance du systÃ¨me de dÃ©givrage dâ€™un avion.
+â€¢ Programmation en langage C â€“ Car sharing.
+2007-2008 : UniversitÃ© de La Rochelle	 Â 
+La Rochelle, FRANCE.
+DiplÃ´me dâ€™Etudes FranÃ§aises (DEF).
+Certificat ElÃ©mentaire de Langue FranÃ§aise (CELF).
+2005-2006 : CollÃ¨ge des Sciences de MARA Tun Ghafar Baba	 Â 
+Melaka, MALAISIE.
+Sijil Pelajaran Malaysia (SPM), Ã©quivalent au BAC S.
+</field>
+	

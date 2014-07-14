@@ -1,0 +1,140 @@
+>
+
+	
+		<field name="slideshow_id">36626812</field>
+		<field name="slide_text">Name: Biradar Mahesh Ganapati
+Mailing ID: maheshbiradar001@gmail.com
+Contact no. 9637922685
+Career Objective: To win with high self esteem, to work hard &amp; smart not only for Growth but also
+Betterment of me, Organization &amp; Society.
+Strength:
+â€¢ Dedication towards assigned task.
+â€¢ Learning from experience.
+â€¢ Positive attitude.
+Experience summary:
+1] Knowledge of Metal cutting &amp; Standard Tools (Inserts).
+2] Working on SAP (PPC, MM module).
+3] Working on Machines (Fanuc &amp; Mazak control), Knowledge of CNC programming.
+4] Knowledge CAD &amp; GD &amp; T.
+5] Basic knowledge of Foundry (Centrifugal &amp; Sand casting)
+6] Handling team of 11 People (Workers) for Production activity.
+Work Experience:
+Company Designation Period of Working
+Cooper Corporation Pvt.
+Ltd, Satara.
+Manufacturing &amp; Purchase
+Engineer
+Aug 2011- present
+Technical skills:
+1] Defining Process &amp; Tooling required for machining.
+2] Programming languages: C &amp; C++ (Introductory)
+3] Operating System: Windows 2007, Good Knowledge of Microsoft Office.
+4] Softwareâ€™s known: CAD, CATIA V5, ANSYS (Introductory),SAP.
+5] Production activities: Planning, Defining the Process flow as per Drawing and availability of
+Resources.
+6] Critical tool prove out: - 2 Cyl. Cam bore, 3,4,6 Cyl. Crank &amp; Cam bore, V.S &amp; V.G. tools, HLA Bore
+Tools prove out done.
+7] SAP Implementation.
+Commercial skills:
+1] Negotiation.
+2] Costing: - Suppler End &amp; In-house, work out of drawing with costing.
+3] Taxes &amp; Excise knowledge &amp; its linking in SAP.
+Education:
+â— B.E. Mechanical.
+Qualification
+Kolhapur
+University/Institute
+Year of
+Passing
+Percentage (%)
+BE P.V.P.I.T. Budhgaon, Sangli. 2011 61.58%
+SSC
+Shriram Ramdayal Malu
+High-school, Sangli.
+2005 70.26%
+HSC Willingdon college, Sangli. 2007 64.83%
+Key Responsibilities
+ïƒ˜ Manufacturing Activities:
+ïƒ˜ Continuous Improvement for productivity &amp; fulfilling requirement of assembly.
+ïƒ˜ Root Case analysis of Machining related problem. TIR of Meeting parts which are
+in motion.
+ïƒ˜ New product development.
+ïƒ˜ Prove out of critical machining parameters &amp; components. Ex Crank Bore &amp; Cam
+Bore. Of length 890mm length. For concentricity, Position with respect to Fire face
+&amp; Liner Bore.
+ïƒ˜ Purchasing Activity:-
+ïƒ˜ Consumable planning required for machine shop. Ex. Cutting Oil, Debarring tools,
+Cutting tools &amp; Holding, Grinding Wheels, Hand tools.
+ïƒ˜ Monthly budget submission to management.
+ïƒ˜ Assets required for Machine shop. Ex. Machine Tools, Machines like VMC &amp;
+HMC, Quality instruments, Tool Pre-setter, Fixtures.
+ïƒ˜ Inventory Management, Optimum Safety Stock.
+ïƒ˜ Payment sheet creation &amp; follow-up with Accounts.
+ïƒ˜ Presenting cost saving projects with initial investment &amp; ROI for improvement.
+ïƒ˜ Follow-up with stores for timely GRN booking.
+ïƒ˜ Suppler Visit &amp; vendor development activity.
+ïƒ˜ Tooling Activities:
+ïƒ˜ New product development &amp; tooling decision, finalization, Purchasing &amp; Prove Out.
+Example Oil cooler cover &amp; Rocker cover. &amp; 2 cylinder Head &amp; Other engine
+components.
+ïƒ˜ Planning of tooling consumables required.
+ïƒ˜ Purchasing &amp; Negotiation for tooling.
+ïƒ˜ SAP Operation:
+ïƒ˜ Solving End user problem Regarding Below activities.
+ïƒ˜ PP related activities: Bill of Material, Production Booking, Material Code Creation
+scenario, Material Movement, Stock Taking &amp; Variance, Work center, Production
+Order, MRP RUN.
+ïƒ˜ Purchase related Activities: Purchase Order creation &amp; further Bill booking
+activities, Taxes Input with respect to vendor &amp; Material, MM master as per
+Material (Ex. Safety Stock, valuation class, lead time etc) Sourcing.
+ïƒ˜ Project:
+â€¢ Team member &amp; leader of tooling finalization for Engine components Block, Head, &amp; Bed
+Plate.
+â€¢ Taken responsibility of implementation Prove out: - For given speed feed, Critical
+Geometry achievement &amp; CPC.
+â€¢ Workout of Drawing as Proposal starting from Drawing, process selection fixture concepts,
+m/c selection , Tooling selection , cycle time, Shift output &amp; Cost of each &amp; Every stage of
+Strong back, Cylinder Head, Flywheel like components.
+â€¢ Product &amp; Process development of machining components at vendor end.
+ïƒ˜ SAP: - Implementation Team member:
+ïƒ˜ Material Master: - Purchasing.
+ïƒ˜ PP
+ïƒ˜ BOM &amp; Routing.
+ïƒ˜ Material Movement.
+Company Projects:
+1. SPC study for the Automation.
+2. Tooling projects.
+3. Simplification of chill placement in ENERCON casting.
+4. Application of 7 QC tools to solve shop floor Problems.
+5. Aluminium Machining: - 1st
+time in-house machining done &amp; pulled it in production.
+Curriculum Project: Rose De-leafing Machine.
+Design, Material selection, Manufacturing Activities I have done in this Project.
+This machine is effective in Removing the leaves &amp; Thorn from Its stem. It is very fast &amp; safe. It
+is use full to rose gardening farmers.
+Extra Curricular &amp; Other Activities:
+â€¢ Presented seminar on â€˜Metal process in Cryogenics.
+â€¢ 15 Days Training in Kirloskar Brothers Limited, Kirloskarwadi.
+â€¢ Presented Safety drama during the celebration of Safety Week in the Company.
+Achievements:
+â€¢ SAP Implementation.
+â€¢ Many components Machining started in house, as project Leader Responsible for New
+fixtures, Cutting tools &amp; SAP BOM-ROUTING with new Work centers.
+â€¢ Winner of outstanding performance in company (cooper corp. Satara) During Training Period.
+â€¢ 1st Prize in state level &amp; university level event â€œ Contraptionâ€ in two colleges.
+â€¢ Introduced new event in innovate 2010 â€œPower plant prototypeâ€ successfully.
+â€¢ 1st
+time Inserts Used by Regrinding &amp; Recoating as cost saving. Which reduces
+consumption cost 20 to 30%.
+Personal Information:
+â— Date of Birth : 22nd
+Jan, 1990.
+â— Gender : Male
+â€¢ Temporary Address : â€˜Virangula Bangloâ€™ Plot no. 48,
+Abhaynagar, Sangli 416 415.
+â€¢ Contact no : 9637922685, 9890884158.
+â€¢ Languages known : English, Hindi, Marathi, Kannada.
+Date: Mahesh G. Biradar.
+Place:
+</field>
+	

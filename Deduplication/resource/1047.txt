@@ -1,0 +1,65 @@
+>
+
+	
+		<field name="slideshow_id">36626810</field>
+		<field name="slide_text">EDUCATION
+WORK EXPERIENCE
+SKILLS AND LANGUAGES
+18 Sentier des Piottes, 93160 Noisy le Grand, France
+26 years old
+Tel : +33 (0)6 22 71 74 22
+Email : muhammad-fadzly.asbullah@estaca.eu
+Muhammad Fadzly ASBULLAH
+2008-2013 : Ecole SupÃ©rieure des Techniques AÃ©ronautiques et de Construction Automobile (ESTACA)
+Laval, FRANCE.
+One of leading French engineering university specialized in the transport sector.	 Â 
+DiplÃ´me dâ€™IngÃ©nieur BAC +5 (Masters degree in aeronautical engineering specialized in aircraft
+structures and architecture).
+Skills :
+â€¢ Office: Word, Excel, PowerPoint
+â€¢ CAD: Solidworks, CATIA V5
+â€¢ Analysis: Matlab Simulink, Patran/Nastran,
+Abacus, ISAMI
+â€¢ OS: Windows, Linux, Mac
+Languages :
+â€¢ Malay : Mother tongue
+â€¢ English : Bilingual
+â€¢ French : Bilingual
+â€¢ Chinese : Basic
+2013 : Internship â€“ P3 Voith Aerospace Toulouse
+Aeronautics â€“ FRANCE â€“ May/October
+Performing fatigue and damage tolerance (F&amp;DT) analysis and its stress report for certification of hinges that
+connect the Nose Landing Gear Door of A350-900 to the fuselage.
+Performing a fatigue and damage tolerance (F&amp;DT) stress report for certification of Front and Lateral Panels of
+A350-900 Nose Fairing.
+2012 : Internship â€“ STRAND Aerospace Malaysia
+Aeronautics - MALAYSIA â€“ June / September
+Performing static stress analysis and its stress report for certification of FEDR APU Generation Routing Flight
+Test Installation (FTI) of A350 XWB.
+Working within the quality department of the company, I contributed to a continual improvement of the quality
+of the tasks done by engineers.
+2011 : Internship â€“ Aspati Advertising Malaysia
+IT - MALAYSIA â€“ July / August
+Design websites and digital advertisements using Adobe Photoshop.
+2009 : Internship â€“ Malaysia Airlines
+Aeronautics â€“ MALAYSIA â€“ July / August
+Reparation and overhaul of mechanical components such as landing gear, hydraulic and hydrostatic systems,
+and airframe accessories of B737, B747, B777, A320, A330 and F50 aircrafts.
+Projects and assignments:
+â€¢ Study of a new concept of opening and closing the toilet door situated at the front part Dassault Falcon 7X.
+â€¢ Introduction and integration of composite on A320 main landing gear doors.
+â€¢ Primary flight control of NH90 helicopter using hydraulic actuators.
+â€¢ Study of the resistance at the attachments and fixations of Demoichellec during take-off and landing.
+â€¢ Study of the architecture and the performance of a cargo plane.
+â€¢ Dependability - Realization of a fault tree system for de-icing system of an aircraft.
+â€¢ Programming in C language â€“ Car sharing.
+2007-2008 : UniversitÃ© de La Rochelle	 Â 
+La Rochelle, FRANCE.
+DiplÃ´me dâ€™Etudes FranÃ§aises (DEF).
+Certificat ElÃ©mentaire de Langue FranÃ§aise (CELF).
+Certifications of French language abilities for non-native speakers of French.
+2005-2006 : MARA Junior Science College Tun Ghafar Baba	 Â 
+Malacca, MALAYSIA.
+Sijil Pelajaran Malaysia (SPM).
+</field>
+	

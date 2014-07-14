@@ -1,0 +1,18 @@
+>
+
+	
+		<field name="slideshow_id">36626828</field>
+		<field name="slide_text">Colbertinternationalworkshop
+Dix maisons du ComitÃ© Colbert (Bernardaud, Christian Dior, FaÃ¯enceries de Gien, Guerlain,
+John Lobb, Champagne Krug, Lorenz BÃ¤umer Joaillier, Pierre Frey, Cognac RÃ©my Martin
+et Yves Delorme) ont participÃ© Ã  cette eÌdition en ouvrant leurs portes Ã  52 Ã©tudiants de
+lâ€™Ensaama-Olivier de Serres et 29 Ã©tudiants de Central Saint Martins et se sont confrontÃ©es
+au regard de ces jeunes crÃ©ateurs qui, tout en sâ€™inspirant des valeurs propres Ã  chacune dâ€™entre
+elles, ont prÃ©sentÃ© leur vision dâ€™un Â« Jour de fÃªte Â».
+Pendant plus dâ€™un mois ces Ã©tudiants issus dâ€™univers diffÃ©rents, crÃ©ation industrielle, com-
+munication visuelle et architecture dâ€™intÃ©rieur pour les Ã©tudiants de lâ€™Ensaama prÃ©parant leur
+DiplÃ´me SupÃ©rieur dâ€™Arts AppliquÃ©s et de crÃ©ation industrielle pour les Ã©tudiants de Central
+Saint Martins se sont imprÃ©gnÃ©s des spÃ©cificitÃ©s du secteur franÃ§ais du luxe : savoir-faire,
+exigence, crÃ©ation, ont fait lâ€™apprentissage du travail dâ€™Ã©quipe qui plus est internationale.
+</field>
+	

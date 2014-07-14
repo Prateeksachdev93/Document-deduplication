@@ -1,0 +1,21 @@
+>
+
+	
+		<field name="slideshow_id">36626780</field>
+		<field name="slide_text">TheÃŠaboveÃŠinformationÃŠwasÃŠcommunicatedÃŠinÃŠnon legibleÃŠformÃŠandÃŠauthenticatedÃŠ
+RegistrarÃŠofÃŠCompaniesÃŠunderÃŠsectionÃŠ AÃŠofÃŠtheÃŠCompaniesÃŠActÃŠ
+byÃŠthe
+Company No.
+ABC
+DEF
+AB
+CD
+GivenÃŠatÃŠCompaniesÃŠHouse Cardiff the th June
+GLOBALÃŠPROTECTIONÃŠAGENCYÃŠLTD
+isÃŠthisÃŠdayÃŠincorporatedÃŠunderÃŠtheÃŠCompaniesÃŠActÃŠ ÃŠasÃŠa private
+companyÃŠandÃŠthatÃŠtheÃŠcompanyÃŠis limited
+TheÃŠRegistrarÃŠofÃŠCompaniesÃŠfor EnglandÃŠandÃŠWales herebyÃŠcertifiesÃŠthat
+CERTIFICATEÃŠOFÃŠINCORPORATION
+OFÃŠA PRIVATE LIMITED COMPANY
+</field>
+	

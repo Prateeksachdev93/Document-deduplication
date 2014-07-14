@@ -1,0 +1,1999 @@
+>
+
+	
+		<field name="slideshow_id">36626761</field>
+		<field name="slide_text">City University London Master of Engineering Major Project
+CITY UNIVERSITY LONDON
+SCHOOL OF ENGINEERING AND MATHEMATICAL SCIENCES
+DEPARTMENT OF CIVIL ENGINEERING
+Rocking Isolation of Bridge Piers Resting On Spread
+Foundations
+Major Project Report
+By: Aristotelis Markides â€“ 100018981
+Supervisor: Dr. Panagiotis E. Mergos
+October 8th, 2013 â€“ April 4th, 2014
+City University London Master of Engineering Major Project
+SYNOPSIS
+Rocking isolation is a phenomenon that occurs in inverted pendulum structural systems
+supported by spread foundations, where the largest load is applied at the highest point of
+the structure. Previous research and observation on the matter has been able to prove a
+number of positive effects it has on a structure during a seismic event, effects that may
+allow for it to avoid failure. However, there are also effects that may create a hazard in the
+safety of the structureâ€™s users rather than its structural integrity alone. A general
+examination of the various aspects of the structural isolation observed in a typical bridge
+structure during rocking is conducted in this paper in order to establish an objective
+perspective on the fundamental benefits that arise from the effects of this astounding
+phenomenon.
+City University London Master of Engineering Major Project
+ACKNOWLEDGMENTS
+I would like to thank my fellow students for their continuous support and encouragement
+throughout the duration of the project. I would personally like to thank my supervisor Dr.
+Panagiotis E. Mergos for his critical guidance and advice throughout the whole project.
+Finally I thank my family and close friends for their constant support and encouragement
+throughout my studies.
+City University London Master of Engineering Major Project
+TABLE OF CONTENTS
+CHAPTER 1 â€“ INTRODUCTION.............................................................................................- 1 -
+1.1 The Rocking Isolation Effect .........................................................................................- 1 -
+1.2 Analysed Structure ........................................................................................................- 3 -
+1.3 Scope of Work................................................................................................................- 4 -
+CHAPTER 2 - LITERATURE REVIEW...................................................................................- 5 -
+2.1 Historic Case Studies ....................................................................................................- 5 -
+2.2 Experiments ...................................................................................................................- 7 -
+2.2.1 In-Situ Field Tests...................................................................................................- 7 -
+2.2.2 Shake Table Tests .................................................................................................- 8 -
+2.2.3 Centrifuge Model Tests........................................................................................- 11 -
+CHAPTER 3 - NUMERICAL MODELLING...........................................................................- 15 -
+3.1 Moment-Curvature Analysis at the Critical Section of the Pier.................................- 15 -
+3.2 Linear Elastic Analysis.................................................................................................- 20 -
+3.2.1 Introduction ...........................................................................................................- 20 -
+3.2.2 Fixed Base Model.................................................................................................- 25 -
+3.2.3 Rotational Spring No Uplift Model.......................................................................- 26 -
+3.2.4 Elastic Winkler No Uplift Model ...........................................................................- 28 -
+3.3 Nonlinear Inelastic Analysis ........................................................................................- 30 -
+3.3.1 Introduction ...........................................................................................................- 30 -
+3.3.2 Inelastic 6x6 Model...............................................................................................- 33 -
+3.3.3 Inelastic 9x9 Model...............................................................................................- 34 -
+3.3.4 Inelastic 12x12 Model ..........................................................................................- 35 -
+CHAPTER 4 - ANALYTICAL RESULTS...............................................................................- 36 -
+4.1 Modal Analysis.............................................................................................................- 36 -
+4.1.1 Modal Analysis of Models That Exclude Uplift ...................................................- 36 -
+4.1.2 Modal Analysis on Models That Include Uplift ...................................................- 37 -
+City University London Master of Engineering Major Project
+4.2 Linear Elastic Analysis Results...................................................................................- 42 -
+4.3 Nonlinear Inelastic Analysis Results ..........................................................................- 45 -
+CHAPTER 5 â€“ PARAMETRIC STUDY.................................................................................- 50 -
+5.1 Introduction...................................................................................................................- 50 -
+5.2 Footing Dimensions.....................................................................................................- 50 -
+5.3 The Stiffness of the Underlying Soil ...........................................................................- 54 -
+CHAPTER 6 â€“ COMPARISON BETWEEN THEORY AND NUMERICAL MODELLING
+RESULTS ...............................................................................................................................- 58 -
+6.1 Introduction...................................................................................................................- 58 -
+6.2 Theoretical Derivation of Expressions........................................................................- 58 -
+6.3 Derivation of Maximum Horizontal Displacements Using Theoretical Horizontal
+Elastic Spectral Analysis ...................................................................................................- 61 -
+CHAPTER 7 â€“ CONCLUSIONS............................................................................................- 62 -
+REFERENCES.......................................................................................................................- 64 -
+APPENDIX I â€“ MATERIAL PROPERTIES OF ANALYSED STRUCTURE .......................- 66 -
+APPENDIX II â€“ MULTI DEGREE OF FREEDOM: LUMPED MASSES AND DEAD LOADS..-
+67 -
+APPENDIX III - ROTATIONAL STIFFNESS OF MODEL EXCLUDING UPLIFT:.............- 68 -
+APPENDIX IV â€“ TRANSLATIONAL SPRING STIFFNESS ................................................- 73 -
+APPENDIX V â€“ MODE SHAPES ..........................................................................................- 76 -
+APPENDIX VI â€“ THEORETICAL MOMENT-ROTATION ANALYSIS ................................- 81 -
+APPENDIX VII - THEORETICAL HORIZONTAL ELASTIC SPECTRAL ANALYSIS ON
+MAXIMUM HORIZONTAL DISPLACEMENT.......................................................................- 87 -
+City University London Master of Engineering Major Project
+LIST OF FIGURES
+Figure 1 - 1: Bridge pier subjected to seismic excitation in the transverse direction of the
+bridge: (a) Assumed fixed bridge pier (b) Bridge footing allowed to rock (Deng, 2012) ....- 2 -
+Figure 1 - 2: Longitudinal view of the analysed bridge structure including basic dimensions
+(Mergos, 2004)...............................................................................................................- 3 -
+Figure 1 - 3: Longitudinal and cross-sectional views of a reinforced concrete bridge pier and
+its respective geometry and dimensions (Mergos, 2004).................................................- 3 -
+Figure 1 - 4: Bridge pier reinforcement. All the piers have identical reinforcement (Mergos
+2004) .............................................................................................................................- 4 -
+Figure 2 - 1: The damaged reinforced concrete Pier 126 on Route 3 which suffered severe
+cracking and punching shear damage during the 1995 Kobe Earthquake (Yashinky and
+Karshenas 2003)............................................................................................................- 6 -
+Figure 2 - 2: Critical section failure of a reinforced concrete bridge pier on Route 3 during
+the 1995 Kobe Earthquake (Deng 2012) ........................................................................- 6 -
+Figure 2 - 3: The undamaged Pier 697 showing signs of foundation rocking â€“ i.e. the
+damages forming an approximate circumference on the ground surrounding the cylindrical
+column (Yashinky and Karshenas, 2003)........................................................................- 6 -
+Figure 2 - 4: A typical example of a cross-section of different foundation model types of
+inverted pendulum structural systems modeled in a centrifuge; centrifuge model test JDA01
+(Allmond et al., 2011)...................................................................................................- 11 -
+Figure 2 - 5: A Moment (M) versus Rotation (Î¸) plot produced by the centrifuge models
+discussed above showing the modelâ€™s increasing moment capacity with increasing rotation
+angle of the footing (Gajan et al., 2005)........................................................................- 13 -
+Figure 3 - 1: The pier cross-section along with dimensions and areas of reinforcement used
+determined using Response2000 .................................................................................- 15 -
+Figure 3 - 2: The longitudinal and side reinforcement used in the analysis (Mergos, 2004)
+....................................................................................................................................- 16 -
+Figure 3 - 3: The M-Ï† curvature relationship of the pier base critical section analysed on
+Response2000.............................................................................................................- 17 -
+City University London Master of Engineering Major Project
+Figure 3 - 4: The 2-D model with a 3-D view of its assigned sectional geometry created in
+SAP2000. ....................................................................................................................- 20 -
+Figure 3 - 5: The dimensions of the longitudinal model completed are shown. The 2.5m
+deck height is simulated as a continuous pier height and is added to the total pier height,
+creating a 10m high pier...............................................................................................- 21 -
+Figure 3 - 6: The seismic excitation is modeled as a static horizontal load acting at the head
+of the pier in the longitudinal direction...........................................................................- 21 -
+Figure 3 - 7: The MDOF footing-pier-deck system with the distribution of the lumped
+masses of the footing, pier and deck. ...........................................................................- 23 -
+Figure 3 - 8: The weights of the lumped masses acting as Dead Loads along the elements
+neutral axes in SAP2000. Shown here is a 2-D and 3-D view of the 2-dimensional
+model...............................................................................................................................- 23 -
+Figure 3 - 9: The â€œFixed baseâ€ model shown here takes the soil-structure interaction as
+fixed, restraining translations or rotations in all dimensions...........................................- 25 -
+Figure 3 - 10: The â€œFixed baseâ€ 2-dimensional model created in SAP2000 with a 3-
+dimensional view of its assigned frame sections...........................................................- 25 -
+Figure 3 - 11: The â€œRotational spring no upliftâ€ model shown here simulates the soil-
+structure interaction by placing a rotational spring at the base of the footing .................- 26 -
+Figure 3 - 12: The â€œRotational spring no upliftâ€ 2-dimensional model created in SAP2000,
+with a 3-dimensional view of its assigned frame sections..............................................- 27 -
+Figure 3 - 13: The soil-structure interaction is modelled by placing a sequence of
+translational springs at evenly spaced intervals along the length of the base of the footing
+........................................................................................................................ ............- 28 -
+Figure 3 - 14: The â€œElastic Winkler No Upliftâ€ 2-dimensional model created in SAP2000, with
+a 3-dimensional view of its assigned frame sections.....................................................- 29 -
+Figure 3 - 15: Axial force versus axial displacement relationships used for the interior
+springs.........................................................................................................................- 31 -
+Figure 3 - 16: The accelerogram of the 1995 Kobe earthquake in Japan showing the
+horizontal ground accelerations, as measured by the Japan Meteorological Agency.....- 32 -
+Figure 3 - 17: The 2-dimensionalâ€œInelastic 6x6â€ model created in Ruaumoko................- 33 -
+Figure 3 - 18: The dimensions used for the â€œInelastic 6x6â€2-dimensional model. Shown in
+blue are the elements and nodes used.........................................................................- 33 -
+Figure 3 - 19: The dimensions used for the â€œInelastic 9x9â€2-dimensional model. Shown in
+blue are the elements and nodes used.........................................................................- 34 -
+City University London Master of Engineering Major Project
+Figure 3 - 20: The 2-dimensionalâ€œInelastic 9x9â€ model created in Ruaumoko................- 34 -
+Figure 3 - 21: The dimensions used for the â€œInelastic 12x12â€ 2-dimensional model. Shown
+in blue are the elements and nodes used .....................................................................- 35 -
+Figure 3 - 22: The â€œInelastic 12x12â€ 2-dimensional model created in Ruaumoko...........- 35 -
+Figure 4 - 1: The most important modes of vibration in the longitudinal direction of the
+model that excludes uplift.............................................................................................- 36 -
+Figure 4 - 2: The most important modes of vibration in the longitudinal direction of the 6x6
+model that includes uplift..............................................................................................- 37 -
+Figure 4 - 3: The most important modes of vibration in the longitudinal direction of the 9x9
+model that includes uplift..............................................................................................- 38 -
+Figure 4 - 4: The most important modes of vibration in the longitudinal direction of the
+12x12 model that includes uplift ...................................................................................- 40 -
+Figure 4 - 5: The deformed shape of the Fixed Base model..........................................- 43 -
+Figure 4 - 6: The deformed shape of the Rotational Spring that excludes uplift. ............- 44 -
+Figure 4 - 7: The deformed shape of the â€œElastic Winkler No Upliftâ€ models. .................- 44 -
+Figure 4 - 8: Deck horizontal (longitudinal) displacement of the three inelastic models..- 45 -
+Figure 4 - 9: Moment versus rotation relationships at the base of the pier for the three
+inelastic models ...........................................................................................................- 46 -
+Figure 4 - 10: Vertical displacement of a corner spring for the three inelastic models ....- 47 -
+Figure 4 - 11: Pier base moment versus curvature (M-Ï†)..............................................- 49 -
+Figure 5 - 1: Ductility demands of the pier versus total rotation for various footing sizes- 52 -
+Figure 5 - 2: Pier moment versus total rotation for various footing sizes........................- 53 -
+Figure 5 - 3: Moment of the footing versus footing rotation for various footing sizes ......- 53 -
+Figure 5 - 4: Pier ductility versus total rotation for various values of ksv ........................- 55 -
+Figure 5 - 5: Moment of the pier versus total rotation for various values of ksv..............- 56 -
+Figure 5 - 6: Moment of the footing versus footing rotation for various values of ksv .....- 56 -
+Figure 6 - 1: Footing M-Î¸ relationships of the 9x9 inelastic model using theory and finite
+element software..........................................................................................................- 60 -
+City University London Master of Engineering Major Project
+Figure App. III - 1: Assumed linear elastic hysteresis of the underlying soil ...................- 68 -
+Figure App. III - 2: Footing with dimensions in plan.......................................................- 68 -
+Figure App. III - 3: Schematic drawing showing force distribution along the footing width
+caused by the application of the moment......................................................................- 69 -
+Figure App. III - 4: Schematic triangle formed...............................................................- 70 -
+Figure App. V - 1: The 7 natural modes of vibration in the longitudinal direction of the 6x6
+model that includes uplift..............................................................................................- 76 -
+Figure App. V - 2: The 7 natural modes of vibration in the longitudinal direction of the 9x9
+model that includes uplift..............................................................................................- 78 -
+Figure App. V - 3: The 7 natural modes of vibration in the longitudinal direction of the 12x12
+model that includes uplift..............................................................................................- 80 -
+Figure App. VI - 1: Schematic drawing of the footing.....................................................- 81 -
+Figure App. VI - 2: The footing just before it separates from the ground........................- 82 -
+Figure App. VI - 3: The footing after uplift .....................................................................- 85 -
+Figure App. VII - 1: The horizontal elastic response spectrum for the 9x9 .....................- 88 -
+Figure App. VII - 2: The horizontal elastic response spectrum for the 6x6 model...........- 88 -
+Figure App. VII - 3: The horizontal elastic response for the 12x12 model ......................- 88 -
+City University London Master of Engineering Major Project
+LIST OF TABLES
+Table 3 - 1: The longitudinal reinforcement used for the M-Ï† analysis in the longitudinal
+direction.......................................................................................................................- 16 -
+Table 3 - 2: Translational spring stiffness for each Elastic Winkler model......................- 29 -
+Table 3 - 3: Translational spring stiffness for each Inelastic Winkler model used...........- 31 -
+Table 4 - 1: The 7 modes of vibration in the longitudinal direction of the 9x9 model that
+excludes uplift ..............................................................................................................- 37 -
+Table 4 - 2: The 7 modes of vibration in the longitudinal direction of the 6x6 model that
+includes uplift ...............................................................................................................- 38 -
+Table 4 - 3: The 7 modes of vibration in the longitudinal direction of the 9x9 model that
+includes uplift ...............................................................................................................- 39 -
+Table 4 - 4: The 7 modes of vibration in the longitudinal direction of the 12x12 model that
+includes uplift ...............................................................................................................- 40 -
+Table 4 - 5: Analytical results of linear elastic analyses conducted on models, at deck level
+....................................................................................................................................- 42 -
+Table 4 - 6: Maximum uplift and vertical settlement of the footing corner.......................- 48 -
+Table 5 - 1: Rotational stiffness for various footing sizes...............................................- 50 -
+Table 5 - 2: Translational spring stiffness for various footing sizes ................................- 51 -
+Table 5 - 3: Rotations corresponding to pier flexural failure with variations in ksv..........- 55 -
+Table 6 - 1: Maximum horizontal displacements from theory and Ruaumoko ................- 61 -
+Table App. I - 1: Material properties of the analysed structure.......................................- 66 -
+City University London Master of Engineering Major Project
+- 1 - | P a g e
+CHAPTER 1 â€“ INTRODUCTION
+1.1 The Rocking Isolation Effect
+Seismic events occur in significantly large parts of the world and it is a random
+phenomenon that plays a weighted role in the design of structures in the affected regions.
+Bridge piers are typically supported by spread foundations where the underlying soil
+conditions are stable. It has been observed in the past that usually during bidirectional
+seismic excitations, bridge piers have responded by rocking on their foundations allowing in
+some cases for failure to be avoided. In essence the rocking acts as an isolator to the
+superstructure. By definition rocking isolation is the foundation uplift response of the
+superstructure supported by a shallow, spread footing. Typically the superstructure must be
+an inverted pendulum type of structural system - bridges or elevated tank reservoirs â€“
+where the largest mass is situated at the highest point of the structure. In these structures,
+a seismic excitation will induce substantially large bending moments at the base of the pier
+and in turn instigate very large moment-curvature demands in the pier element of the
+superstructure.
+It has been observed that in typical rocking isolation cases, the material underlying the
+footing support must be elastic in order to provide an elastic response. This is typically a
+response with reactions showing a decrementing trend of magnitude when subjected to the
+pounding force received by the rocking of the footing. This will allow for the dissipation of
+seismic energy away from the superstructure and into the underlying soil.
+Current codes of bridge seismic design in various parts of the world do not take foundation
+uplift and its consequent rocking isolation effect into account. The probability of foundation
+City University London Master of Engineering Major Project
+- 2 - | P a g e
+uplift occurring during a seismic event is minimised by overdesigning the spread
+foundations, designing for wider, heavier foundations.
+This rocking acts as an isolator to the superstructure, dissipating some of the seismic
+energy into the underlying soil causing the plastic hinge to develop there first and not at the
+pier critical section, aiding in avoiding flexural failure.
+In Figure 1 -1 (a) the pier base is assumed to be fixed; rocking is limited due to the large
+footing size. As a result large curvature demands are observed in the pier and a plastic
+hinge is developed at the critical section of the pier. In contrast, Figure 1 -1 (b) shows a
+rocking ability -due to a smaller footing size- resulting in significantly smaller curvature
+demands observed in the pier as well as the development of the plastic hinge in the
+underlying soil. It should be noted that in this paper only the rocking isolation of the footing-
+pier-deck system was examined and no investigation into the formation of the plastic hinge
+in the soil was conducted.
+Figure 1 - 1: Bridge pier subjected to seismic excitation in the transverse
+direction of the bridge: (a) Assumed fixed bridge pier (b) Bridge footing
+allowed to rock (Deng, 2012)
+City University London Master of Engineering Major Project
+- 3 - | P a g e
+1.2 Analysed Structure
+The structure analysed is an existing typically reinforced concrete bridge supported by
+spread foundations. The superstructure consists of a continuous plate girder deck which is
+connected to the piers by bearings which allow for bidirectional translation in the x-y plane
+(plan view). The general support to the large weight of the bridge deck is provided by the 2
+abutments â€“ one on either side â€“ and 4 reinforced concrete bridge piers which are identical
+in geometry, dimension and reinforcement. The bridge piers are then supported by spread
+footing foundations constructed in a 4m deep layer of sand.
+Cross-Sectional View Longitudinal View
+Figure 1 - 2: Longitudinal view of the analysed bridge structure including basic dimensions
+(Mergos, 2004)
+Figure 1 - 3: Longitudinal and cross-sectional views of a reinforced concrete
+bridge pier and its respective geometry and dimensions (Mergos, 2004)
+City University London Master of Engineering Major Project
+- 4 - | P a g e
+1.3 Scope of Work
+The significance of the effect that the rocking isolation has on a structureâ€™s moment
+capacity, curvature demands and ductility demands was examined in this paper. The
+influence of various parameters on the rocking isolation and the subsequent response of
+the superstructure were also examined:
+ï‚· The size of the spread foundation supporting the bridge pier
+ï‚· The stiffness of the underlying soil
+Adding up, the influence of the rocking isolation effect on the response of the structure and
+it properties were also examined:
+ï‚· The moment capacity of the pier
+ï‚· The moment-curvature relationship of the pier
+ï‚· Ductility demands of the pier
+In this paper the inelastic rocking of the footing of the footing-pier-deck system was
+analysed in order to conclude on an educated, objective opinion on the impact of the
+rocking isolation on the structureâ€™s critical and serviceability limit states.
+Figure 1 - 4: Bridge pier reinforcement. All the piers have identical
+reinforcement (Mergos 2004)
+City University London Master of Engineering Major Project
+- 5 - | P a g e
+CHAPTER 2 - LITERATURE REVIEW
+2.1 Historic Case Studies
+Yashinky and Karshenas (2003) were two researchers inspired by the events of the 1995
+Kobe earthquake in Japan which caused numerous structural damages, causing in some
+cases loss of human life. Specifically the damages incurred on Highway Route 3 in Kobe
+were found to be of interest. Route 3 crossed over a long highway bridge supported by
+single cylindrical piers at regular, equal intervals. The effects on these columns were
+monitored by the two researchers. They found that piers supported by wide footings had
+developed a plastic hinge at the pier critical section, which had dramatically decreased the
+moment capacity of the structure. This was found to be due to the large weight of the
+footings which limited the rotation of the structure and hence incurred large curvature
+demands on the pier. On the contrary it was observed that piers with smaller footings had
+substantially less damages. For example, Pier 697 remained undamaged due to the fact
+that the foundation of the pier was allowed to rock hence an elastic response of the
+structure to the excitation. More specifically, this caused a significant increase in the
+structureâ€™s rotation but kept its design moment capacity and curvature demands mostly
+intact.
+City University London Master of Engineering Major Project
+- 6 - | P a g e
+Figure 2 - 1: The damaged reinforced concrete Pier 126 on Route 3 which suffered severe
+cracking and punching shear damage during the 1995 Kobe Earthquake (Yashinky and
+Karshenas 2003)
+Figure 2 - 3: The undamaged Pier 697 showing signs of foundation rocking â€“ i.e. the
+damages forming an approximate circumference on the ground surrounding the
+cylindrical column (Yashinky and Karshenas, 2003)
+Figure 2 - 2: Critical section failure of a reinforced
+concrete bridge pier on Route 3 during the 1995 Kobe
+Earthquake (Deng 2012)
+City University London Master of Engineering Major Project
+- 7 - | P a g e
+Several other cases of seismic events and foundation rocking were investigated around the
+world. In particular, the 2011 Christchurch earthquake in the United Kingdom was of
+specific interest. It was observed that the foundation rocking phenomenon managed to
+avert catastrophic damages to a 10-storey steel structure office building. The buildingâ€™s
+structural elements avoided flexural damage due to the rocking response of the structureâ€™s
+spread foundations and the increase of the structureâ€™s rotation capability. However, the
+pounding of the footing impacting the underlying soil during the rocking caused uneven
+settlements in the underlying soil causing the superstructure to tilt slightly. (Earthquake
+Engineering Research Institute 2011).
+2.2 Experiments
+Various experiments of different types are needed to substantially model the effects of a
+seismic event on a structure and the magnitude of probabilistic damages that could be
+imposed by the seismic loading onto the various structural elements. The effects of footing
+rocking, foundation uplift and lateral sliding are all tested and monitored in these tests under
+initially monotonic and then cyclic and dynamic loading. The results documented provide
+valuable insight on the behaviour of structural systems in the occurrence of a seismic event
+and indicate the potential to minimise damages to the superstructure by attempting to
+isolate the seismic loading to the substructure.
+2.2.1 In-Situ Field Tests
+A number of in situ tests have been conducted over the last 37 years, all of them aiming to
+provide knowledge and information on the elastoplastic response of structures to various
+seismic excitations. Such tests provided vital information which allowed for further
+understanding of the rocking phenomenonâ€™s properties.
+City University London Master of Engineering Major Project
+- 8 - | P a g e
+A number of in-situ tests were conducted by Bartlett (1976) who used 1g cyclic loading
+conditions on cohesive soils that could be compressed and consolidated. These tests were
+conducted on rectangular plate footings, which were meant to model and simulate the
+behaviour of realistic spread foundations in cohesive soil conditions. The test results
+revealed the fact that the foundation rocking phenomenon which consequently lead to the
+uplift of the footing, could lead to the ability to variably change the structureâ€™s loading period
+experienced.
+Another test was conducted by Wiessing (1979) again using the same 1g cyclic loading
+conditions as before, however now the foundation soil was selected to be frictional soil
+(cohesion-less). In this test the soil structure interaction was now given higher significance
+where the connection between soil deformation and structure elasticity as well as the
+potential of energy dissipation were studied. The results of this test indicated that the
+foundation rocking time duration was linearly proportional to the settlement of the
+foundation soil. It was also found that the increasing time of foundation rocking was linearly
+proportional to the dissipation of energy induced by the seismic loading thus proving a
+benefit in the foundation rocking response.
+2.2.2 Shake Table Tests
+As part of the TRISEE European Union research program, a number of models were tested
+using a shake table facility. Negro et al. (2000) as a part of this research program produced
+two models to be tested. The models to be used were two square footings 1m2 in plan and
+each would be tested in two different foundation soil conditions, one with relatively low and
+one with relatively high density sand. The loading conditions of 1g would be the same as
+before and pseudo-static cyclic loading would be imposed on the two models to determine
+their behavior in simplified earthquake conditions.
+City University London Master of Engineering Major Project
+- 9 - | P a g e
+It was observed that there was a relationship between vertical settlement and the density of
+the sand as well as footing rotation magnitude. Specifically as the density of the sand
+decreased, the footing rotation increased, consequently so did the vertical settlement.
+Another observation was that the foundation responded to the loading linearly up to the
+point where the footing rotation reached a critical rotation, Î¸cr â‰ˆ 2 - 6 x 10-3 rad, after which
+the foundation behaves non-linearly.
+Another shake table test experiment produced was that of Espinoza and Mahin (2006). The
+loading conditions used to simulate earthquake conditions were 1 and 2-dimensional
+dynamic shaking. This time an inverted pendulum structural system was used. A reinforced
+concrete single column bridge model was used with a dimension scale factor, Î»=0.222. A
+highly elastic synthetic rubber simulated the underlying soil; neopropene -Duro-60. This
+was in order to account for the restrained loading capability of the shake table. As
+described by Deng (2012) â€œthe model used was equipped with spread foundations which
+had the ability to uplift and re-centreâ€. The model was kept the same but was tested 70 or
+more times with varying sizes of square footings. Espinoza and Mahin (2006) observed the
+results and concluded that in most of the models no damage had occurred to any structural
+element which was credited to the foundation rocking capability of the structure which acted
+as a relative base isolator to the superstructure. Another observation was that the
+displacements observed, Î´ were measured to be less than or equal to the displacements in
+a comparable bridge with a fixed base foundation of a corresponding size. Here another
+benefit of rocking isolation was indicated; no real difference between maximum
+displacements of a conventional fixed bridge pier.
+Another significant shake table test was conducted by Sakellaraki et. al. (2005) who used a
+footing-column-deck model with a varying deck mass. In this experiment the lateral stability
+was restrained however foundation uplift was allowed. The model was made up of an
+City University London Master of Engineering Major Project
+- 10 - | P a g e
+elastic column and a spread, shallow foundation. Once again the loading conditions were
+dynamic shaking and periodic cyclic loading in order to simulate earthquake conditions. The
+results of these tests indicated that the effect of foundation uplift affected significantly the
+systemâ€™s period experienced and hence its dynamic response to cyclic loading.
+Hung et al. (2011) performed another set of shake table tests this time including pseudo
+dynamic tests and cyclic loading tests to simulate simplified earthquake conditions. The
+model used included a 6 story structure with cylindrical reinforced concrete columns which
+was loaded under these conditions. The tests were broken down into two conditions, one
+where the base of the columns were allowed to uplift and the other where the base of the
+columns were fixed â€“ e.g. having very wide in plan footing foundations. The maximum
+displacement, rocking moment capacity and moment at the base of both tested conditions
+were recorded and then compared to provide basic conclusions. It was observed that the
+column vibration period decreased when the base of the column was fixed. On the other
+hand when the base of the column was allowed to uplift, the period increased and hence
+minimised the probability of flexural damage to the pier. A decrementing excitation period or
+loading frequency increases the magnitude of displacements and consequently the
+probability of flexural damage in the column and vice versa for an incrementing frequency.
+It was hence concluded that the foundation uplift was mainly responsible for significantly
+decreasing the probability of flexural damage to the structure during a seismic event. Shake
+table tests provide a straightforward experimental method to study the effects of seismic
+loading on structures, however they show restraints in their performance and thus limit the
+significance of their results. Firstly they limit the size of the foundation structural model due
+to the relatively small size of the table test â€“ approximately 1m2 in plan. Secondly the
+simulation and portrayal of the underlying foundation soil is too simplistic due to the lack of
+confining stresses in the modeled soil, stresses existent in-situ soil. And thirdly shake table
+City University London Master of Engineering Major Project
+- 11 - | P a g e
+tests do not always have the ability to produce the required magnitude of seismic excitation
+that would be dimensionally proportional to the model. This causes the model dimensions
+to be limited to a relatively small degree; which in turn hinders the accuracy of results
+produced. It is for these disadvantages that the inaccuracies of the shake table test can be
+alternated by another test, the centrifuge model test.
+2.2.3 Centrifuge Model Tests
+Specifically, centrifuge model tests that indicated significant trends and relationships
+between the structural modelâ€™s rotation stiffness, moment at the deck and footing rotation,
+were conducted at the facilities of University of California Davis over a period of 4 years.
+The researchers were Rosebrook (2001), Phalen (2003) and Gajan et al. (2005).
+They conducted a series of centrifuge model tests on rigid wall models with shallow
+foundations that were allowed to uplift (Deng, 2012).
+These tests produced dependable results due to their varying parameters, which allowed
+for an all-rounded, balanced conclusion to be determined by the researchers.
+Figure 2 - 4: A typical example of a cross-section of different
+foundation model types of inverted pendulum structural
+systems modeled in a centrifuge; centrifuge model test
+JDA01 (Allmond et al., 2011)
+City University London Master of Engineering Major Project
+- 12 - | P a g e
+Gajan et al. managed to show a connection between the rotational stiffness of the structure
+and foundation uplift. This was achieved by comparing the moment at the deck and rotation
+of the footing over excitation periods experienced by the structural model. A connection was
+determined by monitoring the results of the tests and it was observed that the incrementing
+moment and rotation angle of the footing were both linearly proportional to vertical
+settlement occurring in the underlying foundation soil. It was also observed that with
+increasing rotation angle, increased moments were allowed to take place on the structure.
+This essentially shows that foundation rocking caused the degradation of the structureâ€™s
+rotational stiffness and therefore increased its moment capacity.
+These tests also managed to highlight a relationship between the rocking effect, the
+structureâ€™s design factor of safety and the underlying foundation soilâ€™s relative density.
+The rocking effect seems to be inversely proportional to the design factor of safety of the
+footing and the relative density of the foundation soil respectively. Hence, by decreasing the
+footing size in plan â€“ decreasing its safety factor â€“and the relative density of the underlying
+soil, the rocking effect increases.
+Therefore the centrifuge model tests produced by Gajan et al. were detrimental in indicating
+advantages of the foundation rocking phenomenon. The structural moment capacity
+increases when its foundations are allowed to uplift and rotate, hence making - in
+probabilistic terms - the structure less susceptible to flexural damage.
+City University London Master of Engineering Major Project
+- 13 - | P a g e
+Ugalde et al. (2007) and Ugalde et al. (2010) produced a series of centrifuge model tests
+using varying dimensions of circular in plan foundation footing to support a bridge model
+with an elastic column. Hence, it is assumed that no plastic straining and no residual
+displacement occur in the column. The bridge model was tested under simulated dynamic
+seismic loading conditions in a foundation soil of sand of varying densities.
+Ugalde et al. aimed at using the tests to compare results and provide a conclusion on the
+effect of the change of the footing dimensions -in plan- on the magnitude of foundation
+rocking. The effect of the foundation rocking phenomenon on the bridge columnâ€™s moment
+capacity and rotational stiffness was also determined.
+It was observed that by comparing the varying size of the footing to the moment
+experienced by the bridge model and the rotation experienced by the foundation, that when
+the size of the footing decreased in plan the footing rotation and the column moment
+capacity increased. By decreasing the size of the footing in plan, the rotational stiffness of
+the column and the acceleration demands on the deck proportionally decreased causing
+Figure 2 - 5: A Moment (M) versus Rotation (Î¸) plot produced by
+the centrifuge models discussed above showing the modelâ€™s
+increasing moment capacity with increasing rotation angle of
+the footing (Gajan et al., 2005)
+City University London Master of Engineering Major Project
+- 14 - | P a g e
+the displacement demands on the deck to increase (Deng 2012). This was credited to the
+rocking of the modelâ€™s foundation which dissipated energy induced by the seismic loading
+and hence reduced the moment experienced.
+It was then concluded that the bridge design of smaller (in plan), spread foundations that
+can rock should be preferred instead of wide, spread foundations that are considered fixed.
+As a discussion, Gajan and Kutter (2008) re-examined the results of the centrifuge model
+tests produced by Rosebrook (2001), Phalen (2003) and Gajan (2005) using the facilities at
+the University of California Davis. The discussion was mainly focused on the effects of the
+rocking of shallow and spread foundations phenomenon on bridges, such as the structureâ€™s
+energy dissipation, the columnâ€™s moment capacity and short-term settlements of the
+underlying soil experienced by the foundations.
+It was hence observed that structures with a large footing ratio of A/Ac showed a number of
+positive properties that improve its seismic response. One of these properties was the
+ability of the foundation to present a self-centering mechanism during foundation uplift and
+rocking. This is an important property as it avoids the creation of plastic straining caused
+by displacement of structural members. Another property that occurs when this footing ratio
+is large is that substantial energy dissipation occurs â€“up to a viscous damping ratio value of
+Î¾â‰ˆ 20%- which aids in decreasing the seismic loading that enters the structure.
+Also, the footing was observed to have no induced permanent vertical settlement, Ïâˆž.
+It was hence concluded and suggested that for bridges; the design of shallow, rocking
+foundations together with artificial dampeners should be introduced as preferential in bridge
+design rather than fixed-base columns.
+City University London Master of Engineering Major Project
+- 15 - | P a g e
+CHAPTER 3 - NUMERICAL MODELLING
+3.1 Moment-Curvature Analysis at the Critical Section of the Pier
+Here the results of the moment-curvature (M-Ï†) analysis of the critical section at the base of
+the pier are presented. For this analysis the program Response2000 was used which
+specialises in rectangular, concrete cross-sections. The general material properties of the
+analysed structure that were used are shown in Appendix I. Specifically, concrete grade
+C20/25 was used, with cubic compressive strength fck equal to 20MPa, and reinforcement
+of yield tensile strength, fyk equal to 400MPa was used.
+In the longitudinal direction:
+Only the reinforcement on the longitudinal faces of the pier is included, as this was
+assumed to be the critical reinforcement in the longitudinal direction. There is a clear cover
+to the transverse reinforcement equal to 50mm. As shown above, the area of longitudinal
+Figure 3 - 1: The pier cross-section along with dimensions and areas of reinforcement were determined
+using Response2000
+City University London Master of Engineering Major Project
+- 16 - | P a g e
+reinforcement, As is equal to 38280 mm2 and the area of the transverse reinforcement, Av is
+equal to 201mm2 per stirrup leg. The stirrups are placed along 150mm intervals.
+As stated by Professor Priestley (1996) 50% of the corner bar areas are compressive or
+tensile and the other 50% of the reinforcement is considered as side reinforcement.
+Tensile Compressive Side
+Number of bars 58 58 28
+Diameter, Ï† (mm) 29 29 29
+Table 3 - 1: The longitudinal reinforcement used for the M-Ï† analysis in the longitudinal
+direction
+Figure 3 - 2: The longitudinal and side reinforcement
+used in the analysis (Mergos, 2004)
+City University London Master of Engineering Major Project
+- 17 - | P a g e
+0
+10000
+20000
+30000
+40000
+50000
+60000
+0 20 40 60 80 100 120 140
+Moment,M(kNm)
+Curvature, Ï† (rad/km)
+Moment-Curvature of pier critical section
+Response2000
+Bilinear
+A constant axial load, N equal to 8257kN was used; corresponding to the weight of the pier
+and deck. As stated by Mergos (2004), it should be noted that this analysis is only valid for
+a static, constant gravity load. If during a time history analysis the axial load changes, then
+the corresponding yield moment also changes. In such a case this analysis is no longer
+valid and requires a more refined analytical approach.
+From the M-Ï† curve we get:
+First yield point:
+My =37187.17 kNm, Ï†y = 1.15 rad/km
+Ultimate Strength point:
+Mu = 51482.14 kNm, Ï†u = 24.28 rad/km
+Figure 3 - 3: The M-Ï† curvature relationship of the pier base critical section analysed on
+Response2000
+City University London Master of Engineering Major Project
+- 18 - | P a g e
+The moment of inertia of the pier section in the longitudinal direction was calculated:
+ï‚· Ip = moment of inertia of pier (m4)
+ï‚· B = width of pier section (m)
+ï‚· D = depth of pier section (m)
+= 4.4367 m4
+Using the moment-curvature response (M-Ï†) conducted earlier; the effective moment of
+inertia of the pier in the longitudinal direction was calculated by using the nominal yield of
+the critical cross section in the longitudinal direction.
+Since the gradient of the M-Ï† curve is equal to EI:
+where:
+ï‚· Ipeff = effective moment of inertia (m4)
+ï‚· My = yield moment (kNm)
+ï‚· E = Youngâ€™s elastic modulus (kN/m2)
+ï‚· Ï†y = yield curvature (rad/m)
+=0.6129 m4
+City University London Master of Engineering Major Project
+- 19 - | P a g e
+The effective area of the pier section was calculated by multiplying the pier section area
+with the ratio of the former two moments of inertia calculated:
+ï‚· Apeff = effective cross-sectional area of the pier (m2)
+ï‚· Ap = cross-sectional area of the pier (m2)
+= (5 * 2.2) * = 1.5196 m2
+For simplicity, a bilinear M-Ï† curve was plotted using the two yield and ultimate points taken
+from the original curve.
+City University London Master of Engineering Major Project
+- 20 - | P a g e
+3.2 Linear Elastic Analysis
+3.2.1 Introduction
+A number of simplistic 2-dimensional linear elastic numerical models were created in order
+to indicate some basic characteristics typically observed during foundation rocking and to
+simply distinguish its particular effect on simple structures.
+For the linear elastic analyses, the finite element analysis software SAP2000 was selected.
+As stated before, only the longitudinal direction of the seismic excitation was analysed in
+this investigation as it is the most crucial in seismic bridge design. Also it allows for a
+simpler approach to the load simulation applied to the model. The deck mass can be
+simulated as a point load acting at the head of the pier and thus the insertion of geometry,
+reinforcement and material properties of the deck are not required. The use of this
+assumption decreased the modeling duration and allowed for a simpler approach to the
+problem.
+Figure 3 - 4: The 2-D model with a 3-D view of its assigned sectional geometry created in
+SAP2000.
+City University London Master of Engineering Major Project
+- 21 - | P a g e
+Figure 3 - 5: The dimensions of the longitudinal
+model completed are shown. The 2.5m deck height
+is simulated as a continuous pier height and is
+added to the total pier height, creating a 10m high
+pier.
+Figure 3 - 6: The seismic excitation is
+modeled as a static horizontal load acting at
+the head of the pier in the longitudinal
+direction
+City University London Master of Engineering Major Project
+- 22 - | P a g e
+Three types of models of the bridge section were analysed under linear elastic static
+loading conditions. The original bridge section model was broken down into three simpler
+models which allowed for checking similar model types for consistency. This ensured that
+the rocking isolation effects were made more identifiable and could be distinguished from
+typical fixed base systems.
+During the linear elastic modeling phase the loads acting on the model are:
+ï‚· Dead load:
+= Weight of Pier + Weight of Footing + Weight of Deck
+ï‚· Earthquake load:
+(*)
+(*) This value does not represent the actual value of the seismic excitation. A load that
+would produce relatively large and comparable horizontal deck displacements has been
+imposed relative to the large weight of the structure. This way the results would be easily
+distinguished.
+A multi-degree-of-freedom-system was formed. The mass of the structure is broken down
+into 7 lumped masses; the footing mass, M1; the pier frame is represented by M2, M3, M4
+and M5; the deck mass, M6 and the mass moment of inertia, M7.
+City University London Master of Engineering Major Project
+- 23 - | P a g e
+Figure 3 - 7: The MDOF footing-pier-deck
+system with the distribution of the
+lumped masses of the footing, pier and
+deck.
+Figure 3 - 8: The weights of the lumped masses acting as Dead Loads along the
+elements neutral axes in SAP2000. Shown here is a 2-D and 3-D view of the 2-
+dimensional model
+City University London Master of Engineering Major Project
+- 24 - | P a g e
+The weights of the lumped masses are calculated in Appendix II and their values are shown
+below:
+W1 = 4050 kN
+W2 =
+W3 =
+W4 =
+W5 =
+W6 =
+The mass moment of inertia of the footing was also calculated:
+=
+=2923.4 tm2
+where:
+ï‚· Im = mass moment of inertia of the structure (tm2)
+ï‚· M1 = mass of the footing (kg)
+ï‚· B =width of footing (m)
+ï‚· D = depth of footing (m)
+The mass moment of inertia accounts for rotation about the y-axis, which is the out of plane
+axis.
+All the models analysed are geometrically identical, however they differ on the restraining
+conditions modelling the soil-structure interaction.
+City University London Master of Engineering Major Project
+- 25 - | P a g e
+3.2.2 Fixed Base Model
+A geometrically identical model to the real-life analysed structure was created with the use
+of SAP2000, which included identical reinforcement properties â€“sizes, spacing and material
+steel properties for both the transverse and longitudinal reinforcement.
+Hence the model has a fixed base; the node at the base of the pier has nodal restraints in
+all 6 degrees of freedom. No foundation uplift is allowed.
+Figure 3 - 9: The â€œFixed baseâ€ model
+shown here takes the soil-structure
+interaction as fixed, restraining
+translations or rotations in all
+dimensions
+Figure 3 - 10: The â€œFixed baseâ€ 2-dimensional model created in SAP2000
+with a 3-dimensional view of its assigned frame sections
+City University London Master of Engineering Major Project
+- 26 - | P a g e
+3.2.3 Rotational Spring No Uplift Model
+This model is identically the same to the fixed base model, but the support conditions now
+change to allow foundation rocking. It should be noted that no uplift was included in this
+model, meaning that during rocking the footing corners do not uplift above ground level. A
+rotational spring was placed at the base of the footing at its centre of gravity which
+simulated the soil-structure interaction and gave the footing the ability to rotate about the y-
+axis.
+Figure 3 - 11: The â€œRotational spring no upliftâ€ model shown here
+simulates the soil-structure interaction by placing a rotational spring
+at the base of the footing
+City University London Master of Engineering Major Project
+- 27 - | P a g e
+The footing was restrained from sliding during rocking hence the node at the base of the
+footing was restrained for translation in the x and y-axes and for rotation about the x and z-
+axes. This allowed for the observation of displacements in the x and z-axes and rotation
+about the y-axis.
+The rotational spring has stiffness, kÎ¸ and it assumes equal stiffness in both compression
+and tension. This is not realistic since there is no tensile resistance to the footing from
+uplifting during rocking.
+The rotational spring stiffness, kÎ¸ was calculated using the following expression. It was
+derived using first principles and can be found in Appendix III.
+= 54675000 kNm/rad
+Figure 3 - 12: The â€œRotational spring no upliftâ€ 2-dimensional model created in
+SAP2000, with a 3-dimensional view of its assigned frame sections
+City University London Master of Engineering Major Project
+- 28 - | P a g e
+3.2.4 Elastic Winkler No Uplift Model
+The same footing-pier-deck system model was analysed here, however the method of
+simulating the soil-structure interaction changed; it was now simulated using a Winkler
+method. The Winkler method uses a number of translational nodal springs â€“ of zero length -
+placed at regular intervals under the base of the footing in order to simulate the soil-
+structure interaction. Like the previous rotational spring model, the footing was capable of
+rocking.
+This method produced similar results to the rotational spring model, however it was slightly
+less accurate due to the increased number of elements used which increased the repeated
+error.
+Figure 3 - 13: The soil-structure interaction is modelled by placing a
+sequence of translational springs at evenly spaced intervals along
+the length of the base of the footing
+City University London Master of Engineering Major Project
+- 29 - | P a g e
+The model was named â€œElastic Winkler Model No Upliftâ€ and uses the same assumption as
+in the rotational spring model; the underlying soil stiffness is equal in both tension and
+compression. Two elastic Winkler models were created using SAP2000, one with constant
+distance between the springs being 0.5m and the other with 0.25m. This was specifically
+done to check for consistency between the models and to ensure that the spring stiffness
+relationship used was consistent and could provide accurate results.
+The individual spring stiffness, kÎ´ depends upon its position under the footing. The detailed
+calculations of the stiffness for the various translational springs are shown in Appendix IV.
+The expression is shown below:
+kÎ´ = ksv * B * L
+Distance between springs
+(m)
+Interior Springs Stiffness, kÎ´
+(kN/m)
+Corner Springs Stiffness, kÎ´
+(kN/m)
+0.5 450000 250000
+0.25 225000 125000
+Table 3 - 2: Translational spring stiffness for each Elastic Winkler model
+Figure 3 - 14: The â€œElastic Winkler No Upliftâ€ 2-dimensional model created in
+SAP2000, with a 3-dimensional view of its assigned frame sections.
+City University London Master of Engineering Major Project
+- 30 - | P a g e
+3.3 Nonlinear Inelastic Analysis
+3.3.1 Introduction
+A 2-dimensional time-history analysis was conducted in order to observe the realistic
+relationships and trends that form during rocking isolation. In order to achieve complete
+results uplift was now included. For the inelastic dynamic analysis the finite element
+analysis software Ruaumoko was used as it specialises in this particular type of analyses.
+Three 2-dimensional models were created in Ruaumoko each with different footing
+dimensions in planâ€“ 6mx6m, 9mx9m and 12mx12m â€“ however a constant distance between
+springs of 0.5m was used in all models. This was done to distinguish the effect of the
+footing dimensions on the footingâ€™s ability to isolate its superstructure through foundation
+rocking.
+The soil-structure interaction is now simulated by placing nonlinear inelastic Winkler nodal
+springs â€“zero length-placed at even intervals along the length of the base of the footing.
+These nonlinear springs have zero stiffness in tension and a stiffness value in compression
+which is a function of the dimensions of the footing and the underlying soil stiffness, ksv.
+City University London Master of Engineering Major Project
+- 31 - | P a g e
+-12000
+-10000
+-8000
+-6000
+-4000
+-2000
+0
+2000
+-0.05 0 0.05 0.1 0.15 0.2 0.25
+Force,P(kN)
+Lateral Displacement,(m)
+Axial Force Vs Vertical Displacement
+9x9
+6x6
+12x12
+The spring stiffness for the different models was calculated using the same expression
+used in the linear elastic analysis and is shown clearly in Appendix IV.
+Hence:
+Foundation Size (mxm)
+Interior Springs Stiffness, kÎ´
+(kN/m)
+Corner Springs Stiffness, kÎ´
+(kN/m)
+6x6 300000 150000
+9x9 450000 225000
+12x12 600000 300000
+Table 3 - 3: Translational spring stiffness for each Inelastic Winkler model used
+Figure 3 - 15: Axial force versus axial displacement relationships used for the interior springs.
+City University London Master of Engineering Major Project
+- 32 - | P a g e
+-1
+-0.8
+-0.6
+-0.4
+-0.2
+0
+0.2
+0.4
+0.6
+0.8
+0 10 20 30 40 50 60
+GroundAcceleration,g(m/s2)
+Time, T (sec)
+JMA 1995 Kobe Earthquake
+The gradient of the lines in Figure 3 â€“ 15 (force/displacement) indicates the stiffness of the
+springs. It is observed both from the calculations and the plot that the larger the dimensions
+of the footing, the stiffer the structure becomes.
+As in the linear elastic analysis, the same multi-degree of freedom system is used with 7
+lumped masses accounting for the mass of the frame sections of the structure.
+Contrary to the elastic modelling conducted where the seismic excitation was simply
+modelled as a static 10 000kN Earthquake Load, the horizontal component of the 1995
+Kobe excitation - as measured by the Japanese Meteorological Agency (JMA) - was
+imposed on the structure. The peak ground acceleration (PGA) measured during the 1995
+Kobe earthquake is found to be equal to 0.83375g and it occurs at T=5.06 sec. As Figure 3
+- 16 shows the total duration of the earthquake is 50 seconds.
+Figure 3 - 16: The accelerogram of the 1995 Kobe earthquake in Japan showing the horizontal
+ground accelerations, as measured by the Japan Meteorological Agency.
+City University London Master of Engineering Major Project
+- 33 - | P a g e
+The yield strength, Ïƒy of the underlying soil in tension is taken to be zero and in
+compression, Ïƒy =27MN/m2. This value was used in order to create an underlying soil that
+would not yield during the analysis. This ensured that the analysis would indicate the
+isolated seismic response of the structure affected solely by the complete effects of the
+rocking isolation.
+The viscous damping ratio, Î¾ for this model was taken to be equal to 5%.
+3.3.2 Inelastic 6x6 Model
+As in the elastic analysis, the structure modelled here includes only one footing-pier-deck
+system. It has footing dimensions (plan view) of width and depth equal to 6m, all other
+dimensions are identical to the real life structure.
+Figure 3 - 18: The dimensions used for
+the â€œInelastic 6x6â€2-dimensional
+model. Shown in blue are the elements
+and nodes used
+Figure 3 - 17: The 2-dimensionalâ€œInelastic 6x6â€
+model created in Ruaumoko.
+City University London Master of Engineering Major Project
+- 34 - | P a g e
+3.3.3 Inelastic 9x9 Model
+Another 2-dimensional model with footing dimensions of width and depth â€“ in plan - equal to
+9m was created in Ruaumoko.
+Figure 3 - 19: The dimensions used for the
+â€œInelastic 9x9â€2-dimensional model. Shown in
+blue are the elements and nodes used
+Figure 3 - 20: The 2-dimensionalâ€œInelastic 9x9â€
+model created in Ruaumoko.
+City University London Master of Engineering Major Project
+- 35 - | P a g e
+3.3.4 Inelastic 12x12 Model
+The third model created changes to a larger footing size with footing width and length
+equal to 12m, while all other dimensions remain the same
+.
+Figure 3 - 21: The dimensions used for the â€œInelastic 12x12â€ 2-
+dimensional model. Shown in blue are the elements and nodes
+used
+Figure 3 - 22: The â€œInelastic 12x12â€ 2-dimensional model created in Ruaumoko
+City University London Master of Engineering Major Project
+- 36 - | P a g e
+CHAPTER 4 - ANALYTICAL RESULTS
+4.1 Modal Analysis
+4.1.1 Modal Analysis of Models That Exclude Uplift
+The model used for the linear elastic analysis which excludes uplift is identical for both the
+rotational spring and the two elastic Winkler models. It included 6 lumped masses plus the
+mass moment of inertia of the structure. As a result 7 modes of vibration exist for the
+structure in the longitudinal direction.
+By observing the cumulative effective mass of the 7 modes, the most important natural
+modes of vibration for the elastic 9x9 model in the longitudinal direction are shown below:
+1st mode 2nd mode 7th mode
+Figure 4 - 1: The most important modes of vibration in the longitudinal
+direction of the model that excludes uplift
+City University London Master of Engineering Major Project
+- 37 - | P a g e
+4.1.2 Modal Analysis on Models That Include Uplift
+The models used for the inelastic nonlinear analysis which include uplift use the same
+lumped masses as those used in the elastic analysis. Hence there are 7 modes of vibration
+in the longitudinal direction for all three inelastic models which are all shown in Appendix V.
+The most important natural modes of vibration for the 6x6 model in the longitudinal direction
+are shown below:
+1st mode 2nd mode 7th mode
+Elastic 9x9
+Mode Period ,T (sec) Cumulative Effective
+Mass (%)
+1 0.7948 65
+2 0.0658 73
+3 0.0343 73
+4 0.0146 74
+5 0.0060 74
+6 0.0034 74
+7 0.0004 100
+Table 4 - 1: The 7 modes of vibration in the longitudinal direction of the 9x9 model that
+excludes uplift
+Figure 4 - 2: The most important modes of vibration in the longitudinal direction of
+the 6x6 model that includes uplift
+City University London Master of Engineering Major Project
+- 38 - | P a g e
+The most important natural modes of vibration below for the 9x9 model in the longitudinal
+direction are shown:
+1st mode 2nd mode
+7th mode
+Inelastic 6x6
+Mode Period, T (sec)
+Cumulative Effective
+Mass (%)
+1 0.9465 65
+2 0.1054 73
+3 0.0399 73
+4 0.0148 74
+5 0.0060 74
+6 0.0034 74
+7 0.0004 100
+Table 4 - 2: The 7 modes of vibration in the longitudinal direction of the 6x6 model that
+includes uplift
+Inelastic 9x9
+Figure 4 - 3: The most important modes of vibration in the longitudinal direction of
+the 9x9 model that includes uplift
+City University London Master of Engineering Major Project
+- 39 - | P a g e
+The most important natural modes of vibration for the 12x12 model in the longitudinal
+direction are shown below:
+1st mode
+2nd mode
+Mode Period ,T (sec) Cumulative Effective
+Mass (%)
+1 0.7954 62
+2 0.0671 73
+3 0.0346 73
+4 0.0147 74
+5 0.0060 74
+6 0.0034 74
+7 0.0004 100
+Table 4 - 3: The 7 modes of vibration in the longitudinal direction of the 9x9 model that
+includes uplift
+City University London Master of Engineering Major Project
+- 40 - | P a g e
+7th mode
+It was observed that the 9x9 model that included uplift and the model that excluded uplift
+had very similar modal periods. This was due to the models having the same footing
+dimensions thus same initial spring stiffness. The model that excluded uplift had slightly
+smaller modal periods than the 9x9 that included uplift as was expected since the footing
+could rock but not uplift; the translational springs had stiffness in tension as well as in
+compression.
+Inelastic 12x12
+Mode Period ,T (sec) Cumulative Effective
+Mass (%)
+1 0.7653 62
+2 0.0558 71
+3 0.0253 74
+4 0.0145 74
+5 0.0060 74
+6 0.0034 74
+7 0.0004 100
+Table 4 - 4: The 7 modes of vibration in the longitudinal direction of the 12x12 model
+that includes uplift
+Figure 4 - 4: The most important modes of vibration in the longitudinal
+direction of the 12x12 model that includes uplift
+City University London Master of Engineering Major Project
+- 41 - | P a g e
+It should be noted that due to the fact that the mass moment of inertia was included, all 7
+modes of vibration were required to cover the total mass of the structure. It was also
+observed that for the models that include uplift, the modal period decreases proportionally
+with the increase of the footing size, which may be due to the footingâ€™s increased weight
+and stiffness.
+City University London Master of Engineering Major Project
+- 42 - | P a g e
+4.2 Linear Elastic Analysis Results
+Here the results of the numerical modelling are presented.
+At the deck node:
+where:
+ï‚· Î´n = displacement along n-axis (m)
+ï‚· Î¸n = rotation about n-axis (rad)
+Fixed Base
+Î´x 0.0261 m Î¸x 0
+Î´y 0 Î¸y 0.00377 rad
+Î´z 0 Î¸z 0
+Rotational Spring No Uplift
+Î´x 0.0524 m Î¸x 0
+Î´y 0 Î¸y 0.00596 rad
+Î´z 0 Î¸z 0
+Elastic Winkler Model No Uplift (0.5m)
+Î´x 0.0504 m Î¸x 0
+Î´y 0 Î¸y 0.00569 rad
+Î´z -2.356*10-16 m Î¸z 0
+Elastic Winkler Model No Uplift (0.25m)
+Î´x 0.0505 m Î¸x 0
+Î´y 0 Î¸y 0.00570 rad
+Î´z -3.003*10-16 m Î¸z 0
+Table 4 - 5: Analytical results of linear elastic analyses conducted on models, at deck
+level
+City University London Master of Engineering Major Project
+- 43 - | P a g e
+By comparison we can see that the fixed base model had the smallest deck displacements
+and rotations. This is what was expected initially and will be used as a benchmark for
+comparison of the effects of the rocking that is allowed in the other linear elastic models.
+The other three models have similar results in displacements with displacements in the x-
+axis with a range of: 0.2 mm â‰¤ Î´x â‰¤ 3.1 mm,
+Displacements in the z-axis: Î´z = 0.4mm,
+Rotation about the y-axis: 2 x 10-5 rad â‰¤ Î¸y â‰¤ 4.2 x 10-4 rad.
+It is observed that the last two Elastic Winkler Models that exclude uplift have a result
+inconsistency of Î´x= 0.2 mm and Î¸y = 2 x 10-5 rad, which accounts for 0.26% and 0.23%
+respectively. Since the result discrepancy is less than 0.5%, the models are assumed to be
+consistent.
+The fixed base restraint allowed for smaller deck displacements and rotations however the
+curvature demand of the pier increased significantly which can be seen from the curving
+shape of the pier in Figure 4 - 5.
+Figure 4 - 5: The deformed shape of the Fixed
+Base model.
+City University London Master of Engineering Major Project
+- 44 - | P a g e
+Figure 4 - 6: The deformed shape of the
+Rotational Spring that excludes uplift.
+Figure 4 - 7: The deformed shape of the â€œElastic Winkler No Upliftâ€ models.
+City University London Master of Engineering Major Project
+- 45 - | P a g e
+-0.6
+-0.4
+-0.2
+0
+0.2
+0.4
+0.6
+0.8
+0 10 20 30 40 50 60
+Horizontaldisplacement(m)
+Time, t (sec)
+Deck horizontal displacement
+6x6
+9x9
+12x12
+The spring at the base of the footing of the Rotational Spring Model and the translational
+springs under the base of the footing in the Elastic Winkler Models gave the footing the
+ability to rock on its axis, creating larger horizontal deck displacements and rotations but
+keeping the curvature demands of the pier to much lower levels than when comparing to
+the fixed base model.
+4.3 Nonlinear Inelastic Analysis Results
+The results of the three inelastic models subjected to the JMA horizontal ground
+accelerations of the 1995 Kobe Earthquake in the longitudinal direction are shown here.
+Figure 4 - 8: Deck horizontal (longitudinal) displacement of the three inelastic models
+City University London Master of Engineering Major Project
+- 46 - | P a g e
+-60000
+-40000
+-20000
+0
+20000
+40000
+60000
+-0.04 -0.03 -0.02 -0.01 0 0.01 0.02 0.03 0.04
+Moment,M(kNm)
+Rotation, Î¸(rad)
+Pier Base M-Î¸
+6x6
+9x9
+12x12
+It was observed that the 12x12 model had the smallest deck displacements with a
+maximum of 0.412m in the negative direction at 5.32sec, while the largest were for the 6x6
+model with a maximum of 0.609m in the positive direction at 7.385sec. The 9x9 model had
+a maximum deck displacement of 0.539m in the negative direction at 7.73 seconds.
+This was expected since as seen in the modal analysis, the larger the footing size the
+smaller the magnitude of foundation rocking.
+It may also be observed that the only model that did not fail during the earthquake was the
+6x6 model as it showed an elastic response throughout the excitation and had no residual
+displacement. The 9x9 and 12x12 models suffered a residual deck displacement of
+0.0196m in the negative direction and 0.0402m in the positive direction respectively.
+Next, the moment-rotation relationships for the three models at the base of the pier are
+shown.
+Figure 4 - 9: Moment versus rotation relationships at the base of the pier for the three inelastic
+models
+City University London Master of Engineering Major Project
+- 47 - | P a g e
+-0.05
+0
+0.05
+0.1
+0.15
+0.2
+0.25
+0 10 20 30 40 50 60
+VerticalDisplacement(m)
+Time (sec)
+Footing Corner Uplift
+6x6
+9x9
+12x12
+It was observed that the 12x12 modelâ€™s response is very similar to that of a fixed base
+model; there is a near linear M-Î¸ relationship at the base of the pier with very small rotation
+responding to the applied moment. The other two models however showed eminent signs
+of foundation rocking and an energy dissipation trend. The 9x9 model showed large
+rotations up to â‰ˆ0.026rad responding to the same maximum moment value of â‰ˆ51800kNm
+as in the 12x12. The essential effect of the foundation rocking was shown in the 6x6 model
+where the pier base moment was significantly decreased to â‰ˆ34100kNm at the same
+maximum rotation. This shows a relationship between foundation rocking and a decrease in
+moment capacity.
+Next the vertical displacement of the left corner spring of the footing of the three inelastic
+models is presented below. This corresponds to the magnitude of uplift in each model.
+Figure 4 - 10: Vertical displacement of a corner spring for the three inelastic models
+City University London Master of Engineering Major Project
+- 48 - | P a g e
+Footing Size (mxm) Maximum uplift (m)
+Maximum underlying soil
+settlement (m)
+6x6 0.1900 0.0267
+9x9 0.1940 0.0196
+12x12 0.0074 0.0032
+Table 4 - 6: Maximum uplift and vertical settlement of the footing corner
+It can be said that the 12x12 model behaved very similar to a fixed base model with minimal
+foundation rocking. On the contrary the other two models show significant signs of
+foundation rocking. The 6x6 and 9x9 models behave very similarly with respect to uplift;
+their difference of +0.004m can be considered negligible and can be justified as an error
+caused by the constant distance of 0.5m between springs. A more refined mesh would
+reduce the error. It is also observed that the smaller the footing size the larger the pounding
+force impacting the underlying soil, as seen by the increasing trend of negative vertical
+displacements with the decrease of the footing size.
+It should be noted however that since the underlying soil is elastic there is no permanent
+settlement, as seen in Figure 4 - 10 the vertical displacement is zero at the end of the
+excitation.
+City University London Master of Engineering Major Project
+- 49 - | P a g e
+-60000
+-40000
+-20000
+0
+20000
+40000
+60000
+-0.025 -0.02 -0.015 -0.01 -0.005 0 0.005 0.01 0.015
+Moment,M(kNm)
+Curvature, Ï† (rad/m)
+Pier Base Hysteresis Loops
+12x12
+9x9
+6x6
+Next the hysteresis loops observed at the base of the pier are presented.
+It was observed here that the footing size is directly proportional to the curvature demands
+observed in the pier. The larger the footing size, the larger the curvature in the pier. There
+is a big difference - with respect to the curvature demands created in the pier - between the
+12x12 model and the two models (6x6 and 9x9) that showed signs of foundation rocking
+and the 12x12 model. The 12x12 model has a maximum curvature value of 0.0233rad/m
+which translates to a rotation of 0.233rad at the deck. On the other hand the 6x6 and 9x9
+models have maximum curvature values of and 0.0022rad/m 0.0065rad/m which translate
+into rotations at the deck of 0.022rad and 0.065rad respectively.
+Figure 4 - 11: Pier base moment versus curvature (M-Ï†)
+City University London Master of Engineering Major Project
+- 50 - | P a g e
+CHAPTER 5 â€“ PARAMETRIC STUDY
+5.1 Introduction
+The influences of the footing dimensions and the underlying soil stiffness on the foundation
+rocking capacity of a structure are examined here. For this parametric investigation use of
+theory and static equilibrium principles were made in order to determine expressions
+relating the various parameters involved. The detailed derivation of these expressions is
+shown in Appendix VI.
+5.2 Footing Dimensions
+Here the influence of the footing size on the magnitude of the foundation rocking is
+examined. This is achieved by selecting various square dimensions for the footing and
+performing analytical calculations for those sizes and observing any differences. It should
+be noted that the pier geometry and material properties remain unchanged in the structure.
+Three footing sizes were examined: 6x6, 9x9 and 12x12.
+1. The effect of the size of the footing on the rotational stiffness that excludes uplift
+was first examined.
+The footing dimensions are proportional to the rotational stiffness. Hence:
+Footing Size (m) 6x6 9x9 12x12
+Rotational Stiffness, kÎ¸
+(kNm/rad)
+10.8*106 54.675*106 172.8*106
+Table 5 - 1: Rotational stiffness for various footing sizes
+City University London Master of Engineering Major Project
+- 51 - | P a g e
+2. Examining now the effect of footing size on models that include uplift. As shown
+previously, the expression used to calculate the stiffness of the translational springs used to
+model uplift is:
+kÎ´ = ksv * B * L
+Again we see that the translational spring stiffness is linearly proportional to the footing
+dimensions. The distance between springs in the models is kept constant and equal to
+0.5m.
+Footing Size (m) 6x6 9x9 12x12
+Translational Spring
+Stiffness, kÎ´ (kN/m)
+300000 450000 600000
+Table 5 - 2: Translational spring stiffness for various footing sizes
+Clearly the larger the footing the larger the rotational stiffness and hence the lower the
+ability to rock. Also by increasing the dimensions of the footing, the weight of the footing is
+increased which consequently increases the axial load on the structure. Increasing the axial
+load decreases the footingâ€™s ability to rock.
+City University London Master of Engineering Major Project
+- 52 - | P a g e
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+0 0.005 0.01 0.015 0.02 0.025 0.03
+Ductility,Î¼Î¸(Î¸p/Î¸y)
+Total Rotation, Î¸t (rad)
+Pier Ductility Vs Total Rotation
+6x6
+9x9
+12x12
+Furthermore, the ductility of the pier with respect to the total rotation of the structure is
+presented below.
+From this figure it is observed that the larger the footing size the lower the tolerance to
+rotation. The 6x6 footing shows a large tolerance to rotation reaching its elastic ductility
+(Î¼Î¸=1) beyond a total rotation, Î¸t of 0.03rad which is the maximum rotation the structure can
+take without suffering flexural failure. Thus the 6x6 footing ensures the pier will not endure
+flexural failure in a seismic excitation. By observing the other two models, the larger the
+footing size the less rotational tolerance the pier can take before enduring flexural failure.
+Figure 5 - 1: Ductility demands of the pier versus total rotation for various footing sizes
+City University London Master of Engineering Major Project
+- 53 - | P a g e
+0
+10000
+20000
+30000
+40000
+50000
+60000
+70000
+0 0.005 0.01 0.015 0.02 0.025 0.03
+Moment,M(kNm)
+Total Rotation, Î¸t (rad)
+Pier ÎœÎ¿ment Vs Total Rotation
+6x6
+9x9
+12x12
+0
+10000
+20000
+30000
+40000
+50000
+60000
+70000
+80000
+90000
+0 0.005 0.01 0.015 0.02 0.025 0.03
+Moment,M(kNm)
+Rotation, Î¸ (rad)
+Footing Moment Vs Rotation
+6x6
+9x9
+12x12
+Figure 5 - 3: Pier moment versus total rotation for various footing sizes
+Figure 5 - 2: Moment of the footing versus footing rotation for various footing sizes
+City University London Master of Engineering Major Project
+- 54 - | P a g e
+From these figures it was observed that the larger the footing the larger the moment
+induced onto the pier under the same rotation. However as the footing size increases, the
+yield moment, My and ultimate moment, Mu increase and the yield rotation, Î¸y decreases.
+5.3 The Stiffness of the Underlying Soil
+Moreover the effect of variations in the stiffness of the underlying soil, ksv on the foundation
+rocking capacity is examined here. The same expressions are used here as with the footing
+size investigation. All expressions are shown in Appendix V.
+This investigation uses the following values for ksv:
+kSV = (50000, 100000, 150000, 200000) kN/m3
+Figure 5 â€“ 4 shows that variations in the underlying soil stiffness do not affect significantly
+the behaviour of the pier. The ductility of the pier does not change greatly; however the
+rotation of the structure at which the pier will endure damage decreases proportionally with
+the increase in soil stiffness
+City University London Master of Engineering Major Project
+- 55 - | P a g e
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+0 0.005 0.01 0.015 0.02 0.025 0.03
+Ductility,Î¼Î¸(Î¸p/Î¸y)
+Total Rotation, Î¸t (rad)
+Pier Ductility Vs Total Rotation
+ksv=50000 kN/m^3
+ksv=100000 kN/m^3
+ksv=150000 kN/m^3
+ksv=200000 kN/m^3
+Underlying soil
+stiffness, ksv
+(kN/m3)
+50000 100000 150000 200000
+Rotation
+corresponding to
+pier flexural failure
+(rad)
+0.0032 0.0021 0.0017 0.0015
+Table 5 - 3: Rotations corresponding to pier flexural failure with variations in ksv
+Figure 5 - 4: Pier ductility versus total rotation for various values of ksv
+City University London Master of Engineering Major Project
+- 56 - | P a g e
+0
+10000
+20000
+30000
+40000
+50000
+60000
+70000
+0 0.02 0.04 0.06 0.08 0.1 0.12 0.14 0.16 0.18 0.2
+Moment,M(kNm)
+Total Rotation, Î¸Ï„ (rad)
+Pier Base Moment Vs Total Rotation
+ksv=50000 kN/m^3
+ksv=100000 kN/m^3
+ksv=150000 kN/m^3
+ksv=200000 kN/m^3
+0
+10000
+20000
+30000
+40000
+50000
+60000
+70000
+0 0.02 0.04 0.06 0.08 0.1 0.12 0.14 0.16
+Moment,M(kNm)
+Rotation, Î¸ (rad)
+Footing MÎ¿ment Vs Footing Rotation
+ksv=50000 kN/m^3
+ksv=100000 kN/m^3
+ksv=150000 kN/m^3
+ksv=200000 kN/m^3
+Figure 5 - 6: Moment of the pier versus total rotation for various values of ksv
+Figure 5 - 5: Moment of the footing versus footing rotation for various values of ksv
+City University London Master of Engineering Major Project
+- 57 - | P a g e
+As it can be seen from the two figures above, the moment capacity of the pier is not
+significantly affected by variations in the stiffness of the underlying soil. Only when the
+stiffness falls below 100000kN/m3 (ksv = 50000kN/m3) there is a slight decrease in the
+ultimate moment the structure can take. The rest of the ksv values (100000-200000kN/m3)
+do not present great differences in the moment capacity.
+City University London Master of Engineering Major Project
+- 58 - | P a g e
+CHAPTER 6 â€“ COMPARISON BETWEEN THEORY AND
+NUMERICAL MODELLING RESULTS
+6.1 Introduction
+An analytical moment-rotation analysis (M-Î¸) based on theory was conducted to derive
+expressions and numerical results which were then compared to the results derived from
+the numerical modelling.
+6.2 Theoretical Derivation of Expressions
+Analytical M-Î¸ relationships both for footings including and excluding uplift were derived
+using static equilibrium principles and are shown in detail in Appendix VI.
+1. For the footing excluding uplift the following expression was derived:
+where:
+ï‚· Î¸ = rotation (rad/m)
+ï‚· M = footing moment excluding uplift (kNm)
+ï‚· B = footing width (m)
+ï‚· L = footing length (m)
+ï‚· ksv = underlying soil stiffness (kN/m3)
+City University London Master of Engineering Major Project
+- 59 - | P a g e
+The critical moment:
+where:
+ï‚· Mcr = critical moment at which the footing uplifts (kNm)
+ï‚· N = axial force (kN)
+The critical rotation:
+where:
+ï‚· Î¸cr = critical rotation at the footing uplifts (rad/m)
+2. For the footing including uplift:
+All constants have been previously defined
+Using these expressions a comparison was made between the analytical results and the
+numerical results produced by Ruaumoko.
+City University London Master of Engineering Major Project
+- 60 - | P a g e
+0
+10000
+20000
+30000
+40000
+50000
+60000
+70000
+-0.005 -1E-17 0.005 0.01 0.015 0.02 0.025 0.03
+Moment,M(kNm)
+Rotation, Î¸ (rad)
+Footing ÎœÎ¿ment Vs Rotation
+Theoretical
+Ruaumoko
+Presented below are the moment-rotation relationships produced.
+The two curves are not exactly the same but follow a similar trend. The inconsistency of the
+numerical analysis results may be due to the fact that a finite number of springs were used
+in Ruaumoko; a constant distance between the springs of 0.5m was used. The solution to
+this could be a more refined or dense mesh to reduce to inconsistencies between theory
+and numerical analysis. Also the asymmetric loading of the seismic excitation is another
+reason for the discrepancies observed in the yielding behaviour of the structure, while the
+theoretical response takes an approximately bilinear increase of moment into account.
+Figure 6 - 1: Footing M-Î¸ relationships of the 9x9 inelastic model using theory and finite element
+software
+City University London Master of Engineering Major Project
+- 61 - | P a g e
+6.3 Derivation of Maximum Horizontal Displacements Using
+Theoretical Horizontal Elastic Spectral Analysis
+A horizontal elastic spectral analysis using Eurocode 8 Part 1:2004 was used to determine
+the maximum horizontal displacements under the longitudinal horizontal component of the
+JMA observatory 1995 Kobe seismic excitation that was imposed. The detailed calculations
+and expressions used are included in Appendix VII.
+The Type 1 elastic spectrum was chosen due to the high seismicity of an area such as
+Japan. A viscous damping ratio, Î¾ equal to 5% was used and hence a damping correction
+factor, Î· equal to 1 was used. The ground was taken to be of type B since the sand in which
+the footings were constructed in has a NSPT value of more than 50. Since an elastic
+response is to be determined, a factor of safety, Î³ equal to 1 was used. Lastly, the peak
+horizontal ground acceleration (PGA) was taken to be 0.83375g.
+Presented below are the results.
+Maximum Horizontal Displacements (m)
+Footing Size (m) Theoretical Ruaumoko
+6x6 0.2793m 0.6090m
+9x9 0.1845m 0.5410m
+12x12 0.0947m 0.4120m
+Table 6 - 1: Maximum horizontal displacements from theory and Ruaumoko
+It was observed that the results of the two methods are not very consistent, they are
+approximately in the same of order of magnitude however they differ significantly. This may
+be due to the fact that the finite element mesh created in Ruaumoko was not very refined;
+the springs had a constant distance of 0.5m between them. A more refined mesh might
+reduce the inconsistency.
+City University London Master of Engineering Major Project
+- 62 - | P a g e
+CHAPTER 7 â€“ CONCLUSIONS
+At this point given the post-processing of the numerical and analytical results obtained, a
+number of deductions were made.
+It was observed that the size of the footing significantly affects the rocking capability of the
+footing. By looking at the theoretical expressions derived for footing uplift, it can be stated
+that the moment capacity is a function of the axial load and the footingâ€™s length. Thus, by
+increasing the size of the footing the moment capacity of the pier is increased. This in
+essence decreases the ductility demand of the pier hence the pierâ€™s damage potential
+increases. Furthermore by increasing the moment capacity, the magnitude of foundation
+rocking is decreased which decreases deck displacements.
+It was also noted that the stiffness of the underlying soil affects the foundation rocking
+capability of the pier. An increase in the underlying soil stiffness causes a decrease in the
+footing uplift due to the lower elasticity of the ground. It should be noted that the underlying
+soil stiffness affects the rocking isolation on a smaller scale when compared to the effect of
+the footing size. It can be concluded that in very stiff foundation soils, footing uplift may be
+negligible.
+Through the analytical and numerical results it is clear that foundation rocking has an
+isolation effect; proven to be beneficial by dissipating energy and reducing potential
+damage to the pier. Ductility demands and curvature demands are increased and
+decreased respectively. However, foundation rocking has the ability to jeopardise this
+benefit due to its potential to cause damage to the pier. This would be caused by the
+pounding of the footing on the underlying soil during rocking. Especially at the footing
+corners â€“ where the highest vertical accelerations are developedâ€“ the magnitude of the
+City University London Master of Engineering Major Project
+- 63 - | P a g e
+impacts of the footing with the soil can significantly increase the axial load and hence the
+moment capacity of the footing.
+With regards to elastic and inelastic Winkler models one can conclude that the
+computational effort required is quite high, especially if refined finite element meshes are
+incorporated into models to increase accuracy. An alternative modelling solution - as seen
+in the linear elastic modelling- is to use a rotational spring at the base of the footing in which
+the effect of uplift may be easily incorporated. This significantly decreases the
+computational effort.
+This paper only focused on the uniaxial component of the seismic excitation. Further work
+could include biaxial and triaxial excitation components to analyse the effects of rocking
+more accurately.
+It can be concluded that foundation rocking is a beneficial response mechanism to seismic
+excitations, as it minimises the potential for damage. However it can jeopardise the
+serviceability of the structure due to the high velocity impacts of the footing with the soil
+during uplift.
+City University London Master of Engineering Major Project
+- 64 - | P a g e
+REFERENCES
+1. Bartlett, P.E. (1976), Foundation Rocking on a Clay Soil. ME thesis, University of
+Auckland, School of Engineering, Report No. 154, Auckland, New Zealand.
+2. Deng L. (2012), Centrifuge Modeling, Numerical Analyses and Displacement-Based
+Design of Rocking Foundations
+3. Espinoza A. and Mahin S., (2006), Experimental Study of the Seismic Performance of
+Shallow Foundation Reinforced Concrete Bridge Piers Allowed to Uplift
+4. Fardis M., (2009), Seismic Design, Assessment and Retrofitting of Concrete Buildings,
+Geological, Geotechnical and Earthquake Engineering 8, Â© Springer
+Science+Business Media B.V
+5. Gajan, S., Kutter, B.L., Phalen, J.D., Hutchinson, T.C., Martin, G.R., (2005), Centrifuge
+Modelling of Load- Deformation Behavior of Rocking Shallow Foundations, Soil
+Dynamics and Earthquake Engineering, Vol 25:10, p.p. 773â€“783.
+6. Gajan, S., and Kutter, B.L., (2008), Capacity, Settlement, and Energy Dissipation of
+Shallow Footings Subjected to Rocking, ASCE J, Geotechnical Geo-environmental
+Engineering., Vol 134:8, p.p. 1129-1141.
+7. Hung et al., (2011), The Effect of Foundation Uplift and Plastic Yielding on Induced
+Seismic Vibration of Secondary Structures, 2013 NZSEE Conference
+8. Kawashima K. and Unjoh S., (2004), Seismic Design of Highway Bridges, Journal of
+Japan Association of Earthquake Engineering, Vol. 4, No. 3 Special Issue, p.p. 60-66
+9. Kawashima K. and Unjoh S., (1989), Rocking Response of a Rigid Foundation
+Subjected to Seismic Excitation, Civil Engineering Journal
+10. Mergos PE. and Kawashima K., (2005), Rocking Isolation of a Typical Bridge Pier on
+Spread Foundations, Journal of Earthquake Engineering, Special Issue 2, Vol. 9(2),
+pp. 395-414,Â©Imperial College Press
+City University London Master of Engineering Major Project
+- 65 - | P a g e
+11. Priestley MJN., Seible F., Calvi M., (1996), Seismic design and retrofit of bridges, Jon
+Wiley and Sons
+12. Rosebrook, K.R., and Kutter, B.L., (2001a), Soil-Foundation-Structure Interaction:
+Shallow Foundations, Centrifuge Data Report for test series KRR01, UCD/CGMDR-
+01/09, University of California, Davis, CA.
+13. Rosebrook, K.R., and Kutter, B.L., (2001b), Soil-Foundation-Structure Interaction:
+Shallow Foundations, Centrifuge Data Report for test series KRR02, UCD/CGMDR-
+01/10, University of California, Davis, CA.
+14. Sivaselvan M. and Reinhorn A., (2000), Hysteretic Models for Deteriorating Inelastic
+Structures, Journal of Engineering Mechanics
+15. Sakellaraki, D., Watanabe, G. And Kawashima, K., (2005), Experimental Rocking
+Response of Direct Foundations of Bridges, Journal of Earthquake Engineering, Tokyo
+Institute of Technology.
+16. Wiessing, P. R., (1979), Foundation Rocking on Sand, ME thesis, University of
+Auckland, School of Engineering, Report No. 203, Auckland, New Zealand
+17. Carr, J.A., (2008), User Manual for the 2-Dimensional Version: Ruaumoko 2D, Vol. 2,
+University of Canterbury, Christchurch, New Zealand.
+City University London Master of Engineering Major Project
+- 66 - | P a g e
+APPENDIX I â€“ MATERIAL PROPERTIES OF ANALYSED
+STRUCTURE
+Material Property Symbol Value Units
+Reinforced
+Concrete
+Grade C20/25
+Unit Weight
+Wconcrete 25 kN/m3
+Density
+Elastic Modulus
+Ïconcrete
+Econcrete
+25
+20
+kg/m3
+GPa
+28 day cubic compressive
+strength
+fck 20 MPa
+28 day cylindrical compressive
+strength
+fck 25 MPa
+Steel
+Yield strength fyk 400 Mpa
+Ultimate tensile strength
+fuk 600 Mpa
+Underlying Soil
+Type gravely sand
+Stiffness
+ksv 100 MN/m3
+Standard penetration test-
+Number of blows
+NSPT â‰¥50 blows
+Fundamental natural period
+T 0.2 seconds
+Eurocode8-1:2004
+Ground type
+B
+Table App. I - 1: Material properties of the analysed structure
+City University London Master of Engineering Major Project
+- 67 - | P a g e
+APPENDIX II â€“ MULTI DEGREE OF FREEDOM: LUMPED
+MASSES AND DEAD LOADS
+M1
+M2=
+M3 =
+M4 =
+M5 =
+=
+M6 = given =
+Hence the respective weights are calculated:
+W1 = M1 * g = = 4050 kN
+W2 = M2 * g =
+W3 = M3 * g =
+W4 = M4 * g =
+W5 = M5 * g =
+W6 = M6 * g
+City University London Master of Engineering Major Project
+- 68 - | P a g e
+APPENDIX III - ROTATIONAL STIFFNESS OF MODEL
+EXCLUDING UPLIFT:
+Taking the footing element (plan view):
+9m
+9m
+Figure App. III - 2: Footing with dimensions in plan
+Figure App. III - 1: Assumed linear elastic
+hysteresis of the underlying soil
+City University London Master of Engineering Major Project
+- 69 - | P a g e
+Distribution of load applied causing rotation in the footing (side view):
+Î” O
+Î¸ Î”
+F Îœ
+L/2
+Figure App. III - 3: Schematic drawing showing force distribution along the footing width
+caused by the application of the moment
+ï‚· Î”, settlement (m)
+ï‚· Î£F, sum of forces causing rotation (kN)
+ï‚· Î¸, angle of rotation (radians)
+ï‚· O, point of rotation
+ï‚· F, internal forces caused by rotation
+ï‚· kÎ¸, rotational spring stiffness
+ï‚· M, moment caused by forces
+Since we know that moments are:
+M = kÎ¸ * Î¸
+City University London Master of Engineering Major Project
+- 70 - | P a g e
+At a particular rotation, Î¸ =1:
+Î¸
+Î”
+L/2
+Figure App. III - 4: Schematic triangle formed
+tan Î¸ =
+Since Î¸ is small, the tangent is negligible:
+tan Î¸ â‰ˆ Î¸ =&gt; Î¸ =
+And since Î¸ = 1:
+Î” = L/2
+Also at Î¸ = 1:
+M = kÎ¸ * Î¸ = kÎ¸
+Working out the lever arm at the maximum moment:
+City University London Master of Engineering Major Project
+- 71 - | P a g e
+We know that the stress experienced by the underlying soil:
+Ïƒ = ksv * Î”
+where ksv = elastic modulus of underlying soil (stiffness in compression)( kN/m3)
+Thus since the footing is modelled in only two dimensions:
+Force = stress * applied area
+= Ïƒ * B * 1
+= ksv * B * Î”
+= ksv * B * L/2
+Taking the Right Hand Side of the point of rotation of the footing:
+Î£F = Â½ * (L/2) * F
+= L/4 * F
+= L/4 * ksv * B * L/2
+= L2/8 * ksv * B
+As found previously, the maximum moment occurs at a lever arm at a distance :
+M =
+= L2/8 * ksv x B
+= ksv * BL3/12
+City University London Master of Engineering Major Project
+- 72 - | P a g e
+Since as found previously, M = kÎ¸:
+Hence:
+kÎ¸ = ksv x BL3/12
+ï‚· ksv =stiffness of underlying soil (kN/m3) = 100000 kN/m3
+Hence the stiffness of the rotational spring used to model the soil-structure interaction:
+kÎ¸ = ksv * BL3/12
+= 100000 * 9 * (9)3/12
+= 54675000 kNm/rad
+City University London Master of Engineering Major Project
+- 73 - | P a g e
+APPENDIX IV â€“ TRANSLATIONAL SPRING STIFFNESS
+The translational spring stiffness for the linear elastic modelling is derived using the
+following expression:
+kÎ´ = ksv * B * L
+where:
+ï‚· kÎ´ = spring stiffness (kN/m)
+ï‚· B = width between springs (m)
+ï‚· L = footing length (m)
+ï‚· ksv = stiffness of underlying soil (kN/m3)
+1. For constant distance between springs = 0.5m
+ï‚· Interior springs:
+kÎ´ = 100000 * 0.5 * 9
+= 450000 kN/m
+ï‚· Corner springs:
+kÎ´ = 100000 * 0.25 * 9
+= 250000 kN/m
+2. For constant distance between springs = 0.25m
+ï‚· Interior springs
+kÎ´ = 100000 * 0.25 * 9
+= 250000 kN/m
+ï‚· Corner springs
+City University London Master of Engineering Major Project
+- 74 - | P a g e
+kÎ´ = 100000 * 0.125 * 9
+= 125000 kN/m
+For the nonlinear inelastic analysis the translational spring stiffness was derived using the
+same expression used for the linear elastic analysis.
+For the model with 6mx6m footing:
+ï‚· Interior springs:
+kÎ´ = 100000 * 0.5 * 6
+= 300000 kN/m
+ï‚· Corner springs:
+kÎ´ = 100000 * 0.25 * 6
+= 150000 kN/m
+For the model with 9mx9m footing:
+ï‚· Interior springs
+kÎ´ = 100000 * 0.5 * 9
+= 450000 kN/m
+ï‚· Corner springs
+kÎ´ = 100000 * 0.25 * 9
+= 225000 kN/m
+For the model with 12mx12m footing:
+ï‚· Interior springs:
+kÎ´ = 100000 * 0.5 * 12
+City University London Master of Engineering Major Project
+- 75 - | P a g e
+= 600000 kN/m
+ï‚· Corner springs:
+kÎ´ = 100000 * 0.25 * 12
+= 300000 kN/m
+City University London Master of Engineering Major Project
+- 76 - | P a g e
+APPENDIX V â€“ MODE SHAPES
+The 7 modes of vibration for the 6x6 model in the longitudinal direction are presented
+below:
+1st mode 2nd mode 3rd mode
+4th mode 5th mode 6th mode
+7th mode
+Figure App. V - 1: The 7 natural modes of vibration in the longitudinal
+direction of the 6x6 model that includes uplift
+City University London Master of Engineering Major Project
+- 77 - | P a g e
+The 7 modes of vibration of the 9x9 model in the longitudinal direction are herein presented
+below:
+1st mode 2nd mode
+3rd mode 4th mode
+5th mode 6th mode
+City University London Master of Engineering Major Project
+- 78 - | P a g e
+7th mode
+Figure App. V - 2: The 7 natural modes of vibration in the longitudinal direction of the
+9x9 model that includes uplift
+City University London Master of Engineering Major Project
+- 79 - | P a g e
+The 7 modes of vibration of the 12x12 model in the longitudinal direction are herein
+presented below:
+1st mode
+2nd mode
+3rd mode
+4th mode
+City University London Master of Engineering Major Project
+- 80 - | P a g e
+5th mode
+6th mode
+7th mode
+Figure App. V - 3: The 7 natural modes of vibration in the longitudinal direction
+of the 12x12 model that includes uplift
+City University London Master of Engineering Major Project
+- 81 - | P a g e
+APPENDIX VI â€“ THEORETICAL MOMENT-ROTATION
+ANALYSIS
+Static equilibrium of the footing under static loading:
+N = ksv * B * L * vst
+(1)
+where:
+ï‚· N = axial load caused by the weight of the structure (kN)
+ï‚· B = footing width (m)
+ï‚· L = footing length (m)
+ï‚· vst =vertical displacement caused by the weight of the footing (m)
+Figure App. VI - 1: Schematic drawing of the footing
+City University London Master of Engineering Major Project
+- 82 - | P a g e
+ï‚· ksv = underlying soil stiffness (kN/m3)
+Taking the equilibrium of the footing just before separation from the ground surface:
+As observed from the figure above the stresses in the underlying soil, Ïƒ1 and Ïƒ2 create a
+moment, M about the neutral axis of the pier element:
+(2)
+where:
+ï‚· Ïƒ2 = stress at right hand footing corner (kN/m2)
+ï‚· Ïƒ1 = stress at left hand footing corner (kN/m2)
+ï‚· v1 = vertical displacement at left hand corner of footing (m)
+ï‚· v2 = vertical displacement at left hand corner of footing (m)
+Figure App. VI - 2: The footing just before it separates from the ground
+City University London Master of Engineering Major Project
+- 83 - | P a g e
+All other constants have been previously defined.
+Here the moment, M is created by the the trapezoidal shape of the stresses, Ïƒ1 and Ïƒ2 in
+the underlying stresses created by the rotation of the structure, which in turn cause vertical
+displacements, v1 and v2.
+Hence finding the stresses:
+Ïƒ1 = ksv * v1 (3)
+Ïƒ2 = ksv * v2 (4)
+For rigid foundations we may use the following relationship:
+v2-v1 = Î¸ * L (5)
+where:
+ï‚· Î¸ = rotation (rad/m)
+Hence combining the above relationships:
+Ïƒ2 â€“ Ïƒ1 = ksv (v2 - v1)
+= ksv * (Î¸ * L) (6)
+Substituting into (2):
+(7)
+City University London Master of Engineering Major Project
+- 84 - | P a g e
+Equation (7) gives the moment excluding the effect of uplift.
+The critical moment, Mcr at which the footing separates from the ground can be derived:
+(8)
+Solving for Î¸cr:
+(9)
+Substituting equation (1) into equation (9):
+(10)
+where:
+ï‚· Î¸cr = critical rotation at the footing uplifts from the ground (rad)
+By substitution into equation (7) we get:
+(11)
+where:
+ï‚· Mcr = critical moment at which footing uplifts from the ground (kNm)
+City University London Master of Engineering Major Project
+- 85 - | P a g e
+Equilibrium after footing uplifts:
+Taking the sum of forces in the vertical axis:
+(12)
+where:
+ï‚· x = distance from the edge of the footing at which vertical displacement is zero (m)
+All other constants have been defined previously.
+Substituting equations (4) and (5) into (12):
+Figure App. VI - 3: The footing after uplift
+City University London Master of Engineering Major Project
+- 86 - | P a g e
+(13)
+Taking the moment about the neutral axis of the pier:
+(14)
+But from equation (13) we find:
+Hence substituting the above relationship and equation (13) into equation (14):
+(15)
+Equation (15) indicates the expression for the moment including the effect of uplift.
+City University London Master of Engineering Major Project
+- 87 - | P a g e
+APPENDIX VII - THEORETICAL HORIZONTAL ELASTIC
+SPECTRAL ANALYSIS ON MAXIMUM HORIZONTAL
+DISPLACEMENT
+Footing size-9x9
+From the M Vs Î¸total plot:
+My = 38300 kNm and Î¸y = 0.003530804 rad
+We know that:
+Fy = My/L
+ï‚· My = yield moment (kNm)
+ï‚· Fy = yield force (kN)
+ï‚· L = length of the pier (m)
+=3830 kNm
+We also know that:
+Î”y = Î¸y*L
+ï‚· Î”y = yield displacement (m)
+ï‚· Î¸y = yield rotation (rad)
+Î”y = 0.003530804*10
+=0.0353 m
+Hence the fundamental elastic period of the structure can be calculated:
+ï‚· Te = fundamental elastic period of the structure(sec)
+City University London Master of Engineering Major Project
+- 88 - | P a g e
+ï‚· m = mass (kg)
+ï‚· ke = elastic stiffness (N/m)
+Finding the mass and elastic stiffness of the footing-pier-deck structural system:
+ï‚· m = mass (kg)
+ï‚· weight = weight of the structure (N)
+ï‚· g = gravitational acceleration (m/s2)
+=1393771.66 kg
+ï‚· Î”y = yield displacement (m)
+ï‚· Fy = yield force (kN)
+ï‚· ke = elastic stiffness of the structure (N/m)
+=108498.58 * 103 N/m
+City University London Master of Engineering Major Project
+- 89 - | P a g e
+=
+= 0.7121 sec
+Using the corresponding Elastic Horizontal Response Spectrum from Eurocode 8 we can
+find the corresponding value of the elastic seismic acceleration:
+At:
+Te = 0.7121 sec
+ï‚· Se = elastic response spectrum
+Figure App. VII - 1: The horizontal elastic response spectrum for the 9x9
+City University London Master of Engineering Major Project
+- 90 - | P a g e
+ï‚· ag = peak ground acceleration (m/s2)
+Hence:
+Se = 1.7565 * ag
+=1.7565 * 0.83375*g
+= 1.7565*0.83375*9.81
+=14.3666
+As a result the total horizontal displacement, Î´total can be calculated:
+* 14.3666
+=0.1845 m
+City University London Master of Engineering Major Project
+- 91 - | P a g e
+Footing size-6x6
+From the M Vs Î¸total plot:
+Mmax = 38967.7 kNm
+Hence:
+Fmax =Mmax/L
+ï‚· L = length of the pier (m)
+ï‚· Fmax = maximum force (kN)
+ï‚· Mmax = maximum moment (kNm)
+Fmax = 38967.7/10
+= 3896.77 kN
+Relating the maximum force to the yield force:
+Fy = 0.7*Fmax
+=2727.74 kN
+By interpolation from the F-Î” plot:
+At
+Fy = 2727.74 kN Î”y = 0.0577 m
+Hence the fundamental elastic period of the structure can be calculated:
+ï‚· Te = fundamental elastic period (sec)
+ï‚· m = mass (kg)
+ï‚· ke = elastic stiffness (N/m)
+City University London Master of Engineering Major Project
+- 92 - | P a g e
+Finding the mass and elastic stiffness of the footing-pier-deck structural system:
+ï‚· m = mass (kg)
+ï‚· weight = weight of the structure (N)
+ï‚· g = gravitational acceleration (m/s2)
+=1393771.66 kg
+ï‚· Î”y = yield displacement (m)
+ï‚· Fy = yield force (kN)
+ï‚· ke = elastic stiffness of the structure (N/m)
+= 47356.6 * 103 N/m
+=
+= 1.0779 sec
+City University London Master of Engineering Major Project
+- 93 - | P a g e
+Using the corresponding Elastic Horizontal Response Spectrum from Eurocode 8 we can
+find the corresponding value of the elastic seismic acceleration:
+At:
+Te = 1.0779 sec
+ï‚· Se = elastic response spectrum
+ï‚· ag = peak ground acceleration (m/s2)
+Hence:
+Se = 1.1601 * ag
+=1.1601 * 0.83375*g
+= 1.1601*0.83375*9.81
+=9.4886
+Figure App. VII - 2: The horizontal elastic response spectrum for the 6x6 model
+City University London Master of Engineering Major Project
+- 94 - | P a g e
+As a result the total horizontal displacement, Î”total can be calculated:
+* Se
+=0.2793 m
+City University London Master of Engineering Major Project
+- 95 - | P a g e
+Footing size-12x12
+From the M Vs Î¸total plot:
+My = 37200 kNm and Î¸y = 0.001235799 rad
+We know that:
+Fy = My/L
+ï‚· My = yield moment (kNm)
+ï‚· Fy = yield force (kN)
+ï‚· L = length of the pier (m)
+=3720 kNm
+We also know that:
+Î”y = Î¸y*L
+ï‚· Î”y = yield displacement (m)
+ï‚· Î¸y = yield rotation (rad)
+Î”y = 0.001235799*10
+=0.0124 m
+Hence the fundamental elastic period of the structure can be calculated:
+ï‚· Te = fundamental elastic period (sec)
+ï‚· m = mass (kg)
+ï‚· ke = elastic stiffness (N/m)
+Finding the mass and elastic stiffness of the footing-pier-deck structural system:
+City University London Master of Engineering Major Project
+- 96 - | P a g e
+ï‚· m = mass (kg)
+ï‚· weight = weight of the structure (N)
+ï‚· g = gravitational acceleration (m/s2)
+=1393771.66 kg
+ï‚· Î”y = yield displacement (m)
+ï‚· Fy = yield force (kN)
+ï‚· ke = elastic stiffness of the structure (N/m)
+=301019.83 * 103 N/m
+=
+= 0.4275 sec
+Using the corresponding Elastic Horizontal Response Spectrum from Eurocode 8 the
+corresponding value of the elastic seismic acceleration can be found:
+City University London Master of Engineering Major Project
+- 97 - | P a g e
+At:
+Te = 0.4275 sec
+ï‚· Se = elastic response spectrum
+ï‚· ag = peak ground acceleration (m/s2)
+Hence:
+Se = 2.5013 * ag
+= 2.5013 * 0.83375 * 9.81
+= 20.4584
+As a result the total horizontal displacement, Î´total can be calculated:
+Figure App. VII - 3: The horizontal elastic response for the 12x12 model
+City University London Master of Engineering Major Project
+- 98 - | P a g e
+*20.4584
+= 0.0947 m
+City University London Master of Engineering Major Project
+- 99 - | P a g e
+Information from Eurocode 8 - 1:2004
+The following relationships were used to determine the horizontal elastic response
+spectrum:
+0â‰¤Tâ‰¤TB :
+TB â‰¤Tâ‰¤TC :
+TB â‰¤Tâ‰¤TC :
+TB â‰¤Tâ‰¤TC :
+ï‚· TB = lower limit of the period of the constant spectral acceleration branch (sec)
+ï‚· TC = upper limit of the period of the constant spectral acceleration branch (sec)
+ï‚· TD = value defining the beginning of the constant displacement response range
+(sec)
+ï‚· Î±g = peak ground acceleration (m/s2)
+ï‚· S = soil factor
+ï‚· Î· = damping correction factor with a reference value of Î· = 1 for 5% viscous
+damping
+</field>
+	

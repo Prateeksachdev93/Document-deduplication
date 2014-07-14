@@ -1,0 +1,37 @@
+>
+
+	
+		<field name="slideshow_id">36626779</field>
+		<field name="slide_text">EXAMPLES OF
+HYPOTHESES
+Anxiety Indicators And Their Manifestations
+On Senior Nursing Students Of A Selected
+College Of Nursing In Batangas: A Model
+For Mental Health Promotion Program
+By: Mardes M. Asilo
+Hypotheses
+The researcher will test the following
+hypotheses:
+1. There is no significant relationship
+between indicators of anxiety and their
+manifestations.
+2. There is no significant relationship
+between anxiety indicators and profile.
+3. There is no significant relationship
+between manifestations of anxiety and
+profile.
+The Status Of The University Of Batangas
+Library: Basis For Sustainable Enhancement
+Program
+By: Marisa E. Sagnit
+Hypotheses of the Study
+There is no significant difference
+between the assessment of the
+students and faculty members in
+terms of the following areas:
+1.1. services;
+2.2. facilities;
+3.3. collection; and
+1.4. personnel
+</field>
+	

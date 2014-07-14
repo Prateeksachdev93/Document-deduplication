@@ -1,0 +1,105 @@
+>
+
+	
+		<field name="slideshow_id">36626829</field>
+		<field name="slide_text">CURRICULUM VITAE
+Sooraj. S. Shettigar Email ID: sooraj.s2@gmail.com
+S/o Shekar.shettigar Mobile: +91-9742350173
+â€œSri Durga Ganeshâ€
+Vivekananda Nagar,
+Athrady,
+Udupi-576107
+Objective
+Intend to build a career with leading corporate of hi-tech environment with committed and
+dedicated people and to share, contribute and upgrade my knowledge for the development of
+organization and self.
+Educational qualification
+Class/Course Name of Institute Board/University
+Year of
+Passing
+Marks%
+MS
+( Embedded
+Systems)
+Manipal Centre for
+Information Science
+Manipal University,
+Manipal
+2013 7.73/10
+(GPA)
+BE
+(Electronics And
+Communication
+Engineering)
+Canara Engineering
+Collage-Bantwal
+V.T.U Belgaum 2011 57.56
+P.U.C
+Govt .P.U College
+Udupi
+Karnataka Board 2007 73.5
+SSLC
+Parkala High School
+Parkala
+K.S.E.E.B 2005 78.56
+ï‚· Have completed internship of 9 months successfully (i.e., from Sept 22nd 2012 to July 17th
+2013) at Manipal Dot Net Pvt Ltd, Manipal.
+INTERNSHIP EXPERIENCE
+PROJECTS:
+Title: Automation tool for DVR setup
+Role: Developer
+Description: Using python Scripting language and shell script and C program, for UI had used
+wxpython in Linux environment.
+1. Software installation tool for fresh DVR :
+Description: This tool downloads required software and its dependency file from ftp and
+installs it on fresh DVR and also written license file in C program to generate camera license port
+required for user as per his requirement and also takes care about error handling.
+Environment: Python, shell script and C and GUI using wxpython.
+2. Tool to update license port:
+Description: This tool update the camera port for the DVR which are presently in the fields
+and also it can be used to change host name while booting the system.
+Environment: Python, license file using C and GUI using wxpython.
+3. Tool to create debian file and SVN operation:
+Description: This tool mainly completed with the help of QA team. Tool used to connect to
+the server and do SVN checkout along with update, revert, update to particular SVN version, build
+the system and check log file from server. It's used to create debian file, initially it checks for
+system type and then create debian file and finally send that debian file into DVR machine using IP
+address and gets install in it.
+Environment: Python, shell script and GUI using wxpython.
+â€¢ Have also worked as QA member from Sept 22 2012 in Manipal dot net Pvt Ltd, which includes
+Software testing, GUI testing, bug reporting and verifying.
+Technical Skills
+Operating System : Windows, Ubuntu, Red hat.
+Languages : C, C++, RTOS.
+Scripting languages : Basic Shell Scripting, Perl, python.
+User-Interface : wxpython.
+Tools used : Vxworks, Tornado, Source insight, Microsoft Visual C++ 6.0.
+Areas of Field Interest
+Real Time Operating Systems, Software testing, User Interface development, Embedded
+system design, Python, C and C++.
+Extra Curricular Activities
+ï‚· Organized various Sports, Cultural and Technical Activities
+ï‚· Regular Blood Donor
+ï‚· Participated in Technical Quizzes
+ï‚· Member of Indian Society for Technical Education (ISTE) - Students Chapter
+Strengths
+ï‚· Good Analytical And Planning Skills
+ï‚· Self Motivated And Determined
+ï‚· Positive Attitude and Quick Self learning.
+Hobbies
+Gardening, Solving Sudoku Puzzles, Listening to Music, volleyball, cricket.
+Personal Profile
+Fatherâ€™s Name :Shekar Shettigar
+Gender : Male
+Date of Birth : 22-03-1990
+Nationality : Indian
+Marital Status :Single
+Language Known :English, Hindi.
+Permanent Address : â€œSri Durga Ganeshâ€
+Vivekananda Nagar,
+Athrady, Udupi-576107
+I hereby declare that all the above information is true and correct to the best of my knowledge.
+Date:
+Place: Sooraj.S.Shettigar
+</field>
+	

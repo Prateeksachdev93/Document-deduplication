@@ -144,8 +144,8 @@ public class MinHashWindowedShingles<T> {
 	public static void main(String[] args) {
 
 		
-		String s1 = "this is a string";
-		String s2 = "this is another string";
+		String s1 = "this is a new file";
+		String s2 = "this is a nre file";
 		
 		int shingle_length = 5;
 		

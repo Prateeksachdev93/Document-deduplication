@@ -1,0 +1,407 @@
+>
+
+	
+		<field name="slideshow_id">36626763</field>
+		<field name="slide_text">Software
+That Fits
+AccountMate is a real-time,
+customizable financial and
+business management software
+designed to address the needs
+of small to medium-sized
+businesses. It takes advantage
+of the speed of client/server
+technology and the latest
+productivity-enhancing tools in
+Microsoftâ€™s suite of products to
+help you better manage your
+business.
+This leading-edge application
+combines the full functionality of
+our award-winning AccountMate
+system with the power of
+Microsoftâ€™s SQL Server. It offers
+AccountMate users enhanced
+investment protection for the long
+haul with superior scalability, up-
+time performance, stronger data
+security and easier integration
+with other software applications. A
+SQL database also optimizes the
+applicationâ€™s performance so
+users can experience uniform
+high-speed performance â€“ no
+more system slowdown at the
+end of your reporting period.
+AccountMate 9 for SQL or Express
+Module Summary
+AccountMate for Express is designed for small businesses that desire the stability and
+speed of SQL Server without incurring the expense of SQL Server licenses and will have
+up to five concurrent users. AccountMate for SQL is designed to accommodate
+hundreds of concurrent users. There is no built-in limit to the size of your company
+databases thereby eliminating the need to archive records. Both AccountMate products
+offer an identical user-interface, the same ease of use, number of modules and are
+source code modifiable. This flexibility allows AccountMate products to be customized to
+fit your business processes and adjust as your business grows.
+A company can grow from AccountMate for Express to AccountMate for SQL and still
+maintain their investment in staff training and software customization. Our seamless data
+migration makes this a quick and easy upgrade.
+Both AccountMate for SQL and AccountMate for Express include these
+features:
+â€¢ Powerful desktop tools with user-definable shortcuts and instant access to your
+favorite Microsoft applications
+â€¢ System-wide tracking of data changes that provides comprehensive audit trail and
+helps strengthen the companyâ€™s internal controls
+â€¢ User-definable password policy and fraud protection features recommended by
+banks and accountants for Sarbanes-Oxley compliance
+â€¢ Drill-down analysis permits instantaneous viewing of account and transaction details
+â€¢ Multi-segmented chart of accounts supports complex cost center structure and
+flexible analysis of financial statements
+â€¢ Up-to-the-minute bank balances and instant view of unreconciled transactions help
+manage your cash flow
+â€¢ Ability to attach supporting documents to transaction and master records
+â€¢ A suite of inventory features designed to meet your sophisticated inventory-
+management needs
+â€¢ Multiple warehouses with unlimited bin locations facilitate any complex warehouse
+setup
+â€¢ Multi-currency features allow transactions in any currency
+â€¢ Multi-lingual capabilities support global operations
+â€¢ Over 20 modules to fulfill your accounting, payroll, inventory, manufacturing, RMA,
+CRM and other business requirements.
+Accounts Payable
+With the Accounts Payable module, you can avoid duplicate invoices and late payments,
+require that invoices recorded in the system be supported by purchase orders and take
+advantage of early-payment discounts. AccountMate simplifies the payment process by
+allowing you to post credit card payments or issue checks directly after an invoice is
+recorded. You can even print checks and generate an ACH file in one sitting. It tracks
+payments to various types of 1099 vendors and prints the applicable 1099-MISC forms.
+When integrated with AccountMate's Purchase Order module, you get a complete
+purchasing and invoicing system that will enhance your ability to manage your vendor
+base and cash flow.
+Accounts Receivable
+The Accounts Receivable module offers a complete billing,
+receivable, customer and inventory management system that
+helps you provide customers with accurate and prompt service.
+The Sales Order, Return Merchandise Authorization, Pricing
+Control, Upsell Management, Customer Inventory Manager and
+Inventory Specification modules integrate with Accounts
+Receivable to create a complete order entry, customer returns,
+billing and receivables system that delivers superior customer and
+inventory management.
+Bank Reconciliation
+Keeping an accurate tab on your cash flow is an essential part of
+managing your business and AccountMateâ€™s Bank Reconciliation
+module makes it a breeze. With this module, you can record
+miscellaneous disbursements, receipts and bank transfers that are
+not logged in other AccountMate modules. You can indicate which
+transactions have cleared the bank and reconcile your book
+entries with the bank statements. You can set up and update bank
+accounts and specify the currency in which transactions will be
+recorded for each one. You can quickly view your current bank
+account balance, the last reconciled bank statement balance and
+the total amount of unreconciled bank transactions. This keeps
+you well informed of your companyâ€™s real-time cash position.
+Business Alerts
+Licensed Users can use the many predefined alerts to send
+emails to specific individuals or groups that need to be aware of a
+situation that has just occurred or a reminder to take some action.
+These email alerts can be administered to send an alert to one
+specific person or to a specified group of people. No longer do
+people have to read reports and manually send off an email.
+Proper alerts can be scheduled by an Administrator who names
+the appropriate addressee and when a condition is met, emails
+are sent automatically.
+There are currently 32 predefined alerts that come standard in the
+Alert Manager for AccountMate module.
+Business Analysis
+Gain real-time insight and discover trends in your business
+performance by using AccountMate Business Analysis. Anyone
+who uses spreadsheets has simple, yet powerful capabilities to
+gather and analyze business information. You can easily build or
+create custom reports, which allow you to accelerate decision-
+making with in-depth financial reporting. AccountMate Business
+Analysis also gives you the ability to create a single Microsoft
+Excel template for multiple report generations. Pre-build drag and
+drop Excel functions, reports and business intelligence provide
+commonly-accessed configurations to help you save time, money
+and start delivering results immediately.
+Business Intelligence
+AccountMateâ€™s Business Intelligence module is a powerful query,
+analysis and reporting tool that enables you to analyze ALL your
+business data from any angle you wish, including non-
+AccountMate application data. Benefits include faster reporting
+cycles, higher quality information, sophisticated data analysis
+capabilities, information on customer buying or paying behavior
+and improved executive productivity.
+Data can be presented through reports, charts, graphs and
+dashboards.
+Consolidated Ledger
+The Consolidated Ledger module provides the ability to quickly
+combine several companiesâ€™ account balances and budgets into a
+unified ledger to present consolidated financial statements and
+other reports. It also supports consolidation of companies with
+different reporting currencies making it ideal for multi-national
+organizations that have foreign operations. Creating a
+consolidated ledger is simple. Just set up the company in
+AccountMate and specify whether it is a parent or a subsidiary.
+Assign to each subsidiary a parent company that will generate
+consolidated reports. Then, map each subsidiary company's chart
+of accounts and fiscal periods to its parent and youâ€™ll be able to
+consolidate the subsidiaryâ€™s account balances and budgets in no
+time.
+Contact Manager
+AccountMateâ€™s Contact Manager module is a full-featured contact
+management system that helps you manage interactions with your
+customers more effectively and efficiently. It works with the latest
+Microsoft Office products to provide a complete, automated
+system that offers an all-in-one solution for managing multiple
+customer contacts. It is fully integrated with the accounting
+modules to avoid duplicate data entry and provide data
+consistency throughout the system.
+Custom Field Manager
+The Custom Field Manager module is an engine that lets you add
+any number of data fields to existing AccountMate screens to
+meet your specific requirements. Custom fields can be added to
+master records or transaction header tables. These custom fields
+can be character, date, integer, logical or numeric in nature.
+Custom fields of any type can be assigned a default value while
+character-type custom fields can have a lookup which can be used
+to validate data and locate records. The ability to add custom
+fields to both standard AccountMate tables and non-AccountMate
+tables makes it possible to create the customizations your
+company needs without purchasing a source code license and
+modifying the source code. Custom fields are also seamlessly
+upgraded in future product releases.
+Customer Inventory Manager
+The Customer Inventory Manager module lets you integrate your
+business more closely with your customers helping you achieve
+higher levels of customer satisfaction. Most customers find it
+easier to use their own inventory part numbers, descriptions and
+units-of-measurement when placing orders and when receiving
+and being billed for products and services. Using this module, you
+can easily cross-reference item numbers, descriptions and units-
+of-measurement to those of your customers. It even allows you to
+set customer contract prices. This module integrates seamlessly
+with AccountMate's Accounts Receivable and Sales Order
+modules.
+Customer Relationship Manager
+AccountMateâ€™s Customer Relationship Manager (CRM) module
+manages and reports on every recorded interaction with a
+prospect, client, supplier, contact or branch office. It can schedule
+the next appropriate interaction, enabling exceptional account
+management and customer service. At a glance, you can view all
+past interactions with each contact providing the ability to track
+activities, issues and interactions with all your clients. It can even
+manage your meetings, phone calls and emails. Contact
+information is easily searchable and manageable so you can
+access required records quickly in order to generate reports and
+perform mail merges. It works with programs like Microsoft Office
+so data can be merged and utilized in other programs to create
+custom mailings, mass emails, reports and other business
+documents. It can also be used for sales force and business
+process automation.
+General Ledger
+AccountMate's General Ledger module gives you maximum
+control over the management of all your accounting transactions.
+It is equipped with the necessary tools and reports to help you
+comply with both US Generally Accepted Accounting Principles
+(US GAAP) and International Financial Reporting Standards
+(IFRS). Whether setting up and maintaining a chart of accounts,
+generating financial statements and reports or creating journal
+entries and budgets, AccountMate General Ledger keeps you in
+control of your financial data.
+General Ledger also comes standard with fund accounting
+capabilities. Enabling its fund accounting features addresses not
+only the specific reporting needs of the not-for-profit organization
+but also provides the tools necessary for a detailed accounting to
+those who require special handling of the funds they contribute.
+Inventory Control
+You have the power of a complete inventory management system
+with AccountMate's Inventory Control module. This module
+provides the ability to define each inventory item's cost method,
+units-of-measurement and warehouse and bin locations. You can
+set each itemâ€™s safety stock, lead time, reorder level and reorder
+quantity. Inventory counts can be performed at any time and as
+often as needed without interrupting your shipping and receiving
+processes.
+You can assign serial numbers to each unit of an inventory item,
+define multiple substitutes for an item and record transfers of units
+from one warehouse to another. Stock items can be issued for
+internal use. You can also view a list of vendors that supply a
+specific item or a list of items sourced from a particular vendor.
+Inventory Control integrates with and enhances the functionalities
+of the Accounts Receivable, Sales Order, Purchase Order and
+Manufacturing modules. It also integrates with the Pricing Control,
+Upsell Management, Inventory Specification, Kitting, Lot Control
+and Customer Inventory Manager modules.
+Inventory Specification
+The Inventory Specification module offers quick, easy and
+accurate management of complex inventory that requires tracking
+of a variety of attributes. It allows you to categorize your inventory
+items according to such things as size, color, weight and texture;
+then, tracks the itemsâ€™ quantities, costs and prices by the assigned
+categories. It can suggest a similar item when the desired
+specification is not available thus helping you keep the sale. The
+Inventory Specification module integrates with the Inventory
+Control, Sales Order, Accounts Receivable, Purchase Order,
+Pricing Control and Upsell Management modules.
+Kitting
+AccountMateâ€™s Kitting module expands the inherent capabilities of
+your Inventory Control module to allow you to create and manage
+inventory items that are packaged and sold together as a single
+unit.
+The Kitting module is designed to be used by manufacturers and
+distributors whose goods are often resold in many different
+configurations. Users can decide whether assembled units of a kit
+item must be kept in stock or whether they can be packaged on
+the fly as orders are received. Kit items can be sold using a pre-
+defined formula or customized per order. This module tracks items
+when they are sold as part of a kit and provides the necessary
+reports to help you determine whether you have sufficient stock to
+meet existing kit orders thereby allowing you to make sound and
+up to the minute inventory management decisions. The Kitting
+module integrates with AccountMateâ€™s Accounts Receivable and
+Sales Order modules.
+Lot Control
+AccountMateâ€™s Lot Control module adds the power of a complete
+lot control system to your Inventory Control. It gives you the ability
+to track units of lot controlled items from purchase or production
+through inventory and sale and allows you to keep a record of
+each lot controlled unit's expiration date. The Lot Control module
+integrates with AccountMateâ€™s Accounts Receivable, Sales Order
+and Purchase Order modules.
+Manufacturing
+With AccountMate's Manufacturing module, you can easily create
+work orders and explode jobs into virtually unlimited levels of raw
+material, labor, machine and subassembly components. You can
+record production lead time and monitor the inventory levels of
+items that you manufacture so you can effectively plan future
+production. You can break down large jobs into multiple start
+dates and steps. You can post work-in-process automatically or
+manually. It lets you print work orders, routing slips, production
+slips and a wide variety of useful reports. With it, you can monitor
+jobs, resource usage and backorders from work order creation
+through the posting of finished jobs and the cancellation of any
+unused allocated resources.
+Payroll
+AccountMate's Payroll module lets you set up records for salaried,
+hourly, time card or piece work employees and independent
+contractors. You can pay them using a variety of pay periods that
+suit your company policy and each employeeâ€™s pay and
+employment status. Deductions can be withheld from the
+employeeâ€™s payroll and matched by employers. Additional
+payments, such as bonuses and fringe benefits, can be recorded
+for each employee. The module accrues leave hours, calculates
+the workerâ€™s compensation liability, allows you to print on blank or
+preprinted check stock and supports the assignment of multiple
+states and local tax codes to each employee. It also allows you to
+process employee and federal tax deposit payments electronically.
+With an annual tax subscription, you can download the latest
+payroll tax updates that will be used to calculate payroll taxes and
+print payroll tax returns, W-2 and 1099 forms.
+Pricing Control
+If you have to quickly set up or update a complex pricing structure,
+AccountMate's Pricing Control module has the tools you need. Its
+features include price maintenance in one menu location;
+unlimited multi-level pricing set by order quantity or price code for
+each item specification and unit-of-measurement; the ability to set
+minimum prices, multi-currency pricing and pricing based on the
+most recent sales order or invoice price. This module is ideal for
+making quick and easy changes to inventory prices with minimal
+time spent on data entry. The Pricing Control module integrates
+with AccountMateâ€™s Sales Order, Accounts Receivable, Inventory
+Control and Inventory Specification modules.
+Purchase Order
+The Purchase Order module gives you more control over a full
+range of purchasing activities. You can record vendor lead times
+and plan purchases based on lead time, safety stock, reorder
+point and reorder quantity information. You have the option to
+accrue liability for purchases at the time the goods are received
+and reverse the accrual when you record the invoice in the
+Accounts Payable module. You can set the system to either track
+the accrued liability in summary per purchase order receipt or in
+detail per line item. You can also accrue landed costs and allocate
+them to purchased items. When creating purchase orders, you
+have a plethora of information about each inventory item at your
+fingertip which helps you select the right item every time. You get
+to define which items are for resale and which ones are solely for
+in-house use. And when your Purchase Order system is integrated
+with AccountMateâ€™s Accounts Payable module, you can require
+that invoices be supported by purchase orders before they can be
+recorded in the system.
+Return Merchandise Authorization
+The Return Merchandise Authorization (RMA) module allows you
+to record and monitor the progress of your customersâ€™ sales return
+transactions in AccountMate. With it, you can create RMA orders,
+receive returned items and ship the repaired, replacement or
+substitute items. AccountMate automatically updates the itemâ€™s
+on-hand, booked or defective quantity as well as the customerâ€™s
+balance. It calculates any gains or losses that result from replacing
+or substituting the customerâ€™s returned items. It also generates
+credit invoices in the Accounts Receivable module as needed.
+You can create unlimited return codes to represent the different
+return processes your organization allows.
+This module maintains a comprehensive list of customer and
+inventory records that are shared with AccountMate's Sales Order,
+Accounts Receivable and Inventory Control modules. It also
+comes with functions like Inventory Warranty Maintenance and
+Defective Inventory Adjustment for a thorough and accurate
+management of your RMA orders.
+Return to Vendor Authorization
+AccountMateâ€™s Return to Vendor Authorization (RTV) module
+offers a comprehensive system that you can use to track returns
+of purchased items to your vendors. With it, you can create RTV
+orders, return purchased items and receive the corresponding
+substitute or replacement items. During this process, the system
+updates your accrued liability for received goods along with the
+on-hand inventory quantity. If applicable, you can assign a serial
+number or lot number to the substitute or replacement items you
+receive. AccountMate computes any gains or losses that result
+from having the purchased items be replaced or substituted by the
+vendor. This module provides multiple return actions from which
+you can create unlimited return codes to represent all possible
+vendor return scenarios.
+Sales Order
+In an increasingly competitive marketplace, customers demand
+rapid response to their orders. Your ability to process these orders
+in a timely and effectual manner is essential to winning and
+retaining your customers' business.
+AccountMate's Sales Order module delivers the power of a
+complete order entry, customer and inventory management
+system so that you can always provide your customers with
+prompt and accurate service. When integrated with AccountMate's
+Accounts Receivable module, you get a complete billing-and-
+receivable system that will further enhance your ability to manage
+your customer base and inventory.
+System Manager
+The System Manager module is the control center for the entire
+AccountMate system. It controls the system environment and
+setup, desktop shortcuts to AccountMate functions and external
+applications, on-line help, multi-level password security, audit trail,
+report engine, printer and report setup, module and company
+selection, system date and all pop-up menus. It also initializes the
+system, provides easy access to Microsoft Office tools and comes
+with multi-lingual capability. AccountMate System Manager
+delivers the utmost efficiency, productivity and security to any
+business.
+Upsell Management
+AccountMateâ€™s Upsell Management module provides tools you
+can use to help boost your sales. It allows you to maintain a list of
+accessory or upsell items that can be offered to customers who
+buy specific inventory items. You can view this list and select the
+upsell items when processing customer orders. You can also track
+upsell item sales for commission purposes. You can even create a
+script or provide special instructions that your sales team can use
+as a guide when selling the upsell items. The Upsell Management
+module integrates with AccountMateâ€™s Sales Order, Accounts
+Receivable, Inventory Control and Inventory Specification modules
+to enhance your sales process.
+AccountMate Software Corporation
+1445 Technology Lane | Suite A5 | Petaluma, California 94954 | USA
+800-877-8896 | 707-774-7500 | www.accountmate.com
+Software That Fits
+Â© 2014 AccountMate Software Corporation. All rights reserved. Reproduction in whole or in part without permission is prohibited. The capabilities, system requirements
+and/or compatibility described herein are subject to change without notice. Contact AccountMate or an Authorized AccountMate Solution Provider for current information.
+AM7768_4153
+</field>
+	

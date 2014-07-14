@@ -1,0 +1,39 @@
+>
+
+	
+		<field name="slideshow_id">36626850</field>
+		<field name="slide_text">Website Review:
+In this report I am going to discuss the strengths and weaknesses of
+my website. I will also talk about the website as a whole Will also talk
+k about why I chose my colours and the colour scheme and how it
+was suited to my hero.
+Strengths:
+-One strength of my website is that I was consistent with the colours
+I was using (the three main colours being blue, red and yellow) this
+would help someone because it would resemble any other superman
+product, website or comic
+-Another thing that I kept consistent in my website was the overall
+layout of my website, so even if you clicked on a link it went on a
+page with an identical layout
+-I gave the people that are using the website an option to search; this
+would make it easier to find something that they are looking for
+Weaknesses:
+-I feel as if the website is too cluttered, like too much is going on so
+the viewer would not be able to use it as easily because they are not
+able to know what they are meant to look at.
+-throughout my website I keep the colour scheme but the shade of
+the colour is not the same
+What I could have improved:
+Small thing could have been improved, for example: in this website I
+have my background and then I tried to put text on it, but the text
+was unreadable so I had to fill the whole text box in white. Things
+like this make my website look unprofessional to the average viewer
+and it also makes the background look very unpleasant.
+General Over view &amp; conclusion:
+After making the website I tried all the links and looked at how the
+website was structured I felt as if it was satisfactory but that I could
+have done better.
+In conclusion if I were to judge how good the website was I would
+rate it a 7/10 because although I could have done better I did good.
+</field>
+	

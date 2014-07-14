@@ -1,0 +1,107 @@
+>
+
+	
+		<field name="slideshow_id">36626764</field>
+		<field name="slide_text">ANKITA ANIL NIKAM
+409/2176, Mobile : (+91) 9921912676
+Sant Tukaram Nagar, Email: ankitanikam7@gmail.com
+Pimpri Pune -411018
+CAREER OBJECTIVE
+Seeking a position where my knowledge and skills will help to contribute and add to the profitability of the
+organization while offering me more challenging opportunities, responsibilities to contribute, learn and grow as a
+dynamic professional.
+TECHNICAL SKILLS
+Certifications: ITILV3,ITIL V3 Service Transition, CCNA and CCNA Security Certified ,CCNP Routing
+Certified,F5 LTM Essentials .
+Operating Systems: Windows 2000/2003/XP/Vista
+Mailing Software: Lotus Notes, Microsoft Outlook
+Tools: Netcool, Putty,Sysedge, Sitescope,Service Now,SecureCrt ,Viewpoint ,Zenoss
+PROFESSIONAL SUMMARY:-
+â€¢ A dynamic professional with over 4 years of experience in networking field.
+â€¢ Proficient in configuration and troubleshooting of Firewalls (Cisco, Checkpoint and Net screen)
+â€¢ Have working knowledge of F5 load balancers (LTM and to some extent GTM).
+â€¢ Have done troubleshooting and configuration of Cisco ,CatOs ,Foundry , Juniper Switches
+and Routers.
+â€¢ Knowledge of routing protocols BGP, OSPF, EIGRP etc. also well versed with TCP/IP protocols.
+â€¢ Have been mentoring and training new joinees with technical and process related queries.
+Work Experience :-
+Company SunGard IT Availability Services
+Team Change Management and Network Implementation
+Current Designation Senior Engineer â€“ Network and Security
+Period From Oct 2009 till date
+ANKITA ANIL NIKAM
+SunGard IT Availability Services provides services provides IT managed services , recovery services information
+availability consulting services and business continuity management software. With approximately five million
+square feet of datacenter and operations space, SunGard Availability Services helps customers improve the
+resilience of their mission critical systems by designing, implementing and managing cost-effective solutions
+using people, process and technology to address enterprise IT availability needs.
+Have been part of the team Incident Management - &gt; Change Management -&gt; Network Implementation
+Monitoring Networks ( Incident Management) :-
+â€¢ Being the first level of escalation , handled the basic troubleshooting of alarms from Netcool, creating
+tickets and then escalating it to the appropriate team.
+Change Management (Network and Security) :-
+â€¢ Configuration Of DNS records for customer and managing their zones.
+â€¢ Configuration and troubleshooting of ACLâ€™s , object-groups, NAT/PAT, service-groups on
+ASAâ€™s,Netscreen and Checkpoint Firewalls.
+â€¢ Ipsec Site-to-Site , Remote access , SSL and webvpn creation in ASAâ€™s and Checkpoint.Tunnel based and
+route based configuration and troubleshooting on Net screen .
+â€¢ Creation of VLAN, port channel, Trunking , policy-map , Policer creation on Cisco, Junos ,CatOs and
+foundry switches.
+â€¢ Worked on Cisco and Juniper routers.
+â€¢ Worked on F5 load balancers (LTM) , which included both configuration and troubleshooting of Virtual
+Servers, Pools ,profiles and certificate and CSR generation and installation.
+Network Implementation:-
+â€¢ Co-ordination with the Project Manager and Customer to get the exact requirement of the
+customerâ€™s new implementation as well as changes to the existing network
+â€¢ Configuration and Implementation of New Managed Internet Turn-up and Basic Managed Internet Turn-
+up, by creating L3 VPNâ€™s and providing end to end connectivity.
+â€¢ Bandwidth upgrade and downgrade as per the customerâ€™s requirement.
+â€¢ Public and Private Vnet Routable IP blocks assignment and its routing on the mpls network as per
+customer requirement.
+ANKITA ANIL NIKAM
+Financial Enterprise Operations:-
+â€¢ This team was dedicated to handling the infrastructure of all the financial clients which is quite complex.
+â€¢ Troubleshooting and implementation of end-to-end connectivity.
+â€¢ Managing their DNS,firewalls,F5â€™s , routers and switches.
+â€¢ Updating Network Diagrams as well as planning the DR tests.
+Projects done under Change Management Team:-
+ïƒ¨ Cisco Firewall Migration (CFM ) :-
+â€¢ Migration of PIX firewalls 515,515E to ASA 5510,5515 and 5520 series .
+â€¢ Conversion of PIX configuration running on OS 6.0 or greater to ASA â€˜s 8.4.6 or 9.1
+â€¢ Upgradation of ASA 8.0 or 8.2 OS to 8.4.6 and latest 9.1
+â€¢ Our team has successfully upgraded more than 300 firewalls till date.
+ïƒ¨ Juniper to Cisco Firewall Migration (J2CF) :-
+â€¢ Migrating the Juniper/Netscreen firewalls , which are at the end of service to CISCO ASAâ€™s 552xx
+series.
+â€¢ Updating the converted config from Juniper to Cisco firewalls .
+â€¢ Involved Co-ordination with customer , project manager , Cisco Tac and Data centre engineers through
+out the activity.
+â€¢ We have successfully implemented more than 25 firewalls till date and have many more to come.
+Currently Working as a Network Engineer â€“II at FICO :-
+Part of Service Operations Team , which includes handling of all Incidents and Changes on daily basis.
+Devices that I have worked on :-
+Cisco Firewalls : PIX 510,515, 515E , ASA 5510,5515 ,5520 ,5505 etc.
+Netscreen : SSG5, SSG20, SSG320, SSG520M, 5200,
+ANKITA ANIL NIKAM
+Cisco Routers : 1800, 2600, 3845, 7200 and Switches L2 (Catalyst 2950) and L3 (3550, 6500, 3400).
+Checkpoint : R70.20, R70.40 and R75.40 , CheckPoint VSXS.
+Have working knowledge of FortiGate firewalls as well.
+ACHIEVEMENTS AND AWARDS
+â€¢ Received â€˜Kudosâ€™ and â€˜Spot Awards â€˜for Best Performance.
+â€¢ Have been the SPOC in handling the shift in absence of the Team Lead.
+â€¢ Have scored highest in Maintaining Ticket Quality and Documentation.
+KEY QUALITIES
+â€¢ Proactive, Skilled, young professional with personal integrity
+â€¢ Excellent Team Player
+â€¢ Ability to learn complex concepts in a fast paced environment
+PERSONAL PROFILE
+NAME : Ankita Anil Nikam
+DATE OF BIRTH : 19th
+Oct 1988
+NATIONALITY : Indian
+RELIGION : Christian
+LANGUAGES KNOWN : English, Hindi, Marathi, and Telugu
+PERMANENT ADDRESS : 409/2176,Sant Tukaram Nagar,Near Swarganga,
+Pimpri-Pune 18
+</field>
+	

@@ -1,0 +1,230 @@
+>
+
+	
+		<field name="slideshow_id">36627779</field>
+		<field name="slide_text">Shipment Request Form
+Requested Ship Date:
+Study Name: Protocol #:
+Site Number: N/A PI Contact: N/A
+Pharmacy Contact: Jaffer Gulam,
+Site Name: Yourway Transport, Inc.
+Shipping Address: 6681 Snowdrift Road
+Allentown, PA 18106
+Telephone Number: (610) 395-9198 Fax Number: (610)391-9002
+Requested CTM to ship:
+CTM Name Job # or Receiving
+ID #
+Expiration Date Quantity
+(specify bottles, kits, vials, etc.)
+Talactoferrin, Carton of
+14 vials (US)
+AGT0004 28 Feb2011 3 vials
+Talactoferrin 100mg/mL,
+15 mL (non-Catalent)
+R110183 31 Aug2013
+56
+Talactoferrin 100mg/mL,
+15 mL (non-Catalent)
+R110040 31 Aug2013 76
+Talactoferrin 100mg/mL,
+15 mL (non-Catalent)
+R110038 31 Aug 2013 24
+Talactoferrin 100mg/mL,
+15 mL (non-Catalent)
+R100938 30 Jun 2013 193
+Placebo Talactoferrin, 15
+mL (non-Catalent)
+R101602 31 Jul 2013 39
+Placebo Talactoferrin, 15
+mL (non-Catalent)
+R100820 30 Apr2013 10
+Talactoferrin 100mg/mL,
+15 mL (non-Catalent)
+R100938 30 Jun 2013 193
+Talactoferrin 100mg/mL,
+15 mL (non-Catalent)
+R100857 30 Apr 2013 219
+Talactoferrin 100mg/mL,
+15 mL (non-Catalent)
+R100772 31 May 2013 112
+Talactoferrin 100mg/mL,
+15 mL (non-Catalent)
+R120881 30 Nov 2014 4242
+Placebo Talactoferrin, 15
+mL (non-Catalent)
+R120882 31 Oct 2013 2842
+NC1089.06 Logistics â€“ NLG.1101 Form Type B
+Page 1 of 4
+Shipment Request Form
+Placebo Talactoferrin, 15
+mL (non-Catalent)
+R110184 31 Jul 2013 28
+Placebo Talactoferrin, 15
+mL (non-Catalent)
+R110039 31 Oct 2013 39
+Talactoferrin, carton of 14
+vials, retain samples
+TAG0022 31 Aug 2012 2
+Talactoferrin, carton of 14
+vials, retain samples
+TAG0023 31 Aug 2012 2
+Talactoferrin, carton of 14
+vials, retain samples
+TAG0020 31 Aug 2012 2
+Talactoferrin, carton of 14
+vials, retain samples
+TAG0024 31 Aug 2012 2
+Talactoferrin, carton of 14
+vials, retain samples
+TAG0003 31 Aug 2011 2
+Talactoferrin, carton of 14
+vials, retain samples
+TAG0018 30 Sep 2011 2
+Talactoferrin, carton of 14
+vials, retain samples
+TAG0014 30 Sep 2011 2
+Talactoferrin, carton of 14
+vials, retain samples
+TAG0013 30 Sep 2011 2
+Talactoferrin, carton of 14
+vials, retain samples
+TAG0010 30 Sep 2011 2
+Talactoferrin, carton of 14
+vials, retain samples
+TAG0011 30 Sep 2011 2
+Talactoferrin, carton of 14
+vials, retain samples
+TAG0008 30 Sep 2011 2
+Placebo Talactoferrin,
+carton of 14 vials, retain
+samples
+PAG0016 31 Aug 2012 2
+Placebo Talactoferrin,
+carton of 14 vials, retain
+samples
+PAG0015 31 Aug 2012 2
+Placebo Talactoferrin,
+carton of 14 vials, retain
+samples
+PAG0014 31 Aug 2012 2
+Placebo Talactoferrin,
+carton of 14 vials, retain
+samples
+PAG0013 31 Aug 2012 2
+Placebo Talactoferrin,
+carton of 14 vials, retain
+samples
+PAG0010 30 Sep 2011 2
+NC1089.06 Logistics â€“ NLG.1101 Form Type B
+Page 2 of 4
+Shipment Request Form
+Placebo Talactoferrin,
+carton of 14 vials, retain
+samples
+PAG0008 30 Sep 2011 2
+Placebo Talactoferrin,
+carton of 14 vials, retain
+samples
+PAG0005 30 Sep 2010 2
+Placebo Talactoferrin,
+carton of 14 vials, retain
+samples
+PAG0006 31 Aug 2010 2
+Talactoferrin, carton of 14
+vials
+TAG0006 31 May 2012 3
+Talactoferrin, carton of 14
+vials
+TAG0023 31 Aug 2012 200
+Talactoferrin, carton of 14
+vials
+TAG0024 31 Aug 2012 275
+Placebo Talactoferrin,
+carton of 14 vials
+PAG0016 31 Aug 2012 402
+Talactoferrin, carton of 14
+vials (Global) (Agennix
+sample)
+TAG0002 31 Aug2011 2
+Talactoferrin, carton of 14
+vials (Global) (Agennix
+retain sample)
+TAG0004 30 Sep 2011 2
+Talactoferrin, carton of 14
+vials (Agennix retain
+sample)
+TAG0006 31 May 2012 2
+Talactoferrin, carton of 14
+vials (Agennix retain
+sample)
+TAG0009 30 Sep 2011 2
+Talactoferrin, carton of 14
+vials (Agennix retain
+sample)
+TAG0012 30 Sep 2011 2
+Talactoferrin, carton of 14
+vials (Agennix retain
+sample)
+TAG0015 30 Sep 2011 2
+Talactoferrin, carton of 14
+vials (Global) (Agennix
+sample)
+TAG0017 30 Sep 2011 2
+Talactoferrin, carton of 14
+vials (retain sample)
+TAG0021 31 Aug 2012 2
+Placebo Talactoferrin,
+carton of 14 vials (Global)
+(Agennix sample)
+PAG0002 31 Aug 2011 2
+NC1089.06 Logistics â€“ NLG.1101 Form Type B
+Page 3 of 4
+Shipment Request Form
+Placebo Talactoferrin,
+carton of 14 vials (Global)
+(Agennix sample)
+PAG0003 31 Aug 2011 2
+Placebo Talactoferrin,
+carton of 14 vials (Global)
+(Agennix sample)
+PAG0004 30 Sep 2011 2
+Placebo Talactoferrin,
+carton of 14 vials (Global)
+(Agennix sample)
+PAG0007 30 Sep 2011 1
+Placebo Talactoferrin,
+carton of 14 vials
+(Agennix retain sample)
+PAG0009 30 Sep 2011 2
+Gel Pack, Polar Pack,
+Foam brick , FPP31
+R091879 N/A 41
+Gel Pack, Polar Pack,
+Foam brick , FPP31
+R101186 N/A 865
+Carton 8x8x3 Â½â€, white,
+roll over style
+R101922 N/A 1723
+Foam Insert 8x8x1 5/8 â€
+dark gray 14 holes, top +
+bottom pad
+R101923 N/A 985
+Foam Insert 8x8x1 5/8â€
+dark gray 14 holes, top +
+bottom pad
+R101664 N/A 17
+Placebo Talactoferrin,
+carton of 14 vials, retain
+samples
+PAG0017 30 Sep 2011 1
+Talactoferrin, carton of 14
+vials (US)
+AGT0004 28 Feb 2011 3
+Comments: N/A
+International Shipment: YES or NO (Circle one)
+If International: Courier Name/Pickup Time: ____________ /_____________
+Requested By/Date: Alexis Rogers____/ __ Oct 2012 Verified By/Date: ___________
+NC1089.06 Logistics â€“ NLG.1101 Form Type B
+Page 4 of 4
+</field>
+	

@@ -1,0 +1,34 @@
+>
+
+	
+		<field name="slideshow_id">36626806</field>
+		<field name="slide_text">Genetic Stock Structure of Argyrosomus
+inodorus
+(Griffiths &amp; Heemstra, 1995)
+* â€  M.M. MORABE, â€ C. OOSTHUIZEN, â€  A. KLOPPER &amp; â€  P. BLOOMER
+* Corresponding author
+â€  Department of Genetics, University of Pretoria, Pretoria, 0002, Republic of South Africa
+Title:
+Female philopatry and male-mediated gene flow in Argyrosomus inodorus (Griffiths &amp;
+Heemstra, 1995)
+Aim:
+To determine whether Argyrosomus inodorus represents a single or multiple stocks. Using
+mitochondrial DNA and microsatellite markers, we intended to determine the genetic
+variation between and within A. inodorus populations/morphological stocks.
+Abstract:
+Silver kob (Argyrosomus inodorus) has been divided into four morphologically distinct
+stocks, one along the Namibian coast and three in South African waters. Due to the nature
+of the marine species environment, a significant insight into their behaviours, natural history
+as well as current influences and historical population demography is needed. The present
+study examines the genetic variation at mitochondrial and microsatellite level. Mitochondrial
+DNA analyses for three populations: Namibia, southern Cape and southeastern Cape,
+shows genetic variation structuring. Microsatellite data revealed that there is a definite
+structuring between the South Africa populations and Namibian one. These results provide
+evidence that there is some form of gene flow among the South African stocks and between
+Namibia and South Africa. At the same time, the results raised the question in which
+direction the gene flow is carried out.
+Honours Research Project Report/
+Department of Genetics/
+University of Pretoria
+</field>
+	

@@ -15,7 +15,7 @@ import javax.swing.plaf.metal.MetalIconFactory.FolderIcon16;
 
 public class MinHashWindowedShinglesMultiDoc<T> {
 	
-	public final static String PATH = "/Users/prsachde/Deduplication-using-minhashing/Deduplication/resource/";
+	public final static String PATH = "/Users/prsachde/Documents/workspace/Deduplication/resource/";
 	public final static File FolderName = new File(PATH);
 	private final int NumOfHashes;
 	private final int HashValues[][];
@@ -35,6 +35,7 @@ public class MinHashWindowedShinglesMultiDoc<T> {
 
 
 	}
+	
 	private void updateCharateristicMatrix(Set<T> s1, int setindex) {
 		
 		for(T shingle: s1)
@@ -188,6 +189,7 @@ public class MinHashWindowedShinglesMultiDoc<T> {
 		int len = NumSets;
 		initSets(Sets);
 		initMinhashingMatrix(Sets);
+		
 		for(int i=0;i<len;i++)
 		{
 			for(int j=i+1;j<len;j++)
@@ -198,6 +200,8 @@ public class MinHashWindowedShinglesMultiDoc<T> {
 	}
 	public static void main(String[] args) {
 
+		long maxBytes = Runtime.getRuntime().maxMemory();
+        System.out.println("Max memory: " + maxBytes / 1024 / 1024 + "M");
 		int shingle_length = 5;
 		List<Set<String>> CompleteSet= new ArrayList<Set<String>>();
 		

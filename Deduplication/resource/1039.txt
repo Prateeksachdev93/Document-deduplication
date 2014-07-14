@@ -1,0 +1,21 @@
+>
+
+	
+		<field name="slideshow_id">36626818</field>
+		<field name="slide_text">*VilkÃ¥r og betingelser er gÃ¦ldende. Tilbuddet gÃ¦lder for flg. type kontrakter; Kontorer, delekontorer, virtuelle
+kontorer eller campus der er underskrevet fÃ¸r 31.12.2014 i et af de danske Regus centre. Kontakt venligst dit
+centerteam for detaljer.
+(+45) 33 37 72 10
+regus.dk
+Anbefal os til dit netvÃ¦rk og modtag en belÃ¸nning fra Regus.
+Anbefal Regus til dit netvÃ¦rk og du vil enten modtage et gavekort, en luksus spaweekend
+for to, en eksklusiv kasse med vin eller en iPad Mini nÃ¥r de underskriver en aftale om
+kontor, delekontor eller virtuelt kontor i et af vores ti centre i Danmark.
+Der er ingen grÃ¦nse for antallet af anbefalinger og det er lige til at gÃ¥ til.
+Kontakt dit centerteam med detaljerne
+og vi sÃ¸rger for resten
+Anbefal Regus til dit netvÃ¦rk
+og bliv belÃ¸nnet
+VÃ¦lg selv mellem fede gaver - luksus weekend, lÃ¦kker vin, en iPad eller et gavekort*
+</field>
+	

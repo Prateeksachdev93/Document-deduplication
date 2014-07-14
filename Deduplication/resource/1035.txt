@@ -1,0 +1,8 @@
+>
+
+	
+		<field name="slideshow_id">36626822</field>
+		<field name="slide_text">Tvashtar 2012
+EuphOric RUsh
+</field>
+	

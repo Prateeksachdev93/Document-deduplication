@@ -1,0 +1,53 @@
+>
+
+	
+		<field name="slideshow_id">36626789</field>
+		<field name="slide_text">Oracle Financial Applications Solutions Architect
+Job Description:
+Purpose of your role
+The role requires a skill set that encompasses primarily the full spectrum of Oracle, but also
+other Best-of-Breed applications around Finance. The role is both business (Finance) and
+Technology facing and will require excellent relationship management and communication skills
+to ensure that the â€œTrusted Advisorâ€ status to stakeholders and technology partners is
+maintained.
+This role sits in the Finance portfolio of the Central Technology team, and will focus on
+designing and architecting integrated Finance systems solutions, and defining the longer term
+Finance systems strategic roadmap and logical transition states to achieving the target state
+architecture. The appropriate matching of functional business capabilities to the relevant
+applications within a Finance architectural landscape (and vice versa) is key to this role. As
+such, a thorough and up to date understanding of product developments in the core Finance
+applications and the implications at both a logical/ functional and technical architecture level is
+vital.
+Your key accountabilities: Planning and Management, Analysis, Design, Execution
+Job Requirements:
+Your skills and experience:
+Fully abreast of recent developments in the marketplace for Finance systems and tools
+Working knowledge of Finance Systems and business functions.
+Ideally Hyperion / Oracle product sets
+Skills:
+Ability to operate effectively with limited oversight
+Excellent communication (written &amp; oral), interpersonal and relationship management skills
+Ability to work in a demanding and fast paced environment with speed and discipline
+Confident working with senior management across multiple business areas
+Ability to review proposed solutions and make recommendations
+Keen attention to detail.
+On the job experience
+Financial Services and/or Consultancy experience
+Finance applications and solutions design and implementation from a functional and technical
+perspective
+Working with (and educating) project teams in the various product sets, ensuring that business
+requirements are framed correctly and appropriately to the architectural and functional
+capabilities and the various types of Finance systems and tools
+Technical expertise
+A practical understanding of architecture design principles of TOGAF and/ or Zachman
+Framework
+A demonstrable understanding of the types of applications (and their most appropriate use) in a
+global Finance function, how they are used, and the types of business processes supported by
+various Finance toolsets.
+Specific expertise in architecting integrated solutions involving:
+â€¢ Oracle ERP, EPM suites of applications
+â€¢ Data warehouse
+â€¢ OBIEE
+â€¢ Microsoft Office: Word, PowerPoint, Excel, Vision
+</field>
+	
