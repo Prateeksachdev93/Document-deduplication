@@ -18,7 +18,7 @@ import javax.swing.plaf.metal.MetalIconFactory.FolderIcon16;
 
 public class LSH<T> {
 
-	public final static String PATH = "/Users/prsachde/testdir/custom_test/";
+	public final static String PATH = "/Users/prsachde/Documents/workspace/Deduplication/resource/custom_test/";
 	public final static File FolderName = new File(PATH);
 	private final static int NumOfHashes = 1000;
 	private final int HashValues[][];
@@ -237,24 +237,28 @@ public class LSH<T> {
 		}
 
 	}
-	
+
 	private static void PrintSimilarSets()
 	{
+		System.out.println("Printing only buckets with size > 1");
+		System.out.println("------------------------------------------");
 		for(int i=0;i<LSHMapping.size();i++)
 		{
 			for(String md5Key: LSHMapping.get(i).keySet())
 			{
 				List<Integer> DocList = LSHMapping.get(i).get(md5Key);
+
 				if(DocList.size()>1)
 				{
+					System.out.print("Bucket number " + i + " :");
 					for(Integer DocIndex : DocList)
 					{
 						System.out.print(DocIndex + " ");
-					
+
 					}
 					System.out.println();
 				}
-				
+
 
 			}
 		}
@@ -288,7 +292,7 @@ public class LSH<T> {
 					List<Integer> tempList = new ArrayList<Integer>(); 
 					tempList.add(i);
 					Mapping.put(md5key, tempList);
-//											System.out.println("added key: " + md5key);
+					//											System.out.println("added key: " + md5key);
 
 				}
 
@@ -303,41 +307,52 @@ public class LSH<T> {
 		int Setindex = NumSets - 1;
 		for(int j=0;j<NumOfHashes;j+=BandSize)
 		{
-//			LSHMapping.add(new HashMap<String, Set<Integer>>());
+			//			LSHMapping.add(new HashMap<String, Set<Integer>>());
 			Map<String,List<Integer>> Mapping = LSHMapping.get(BandIndex);
-			
-			
 
-				String HashKey = CreateStringFromIndex(Setindex,j);//index of new set added = NumSets
-				String md5key = getMd5(HashKey);
-				if(Mapping.containsKey(md5key))
-				{
-					List<Integer> tempList = new ArrayList<Integer>(); 
-					tempList = Mapping.get(md5key);
-					tempList.add(Setindex);
 
-					Mapping.put(md5key, tempList);
-					System.out.println("found key: " + md5key  + " in band number : " + BandIndex);
-//					System.out.println("size after : "+ LSHMapping.get(md5key).size());
 
-				}
-				else
-				{
-					List<Integer> tempList = new ArrayList<Integer>(); 
-					tempList.add(Setindex);
-					Mapping.put(md5key, tempList);
-//					System.out.println("added key: " + md5key);
+			String HashKey = CreateStringFromIndex(Setindex,j);//index of new set added = NumSets
+			String md5key = getMd5(HashKey);
+			if(Mapping.containsKey(md5key))//found candidate matching documents
+			{
+				List<Integer> tempList = new ArrayList<Integer>(); 
+				tempList = Mapping.get(md5key);
+				SimilarCandidates(tempList);
+				tempList.add(Setindex);
 
-				}
+				Mapping.put(md5key, tempList);
+				System.out.println("found key: " + md5key  + " in band number : " + BandIndex);
 
-			
+				//					System.out.println("size after : "+ LSHMapping.get(md5key).size());
+
+			}
+			else
+			{
+				List<Integer> tempList = new ArrayList<Integer>(); 
+				tempList.add(Setindex);
+				Mapping.put(md5key, tempList);
+				//					System.out.println("added key: " + md5key);
+
+			}
+
+
 			BandIndex++;
 		}
-	
 
-		
+
+
 	}
-		private String getMd5(String hashKey) {
+	private void SimilarCandidates(List<Integer> tempList) {
+		System.out.println("Similar Candidates");
+		System.out.println("----------------------------");
+		for(Integer Doc: tempList)
+		{
+			System.out.print(Doc + " ");
+		}
+		System.out.println();
+	}
+	private String getMd5(String hashKey) { // to convert hashkey to md5 value
 		try {
 			MessageDigest m = MessageDigest.getInstance("MD5");
 			m.reset();
@@ -362,7 +377,7 @@ public class LSH<T> {
 
 		return res;
 	}
-	
+
 	public static void main(String[] args) {
 
 		long maxBytes = Runtime.getRuntime().maxMemory();
@@ -403,7 +418,7 @@ public class LSH<T> {
 			CompleteSet.add(newSet);			
 			res.NewQuery(newSet);//to update existing state with the new set
 			res.UpdateLSHMapping();
-			PrintSimilarSets();
+			//PrintSimilarSets();
 
 
 		}
