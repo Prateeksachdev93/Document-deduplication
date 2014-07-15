@@ -250,7 +250,7 @@ public class LSH<T> {
 
 				if(DocList.size()>1)
 				{
-					System.out.print("Bucket number " + i + " :");
+					System.out.print("Band number " + i + " :");
 					for(Integer DocIndex : DocList)
 					{
 						System.out.print(DocIndex + " ");
