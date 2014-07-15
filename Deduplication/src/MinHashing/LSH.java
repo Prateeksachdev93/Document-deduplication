@@ -260,12 +260,12 @@ public class LSH<T> {
 		}
 
 	}
-	private void LSH()
+	private void LSH()// mapping md5 value of band vector to the set number
 	{
 		int BandIndex = 0;
 		for(int j=0;j<NumOfHashes;j+=BandSize)
 		{
-			LSHMapping.add(new HashMap<String, Set<Integer>>());
+			LSHMapping.add(new HashMap<String, Set<Integer>>());//every band will have different mapping buckets
 			Map<String,Set<Integer>> Mapping = LSHMapping.get(BandIndex);
 			for(int i=0;i<NumSets;i++)
 			{
@@ -279,7 +279,7 @@ public class LSH<T> {
 					tempSet.add(i);
 
 					Mapping.put(md5key, tempSet);
-											System.out.println("found key: " + md5key  + " in band number : " + BandIndex);
+					System.out.println("found key: " + md5key  + " in band number : " + BandIndex);
 					//						System.out.println("size after : "+ LSHMapping.get(md5key).size());
 
 				}
@@ -303,7 +303,7 @@ public class LSH<T> {
 		int Setindex = NumSets - 1;
 		for(int j=0;j<NumOfHashes;j+=BandSize)
 		{
-			LSHMapping.add(new HashMap<String, Set<Integer>>());
+//			LSHMapping.add(new HashMap<String, Set<Integer>>());
 			Map<String,Set<Integer>> Mapping = LSHMapping.get(BandIndex);
 			
 			
@@ -317,8 +317,8 @@ public class LSH<T> {
 					tempSet.add(Setindex);
 
 					Mapping.put(md5key, tempSet);
-											System.out.println("found key: " + md5key  + " in band number : " + BandIndex);
-					//						System.out.println("size after : "+ LSHMapping.get(md5key).size());
+					System.out.println("found key: " + md5key  + " in band number : " + BandIndex);
+//					System.out.println("size after : "+ LSHMapping.get(md5key).size());
 
 				}
 				else
@@ -326,7 +326,7 @@ public class LSH<T> {
 					Set<Integer> tempSet = new HashSet<Integer>(); 
 					tempSet.add(Setindex);
 					Mapping.put(md5key, tempSet);
-//											System.out.println("added key: " + md5key);
+//					System.out.println("added key: " + md5key);
 
 				}
 
@@ -392,7 +392,7 @@ public class LSH<T> {
 		LSH<Integer> res = new LSH<Integer>(CompleteSet);
 		res.getSimilarity(CompleteSet);
 		res.LSH();
-//		res.PrintSimilarSets();
+		res.PrintSimilarSets();
 		String queryFile;
 		Scanner in = new Scanner(System.in);
 		while(true)
@@ -403,7 +403,7 @@ public class LSH<T> {
 			CompleteSet.add(newSet);			
 			res.NewQuery(newSet);//to update existing state with the new set
 			res.UpdateLSHMapping();
-//			res.PrintSimilarSets();
+			res.PrintSimilarSets();
 
 
 		}
