@@ -27,7 +27,7 @@ public class LSH<T> {
 	private final static int shingle_length = 5;
 	private Map<Integer, boolean[]> Characteristic_Matrix = new HashMap<Integer,boolean[]>();
 	private int BandSize = 5;
-	private static List<Map<String, Set<Integer>>> LSHMapping= new ArrayList<Map<String, Set<Integer>>>();
+	private static List<Map<String, List<Integer>>> LSHMapping= new ArrayList<Map<String, List<Integer>>>();
 
 
 	private final int INF = 9999999;
@@ -244,10 +244,10 @@ public class LSH<T> {
 		{
 			for(String md5Key: LSHMapping.get(i).keySet())
 			{
-				Set<Integer> set = LSHMapping.get(i).get(md5Key);
-				if(set.size()>1)
+				List<Integer> DocList = LSHMapping.get(i).get(md5Key);
+				if(DocList.size()>1)
 				{
-					for(Integer DocIndex : set)
+					for(Integer DocIndex : DocList)
 					{
 						System.out.print(DocIndex + " ");
 					
@@ -260,13 +260,13 @@ public class LSH<T> {
 		}
 
 	}
-	private void LSH()// mapping md5 value of band vector to the set number
+	private void LSHDriver()// mapping md5 value of band vector to the set number
 	{
 		int BandIndex = 0;
 		for(int j=0;j<NumOfHashes;j+=BandSize)
 		{
-			LSHMapping.add(new HashMap<String, Set<Integer>>());//every band will have different mapping buckets
-			Map<String,Set<Integer>> Mapping = LSHMapping.get(BandIndex);
+			LSHMapping.add(new HashMap<String, List<Integer>>());//every band will have different mapping buckets
+			Map<String,List<Integer>> Mapping = LSHMapping.get(BandIndex);
 			for(int i=0;i<NumSets;i++)
 			{
 
@@ -274,20 +274,20 @@ public class LSH<T> {
 				String md5key = getMd5(HashKey);
 				if(Mapping.containsKey(md5key))
 				{
-					Set<Integer> tempSet = new HashSet<Integer>(); 
-					tempSet = Mapping.get(md5key);
-					tempSet.add(i);
+					List<Integer> tempList = new ArrayList<Integer>(); 
+					tempList = Mapping.get(md5key);
+					tempList.add(i);
 
-					Mapping.put(md5key, tempSet);
+					Mapping.put(md5key, tempList);
 					System.out.println("found key: " + md5key  + " in band number : " + BandIndex);
 					//						System.out.println("size after : "+ LSHMapping.get(md5key).size());
 
 				}
 				else
 				{
-					Set<Integer> tempSet = new HashSet<Integer>(); 
-					tempSet.add(i);
-					Mapping.put(md5key, tempSet);
+					List<Integer> tempList = new ArrayList<Integer>(); 
+					tempList.add(i);
+					Mapping.put(md5key, tempList);
 //											System.out.println("added key: " + md5key);
 
 				}
@@ -304,7 +304,7 @@ public class LSH<T> {
 		for(int j=0;j<NumOfHashes;j+=BandSize)
 		{
 //			LSHMapping.add(new HashMap<String, Set<Integer>>());
-			Map<String,Set<Integer>> Mapping = LSHMapping.get(BandIndex);
+			Map<String,List<Integer>> Mapping = LSHMapping.get(BandIndex);
 			
 			
 
@@ -312,20 +312,20 @@ public class LSH<T> {
 				String md5key = getMd5(HashKey);
 				if(Mapping.containsKey(md5key))
 				{
-					Set<Integer> tempSet = new HashSet<Integer>(); 
-					tempSet = Mapping.get(md5key);
-					tempSet.add(Setindex);
+					List<Integer> tempList = new ArrayList<Integer>(); 
+					tempList = Mapping.get(md5key);
+					tempList.add(Setindex);
 
-					Mapping.put(md5key, tempSet);
+					Mapping.put(md5key, tempList);
 					System.out.println("found key: " + md5key  + " in band number : " + BandIndex);
 //					System.out.println("size after : "+ LSHMapping.get(md5key).size());
 
 				}
 				else
 				{
-					Set<Integer> tempSet = new HashSet<Integer>(); 
-					tempSet.add(Setindex);
-					Mapping.put(md5key, tempSet);
+					List<Integer> tempList = new ArrayList<Integer>(); 
+					tempList.add(Setindex);
+					Mapping.put(md5key, tempList);
 //					System.out.println("added key: " + md5key);
 
 				}
@@ -391,8 +391,8 @@ public class LSH<T> {
 		}
 		LSH<Integer> res = new LSH<Integer>(CompleteSet);
 		res.getSimilarity(CompleteSet);
-		res.LSH();
-		res.PrintSimilarSets();
+		res.LSHDriver();
+		PrintSimilarSets();
 		String queryFile;
 		Scanner in = new Scanner(System.in);
 		while(true)
@@ -403,7 +403,7 @@ public class LSH<T> {
 			CompleteSet.add(newSet);			
 			res.NewQuery(newSet);//to update existing state with the new set
 			res.UpdateLSHMapping();
-			res.PrintSimilarSets();
+			PrintSimilarSets();
 
 
 		}
