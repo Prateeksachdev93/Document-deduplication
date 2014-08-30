@@ -12,3 +12,7 @@ Locality sensitive hashing (LSH) is also implemented to optimize the number of c
 
 Blog Link: http://deduplication.tumblr.com/
 
+#shingling
+#minhashing
+#deduplication
+#LocalitySensitiveHashing
